@@ -19,7 +19,6 @@ Mr. Ihor Kendiukhov, University of Tuebingen, Computer Science Department
 Email: kendiukhov@gmail.com
 
 ## Key References
-- Ihor's LessWrong article on biotech-based intelligence augmentation
 - Savage et al. 2018 — Intelligence GWAS meta-analysis
 - Theodoris et al. 2023 — Geneformer
 - Cui et al. 2024 — scGPT
