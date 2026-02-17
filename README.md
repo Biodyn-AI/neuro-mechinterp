@@ -5,7 +5,7 @@ Use single-cell foundation models (Geneformer/scGPT) to perform in-silico pertur
 on brain tissue data, identifying novel gene targets that shift cell states toward high-cognition 
 expression profiles. Cross-reference with drug databases for repurposing candidates.
 
-## Approach (Direction 2)
+## Approach 
 1. Obtain brain single-cell RNA-seq data (DLPFC pyramidal neurons, astrocytes, oligodendrocytes)
 2. Obtain intelligence GWAS summary statistics (Savage et al. 2018, ~1000 loci)
 3. Use Geneformer or scGPT for virtual gene perturbation (knockout/overexpression of all ~20K genes)
