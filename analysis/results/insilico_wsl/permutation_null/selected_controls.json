@@ -1,0 +1,1518 @@
+{
+  "selected_controls": [
+    {
+      "ensembl": "ENSG00000185739",
+      "symbol": "SRL",
+      "frequency": 0.01624709873236922,
+      "bin": 0,
+      "matched_to": [
+        "SLC6A4"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000168273",
+      "symbol": "UQCC5",
+      "frequency": 0.23022674522406714,
+      "bin": 0,
+      "matched_to": [
+        "SYN1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000188343",
+      "symbol": "CIBAR1",
+      "frequency": 0.24424209962506696,
+      "bin": 0,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000122034",
+      "symbol": "GTF3A",
+      "frequency": 0.23352972683449383,
+      "bin": 0,
+      "matched_to": [
+        "SYN1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000119929",
+      "symbol": "CUTC",
+      "frequency": 0.21630066059632208,
+      "bin": 0,
+      "matched_to": [
+        "SYN1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000182827",
+      "symbol": "ACBD3",
+      "frequency": 0.37029101946081056,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "SCN1A",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000135678",
+      "symbol": "CPM",
+      "frequency": 0.415550794500982,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000164919",
+      "symbol": "COX6C",
+      "frequency": 0.27834315300839135,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000185728",
+      "symbol": "YTHDF3",
+      "frequency": 0.41269416175682916,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000049860",
+      "symbol": "HEXB",
+      "frequency": 0.2886091769326906,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000106993",
+      "symbol": "CDC37L1",
+      "frequency": 0.27084449205499017,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000182831",
+      "symbol": "HAPSTR1",
+      "frequency": 0.3341367612926263,
+      "bin": 1,
+      "matched_to": [
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000136243",
+      "symbol": "NUP42",
+      "frequency": 0.4116229244777718,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000110074",
+      "symbol": "FOXRED1",
+      "frequency": 0.30655240135690054,
+      "bin": 1,
+      "matched_to": [
+        "SHANK3",
+        "FMR1",
+        "SYN1",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000095066",
+      "symbol": "HOOK2",
+      "frequency": 0.3713622567398679,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "SCN1A",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000144290",
+      "symbol": "SLC4A10",
+      "frequency": 0.44938403856454207,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000136002",
+      "symbol": "ARHGEF4",
+      "frequency": 0.44358150330298163,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000196511",
+      "symbol": "TPK1",
+      "frequency": 0.42635243706480985,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000162729",
+      "symbol": "IGSF8",
+      "frequency": 0.34413497589716124,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000124356",
+      "symbol": "STAMBP",
+      "frequency": 0.36636314943760045,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "SCN1A",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000136842",
+      "symbol": "TMOD1",
+      "frequency": 0.3431530083913587,
+      "bin": 1,
+      "matched_to": [
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000248333",
+      "symbol": "CDK11B",
+      "frequency": 0.2614711658632387,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000114982",
+      "symbol": "KANSL3",
+      "frequency": 0.4427780753436886,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000101161",
+      "symbol": "PRPF6",
+      "frequency": 0.3282449562578111,
+      "bin": 1,
+      "matched_to": [
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000070413",
+      "symbol": "DGCR2",
+      "frequency": 0.4566148901981789,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000106278",
+      "symbol": "PTPRZ1",
+      "frequency": 0.29976789858953756,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000168028",
+      "symbol": "RPSA",
+      "frequency": 0.2730762363863596,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000008018",
+      "symbol": "PSMB1",
+      "frequency": 0.2766470273165506,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000140650",
+      "symbol": "PMM2",
+      "frequency": 0.3284234958043207,
+      "bin": 1,
+      "matched_to": [
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000203880",
+      "symbol": "PCMTD2",
+      "frequency": 0.3776111408677022,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "SCN1A",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000135823",
+      "symbol": "STX6",
+      "frequency": 0.39805391894304587,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000116906",
+      "symbol": "GNPAT",
+      "frequency": 0.3260132119264417,
+      "bin": 1,
+      "matched_to": [
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000110321",
+      "symbol": "EIF4G2",
+      "frequency": 0.30458846634529546,
+      "bin": 1,
+      "matched_to": [
+        "SHANK3",
+        "FMR1",
+        "SYN1",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000113327",
+      "symbol": "GABRG2",
+      "frequency": 0.36814854490269594,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "SCN1A",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000176473",
+      "symbol": "WDR25",
+      "frequency": 0.2862881628280664,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000167380",
+      "symbol": "ZNF226",
+      "frequency": 0.25129441171219424,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000162434",
+      "symbol": "JAK1",
+      "frequency": 0.4717907516514908,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000173992",
+      "symbol": "CCS",
+      "frequency": 0.2510266023924299,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000119689",
+      "symbol": "DLST",
+      "frequency": 0.2752187109444742,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000215252",
+      "symbol": "GOLGA8B",
+      "frequency": 0.43608284234958045,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000025156",
+      "symbol": "HSF2",
+      "frequency": 0.2495982860203535,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000167460",
+      "symbol": "TPM4",
+      "frequency": 0.4005534725941796,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000065665",
+      "symbol": "SEC61A2",
+      "frequency": 0.4043028030708802,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A",
+        "COMT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000110713",
+      "symbol": "NUP98",
+      "frequency": 0.5158007498660954,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000039123",
+      "symbol": "MTREX",
+      "frequency": 0.6085520442778075,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000164715",
+      "symbol": "LMTK2",
+      "frequency": 0.4972326370291019,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000135643",
+      "symbol": "KCNMB4",
+      "frequency": 0.5116050705231209,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000174839",
+      "symbol": "DENND6A",
+      "frequency": 0.5305302624531334,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2A",
+        "CREB1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000154822",
+      "symbol": "PLCL2",
+      "frequency": 0.5191930012497769,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000133943",
+      "symbol": "DGLUCY",
+      "frequency": 0.5089269773254776,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000168314",
+      "symbol": "MOBP",
+      "frequency": 0.5615961435457953,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "GRIN2A",
+        "CREB1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000172766",
+      "symbol": "NAA16",
+      "frequency": 0.5027673629708981,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000136051",
+      "symbol": "WASHC4",
+      "frequency": 0.4909837529012676,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000186591",
+      "symbol": "UBE2H",
+      "frequency": 0.6999642920906981,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000158079",
+      "symbol": "PTPDC1",
+      "frequency": 0.4963399392965542,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000035687",
+      "symbol": "ADSS2",
+      "frequency": 0.5164256382788788,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000175170",
+      "symbol": "FAM182B",
+      "frequency": 0.5250848062845921,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2A",
+        "CREB1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000158019",
+      "symbol": "BABAM2",
+      "frequency": 0.7071951437243349,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000168818",
+      "symbol": "STX18",
+      "frequency": 0.49535797179075164,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000089916",
+      "symbol": "GPATCH2L",
+      "frequency": 0.5906088198535976,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "NEGR1",
+        "FOXO3",
+        "CREB1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000013441",
+      "symbol": "CLK1",
+      "frequency": 0.4922335297268345,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000196220",
+      "symbol": "SRGAP3",
+      "frequency": 0.6880914122478129,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000160613",
+      "symbol": "PCSK7",
+      "frequency": 0.5507945009819675,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "GRIN2A",
+        "CREB1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000148180",
+      "symbol": "GSN",
+      "frequency": 0.6684520621317622,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000147649",
+      "symbol": "MTDH",
+      "frequency": 0.7079093019103732,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000102753",
+      "symbol": "KPNA3",
+      "frequency": 0.5391001606855919,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "GRIN2A",
+        "CREB1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000183580",
+      "symbol": "FBXL7",
+      "frequency": 0.6425638278878771,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000118507",
+      "symbol": "AKAP7",
+      "frequency": 0.49482235315122297,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000101639",
+      "symbol": "CEP192",
+      "frequency": 0.6674700946259596,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000123607",
+      "symbol": "TTC21B",
+      "frequency": 0.5546331012319229,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "GRIN2A",
+        "CREB1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000151694",
+      "symbol": "ADAM17",
+      "frequency": 0.5253526156043563,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2A",
+        "CREB1"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000196199",
+      "symbol": "MPHOSPH8",
+      "frequency": 0.7090698089626852,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000179104",
+      "symbol": "TMTC2",
+      "frequency": 0.821906802356722,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000087095",
+      "symbol": "NLK",
+      "frequency": 0.8254775932869131,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000114757",
+      "symbol": "PEX5L",
+      "frequency": 0.872879842885199,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000135090",
+      "symbol": "TAOK3",
+      "frequency": 0.8768969826816639,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000109458",
+      "symbol": "GAB1",
+      "frequency": 0.8145866809498303,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000144535",
+      "symbol": "DIS3L2",
+      "frequency": 0.7641492590608819,
+      "bin": 3,
+      "matched_to": [
+        "NRXN1",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000129636",
+      "symbol": "ITFG1",
+      "frequency": 0.8630601678271738,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000106443",
+      "symbol": "PHF14",
+      "frequency": 0.7612926263167291,
+      "bin": 3,
+      "matched_to": [
+        "NRXN1",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000162869",
+      "symbol": "PPP1R21",
+      "frequency": 0.7161221210498125,
+      "bin": 3,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "NLGN1",
+        "MAPT",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000131558",
+      "symbol": "EXOC4",
+      "frequency": 0.8838600249955365,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000152127",
+      "symbol": "MGAT5",
+      "frequency": 0.7666488127120157,
+      "bin": 3,
+      "matched_to": [
+        "NRXN1",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000153187",
+      "symbol": "HNRNPU",
+      "frequency": 0.7168362792358507,
+      "bin": 3,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "NLGN1",
+        "MAPT",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000078403",
+      "symbol": "MLLT10",
+      "frequency": 0.7881628280664167,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "NRXN1",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000103657",
+      "symbol": "HERC1",
+      "frequency": 0.8579717907516515,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000181722",
+      "symbol": "ZBTB20",
+      "frequency": 0.9173361899660775,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000173273",
+      "symbol": "TNKS",
+      "frequency": 0.8625245491876451,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000139668",
+      "symbol": "WDFY2",
+      "frequency": 0.7720049991073022,
+      "bin": 3,
+      "matched_to": [
+        "NRXN1",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000134884",
+      "symbol": "ARGLU1",
+      "frequency": 0.8752008569898232,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000064393",
+      "symbol": "HIPK2",
+      "frequency": 0.8070880199964292,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000151914",
+      "symbol": "DST",
+      "frequency": 0.9840207105873952,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000130449",
+      "symbol": "ZSWIM6",
+      "frequency": 0.9528655597214784,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000157827",
+      "symbol": "FMNL2",
+      "frequency": 0.9798250312444207,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000150672",
+      "symbol": "DLG2",
+      "frequency": 0.9803606498839493,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000160584",
+      "symbol": "SIK3",
+      "frequency": 0.9806284592037137,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000128512",
+      "symbol": "DOCK4",
+      "frequency": 0.9591144438493127,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000169554",
+      "symbol": "ZEB2",
+      "frequency": 0.9472415640064275,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000149294",
+      "symbol": "NCAM1",
+      "frequency": 0.9580432065702553,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    },
+    {
+      "ensembl": "ENSG00000163539",
+      "symbol": "CLASP2",
+      "frequency": 0.9724156400642743,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ]
+    }
+  ],
+  "bin_info": {
+    "bin_edges": [
+      0.014068916264952689,
+      0.2472058560971255,
+      0.48034279592929835,
+      0.7134797357614712,
+      0.9466166755936439,
+      1.1797536154258168
+    ],
+    "genes_per_bin": {
+      "2": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "GRIN2A",
+        "FOXO3",
+        "CREB1"
+      ],
+      "1": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "SYN1",
+        "SCN1A",
+        "COMT"
+      ],
+      "4": [
+        "CADM2",
+        "TCF4"
+      ],
+      "3": [
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "MAPT"
+      ],
+      "0": [
+        "SLC6A4"
+      ]
+    },
+    "samples_per_bin": {
+      "0": 5,
+      "1": 38,
+      "2": 29,
+      "3": 19,
+      "4": 9
+    },
+    "intel_bins": {
+      "MEF2C": {
+        "bin": 2,
+        "bin_range": [
+          0.48034279592929835,
+          0.7134797357614712
+        ]
+      },
+      "BDNF": {
+        "bin": 2,
+        "bin_range": [
+          0.48034279592929835,
+          0.7134797357614712
+        ]
+      },
+      "GRIN2B": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "CADM2": {
+        "bin": 4,
+        "bin_range": [
+          0.9466166755936439,
+          1.1797536154258168
+        ]
+      },
+      "NRXN1": {
+        "bin": 2,
+        "bin_range": [
+          0.48034279592929835,
+          0.7134797357614712
+        ]
+      },
+      "CAMK2A": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "GRIN2A": {
+        "bin": 2,
+        "bin_range": [
+          0.48034279592929835,
+          0.7134797357614712
+        ]
+      },
+      "SHANK3": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "HOMER1": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "APP": {
+        "bin": 3,
+        "bin_range": [
+          0.7134797357614712,
+          0.9466166755936439
+        ]
+      },
+      "NEGR1": {
+        "bin": 3,
+        "bin_range": [
+          0.7134797357614712,
+          0.9466166755936439
+        ]
+      },
+      "NLGN1": {
+        "bin": 3,
+        "bin_range": [
+          0.7134797357614712,
+          0.9466166755936439
+        ]
+      },
+      "TCF4": {
+        "bin": 4,
+        "bin_range": [
+          0.9466166755936439,
+          1.1797536154258168
+        ]
+      },
+      "MAPT": {
+        "bin": 3,
+        "bin_range": [
+          0.7134797357614712,
+          0.9466166755936439
+        ]
+      },
+      "FOXO3": {
+        "bin": 2,
+        "bin_range": [
+          0.48034279592929835,
+          0.7134797357614712
+        ]
+      },
+      "CREB1": {
+        "bin": 2,
+        "bin_range": [
+          0.48034279592929835,
+          0.7134797357614712
+        ]
+      },
+      "FMR1": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "SYN1": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "SCN1A": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "SLC6A4": {
+        "bin": 0,
+        "bin_range": [
+          0.014068916264952689,
+          0.2472058560971255
+        ]
+      },
+      "COMT": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      }
+    }
+  }
+}

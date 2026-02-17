@@ -1,0 +1,851 @@
+{
+  "SRL": {
+    "ensembl": "ENSG00000185739",
+    "symbol": "SRL",
+    "mean_shift": 0.0023263096809387207,
+    "std_shift": 0.0,
+    "n_cells": 1,
+    "status": "success",
+    "time_seconds": 24.231724739074707,
+    "bin": 0,
+    "frequency": 0.01624709873236922,
+    "matched_to": [
+      "SLC6A4"
+    ]
+  },
+  "UQCC5": {
+    "ensembl": "ENSG00000168273",
+    "symbol": "UQCC5",
+    "mean_shift": 0.014434092574649386,
+    "std_shift": 0.007001648526554784,
+    "n_cells": 63,
+    "status": "success",
+    "time_seconds": 59.218021631240845,
+    "bin": 0,
+    "frequency": 0.23022674522406714,
+    "matched_to": [
+      "SYN1"
+    ]
+  },
+  "KCMF1": {
+    "ensembl": "ENSG00000176407",
+    "symbol": "KCMF1",
+    "mean_shift": 0.013364417772544058,
+    "std_shift": 0.0059428651387665845,
+    "n_cells": 152,
+    "status": "success",
+    "time_seconds": 60.3231155872345,
+    "bin": 1,
+    "frequency": 0.4675058025352616,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "GRIN2A",
+      "HOMER1",
+      "CREB1",
+      "SCN1A"
+    ]
+  },
+  "ACO1": {
+    "ensembl": "ENSG00000122729",
+    "symbol": "ACO1",
+    "mean_shift": 0.015771751431213028,
+    "std_shift": 0.004493044014448547,
+    "n_cells": 87,
+    "status": "success",
+    "time_seconds": 30.869110345840454,
+    "bin": 1,
+    "frequency": 0.3009284056418497,
+    "matched_to": [
+      "FMR1",
+      "SYN1",
+      "COMT"
+    ]
+  },
+  "SAR1B": {
+    "ensembl": "ENSG00000152700",
+    "symbol": "SAR1B",
+    "mean_shift": 0.01360899716053369,
+    "std_shift": 0.005358175260387861,
+    "n_cells": 106,
+    "status": "success",
+    "time_seconds": 46.9489164352417,
+    "bin": 1,
+    "frequency": 0.34699160864131406,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "FMR1",
+      "COMT"
+    ]
+  },
+  "COLQ": {
+    "ensembl": "ENSG00000206561",
+    "symbol": "COLQ",
+    "mean_shift": 0.008110292933203957,
+    "std_shift": 0.005650513896649818,
+    "n_cells": 44,
+    "status": "success",
+    "time_seconds": 31.297775268554688,
+    "bin": 1,
+    "frequency": 0.36895197286198894,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "SCN1A",
+      "COMT"
+    ]
+  },
+  "ACBD3": {
+    "ensembl": "ENSG00000182827",
+    "symbol": "ACBD3",
+    "mean_shift": 0.013592898845672607,
+    "std_shift": 0.005811475190285645,
+    "n_cells": 106,
+    "status": "success",
+    "time_seconds": 78.68294882774353,
+    "bin": 1,
+    "frequency": 0.37029101946081056,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "SCN1A",
+      "COMT"
+    ]
+  },
+  "CPM": {
+    "ensembl": "ENSG00000135678",
+    "symbol": "CPM",
+    "mean_shift": 0.01545102287221838,
+    "std_shift": 0.006608185951175687,
+    "n_cells": 162,
+    "status": "success",
+    "time_seconds": 107.50326895713806,
+    "bin": 1,
+    "frequency": 0.415550794500982,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A",
+      "COMT"
+    ]
+  },
+  "COX6C": {
+    "ensembl": "ENSG00000164919",
+    "symbol": "COX6C",
+    "mean_shift": 0.004207317645733173,
+    "std_shift": 0.003829686524607664,
+    "n_cells": 13,
+    "status": "success",
+    "time_seconds": 28.568515300750732,
+    "bin": 1,
+    "frequency": 0.27834315300839135,
+    "matched_to": [
+      "FMR1",
+      "SYN1"
+    ]
+  },
+  "YTHDF3": {
+    "ensembl": "ENSG00000185728",
+    "symbol": "YTHDF3",
+    "mean_shift": 0.012256815800300011,
+    "std_shift": 0.0057101262194236635,
+    "n_cells": 130,
+    "status": "success",
+    "time_seconds": 112.17852997779846,
+    "bin": 1,
+    "frequency": 0.41269416175682916,
+    "matched_to": [
+      "MEF2C",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A",
+      "COMT"
+    ]
+  },
+  "HEXB": {
+    "ensembl": "ENSG00000049860",
+    "symbol": "HEXB",
+    "mean_shift": 0.013822201369465261,
+    "std_shift": 0.008415373968348369,
+    "n_cells": 69,
+    "status": "success",
+    "time_seconds": 51.60629987716675,
+    "bin": 1,
+    "frequency": 0.2886091769326906,
+    "matched_to": [
+      "FMR1",
+      "SYN1",
+      "COMT"
+    ]
+  },
+  "CDC37L1": {
+    "ensembl": "ENSG00000106993",
+    "symbol": "CDC37L1",
+    "mean_shift": 0.012010042555630207,
+    "std_shift": 0.005904275808824521,
+    "n_cells": 64,
+    "status": "success",
+    "time_seconds": 50.75779628753662,
+    "bin": 1,
+    "frequency": 0.27084449205499017,
+    "matched_to": [
+      "FMR1",
+      "SYN1"
+    ]
+  },
+  "HAPSTR1": {
+    "ensembl": "ENSG00000182831",
+    "symbol": "HAPSTR1",
+    "mean_shift": 0.012593839670482434,
+    "std_shift": 0.005931995596641009,
+    "n_cells": 95,
+    "status": "success",
+    "time_seconds": 37.4936261177063,
+    "bin": 1,
+    "frequency": 0.3341367612926263,
+    "matched_to": [
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "FMR1",
+      "COMT"
+    ]
+  },
+  "NUP42": {
+    "ensembl": "ENSG00000136243",
+    "symbol": "NUP42",
+    "mean_shift": 0.014795739720337582,
+    "std_shift": 0.00573648029304952,
+    "n_cells": 137,
+    "status": "success",
+    "time_seconds": 108.9230604171753,
+    "bin": 1,
+    "frequency": 0.4116229244777718,
+    "matched_to": [
+      "MEF2C",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A",
+      "COMT"
+    ]
+  },
+  "FOXRED1": {
+    "ensembl": "ENSG00000110074",
+    "symbol": "FOXRED1",
+    "mean_shift": 0.01314498907254066,
+    "std_shift": 0.005933656682684777,
+    "n_cells": 81,
+    "status": "success",
+    "time_seconds": 40.50372648239136,
+    "bin": 1,
+    "frequency": 0.30655240135690054,
+    "matched_to": [
+      "SHANK3",
+      "FMR1",
+      "SYN1",
+      "COMT"
+    ]
+  },
+  "HOOK2": {
+    "ensembl": "ENSG00000095066",
+    "symbol": "HOOK2",
+    "mean_shift": 0.013381686855535039,
+    "std_shift": 0.005864831514646126,
+    "n_cells": 122,
+    "status": "success",
+    "time_seconds": 51.279236793518066,
+    "bin": 1,
+    "frequency": 0.3713622567398679,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "SCN1A",
+      "COMT"
+    ]
+  },
+  "SLC4A10": {
+    "ensembl": "ENSG00000144290",
+    "symbol": "SLC4A10",
+    "mean_shift": 0.01883135363459587,
+    "std_shift": 0.006346129954276666,
+    "n_cells": 192,
+    "status": "success",
+    "time_seconds": 152.5559859275818,
+    "bin": 1,
+    "frequency": 0.44938403856454207,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A"
+    ]
+  },
+  "ARHGEF4": {
+    "ensembl": "ENSG00000136002",
+    "symbol": "ARHGEF4",
+    "mean_shift": 0.014858346119105258,
+    "std_shift": 0.006614020572422754,
+    "n_cells": 107,
+    "status": "success",
+    "time_seconds": 294.33764696121216,
+    "bin": 1,
+    "frequency": 0.44358150330298163,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A"
+    ]
+  },
+  "TPK1": {
+    "ensembl": "ENSG00000196511",
+    "symbol": "TPK1",
+    "mean_shift": 0.01602130801212497,
+    "std_shift": 0.006012412073531482,
+    "n_cells": 164,
+    "status": "success",
+    "time_seconds": 217.71477341651917,
+    "bin": 1,
+    "frequency": 0.42635243706480985,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A"
+    ]
+  },
+  "IGSF8": {
+    "ensembl": "ENSG00000162729",
+    "symbol": "IGSF8",
+    "mean_shift": 0.013000866613889996,
+    "std_shift": 0.004800212581596933,
+    "n_cells": 95,
+    "status": "success",
+    "time_seconds": 123.96417784690857,
+    "bin": 1,
+    "frequency": 0.34413497589716124,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "FMR1",
+      "COMT"
+    ]
+  },
+  "STAMBP": {
+    "ensembl": "ENSG00000124356",
+    "symbol": "STAMBP",
+    "mean_shift": 0.014592481984032525,
+    "std_shift": 0.005396386030286002,
+    "n_cells": 135,
+    "status": "success",
+    "time_seconds": 184.42444276809692,
+    "bin": 1,
+    "frequency": 0.36636314943760045,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "SCN1A",
+      "COMT"
+    ]
+  },
+  "PARG": {
+    "ensembl": "ENSG00000227345",
+    "symbol": "PARG",
+    "mean_shift": 0.015626814312600563,
+    "std_shift": 0.005388941228145232,
+    "n_cells": 271,
+    "status": "success",
+    "time_seconds": 204.41005635261536,
+    "bin": 2,
+    "frequency": 0.6214961613997501,
+    "matched_to": [
+      "BDNF",
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ]
+  },
+  "SMURF1": {
+    "ensembl": "ENSG00000198742",
+    "symbol": "SMURF1",
+    "mean_shift": 0.013910213538578579,
+    "std_shift": 0.0067465407374670645,
+    "n_cells": 210,
+    "status": "success",
+    "time_seconds": 168.1621434688568,
+    "bin": 2,
+    "frequency": 0.7040707016604177,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ]
+  },
+  "DCAF6": {
+    "ensembl": "ENSG00000143164",
+    "symbol": "DCAF6",
+    "mean_shift": 0.015101199466470294,
+    "std_shift": 0.008038223304328285,
+    "n_cells": 211,
+    "status": "success",
+    "time_seconds": 161.1655788421631,
+    "bin": 2,
+    "frequency": 0.5467773611855026,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "NRXN1",
+      "GRIN2A",
+      "CREB1"
+    ]
+  },
+  "U2SURP": {
+    "ensembl": "ENSG00000163714",
+    "symbol": "U2SURP",
+    "mean_shift": 0.012958996204866303,
+    "std_shift": 0.0063309229909291305,
+    "n_cells": 288,
+    "status": "success",
+    "time_seconds": 221.01755595207214,
+    "bin": 2,
+    "frequency": 0.7018389573290483,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ]
+  },
+  "TNRC18": {
+    "ensembl": "ENSG00000182095",
+    "symbol": "TNRC18",
+    "mean_shift": 0.010920772681365142,
+    "std_shift": 0.006456722944178723,
+    "n_cells": 148,
+    "status": "success",
+    "time_seconds": 123.13719606399536,
+    "bin": 2,
+    "frequency": 0.5723085163363685,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "NRXN1",
+      "GRIN2A",
+      "FOXO3",
+      "CREB1"
+    ]
+  },
+  "ZNF536": {
+    "ensembl": "ENSG00000198597",
+    "symbol": "ZNF536",
+    "mean_shift": 0.018321317036946616,
+    "std_shift": 0.004981977920161813,
+    "n_cells": 300,
+    "status": "success",
+    "time_seconds": 219.56721115112305,
+    "bin": 2,
+    "frequency": 0.6658632387073736,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ]
+  },
+  "DOCK1": {
+    "ensembl": "ENSG00000150760",
+    "symbol": "DOCK1",
+    "mean_shift": 0.018243706951576493,
+    "std_shift": 0.005216140615309397,
+    "n_cells": 263,
+    "status": "success",
+    "time_seconds": 193.1895878314972,
+    "bin": 2,
+    "frequency": 0.6352437064809855,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ]
+  },
+  "RPTOR": {
+    "ensembl": "ENSG00000141564",
+    "symbol": "RPTOR",
+    "mean_shift": 0.013371834170676973,
+    "std_shift": 0.006179149164050459,
+    "n_cells": 253,
+    "status": "success",
+    "time_seconds": 200.24941444396973,
+    "bin": 2,
+    "frequency": 0.692822710230316,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ]
+  },
+  "DYNC1I2": {
+    "ensembl": "ENSG00000077380",
+    "symbol": "DYNC1I2",
+    "mean_shift": 0.014707340875687583,
+    "std_shift": 0.007100769986630276,
+    "n_cells": 277,
+    "status": "success",
+    "time_seconds": 206.0447118282318,
+    "bin": 2,
+    "frequency": 0.6744331369398322,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ]
+  },
+  "FA2H": {
+    "ensembl": "ENSG00000103089",
+    "symbol": "FA2H",
+    "mean_shift": 0.01721950903021056,
+    "std_shift": 0.005613559242912705,
+    "n_cells": 232,
+    "status": "success",
+    "time_seconds": 174.70252966880798,
+    "bin": 2,
+    "frequency": 0.5216925549009106,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ]
+  },
+  "TMEM178B": {
+    "ensembl": "ENSG00000261115",
+    "symbol": "TMEM178B",
+    "mean_shift": 0.017141681615547213,
+    "std_shift": 0.006873726827765327,
+    "n_cells": 223,
+    "status": "success",
+    "time_seconds": 175.39079093933105,
+    "bin": 2,
+    "frequency": 0.5641849669701839,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "NRXN1",
+      "GRIN2A",
+      "CREB1"
+    ]
+  },
+  "CDH2": {
+    "ensembl": "ENSG00000170558",
+    "symbol": "CDH2",
+    "mean_shift": 0.010395881400179507,
+    "std_shift": 0.0071054158444938485,
+    "n_cells": 134,
+    "status": "success",
+    "time_seconds": 116.2247519493103,
+    "bin": 2,
+    "frequency": 0.5986430994465274,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ]
+  },
+  "PHF3": {
+    "ensembl": "ENSG00000118482",
+    "symbol": "PHF3",
+    "mean_shift": 0.013643974943678508,
+    "std_shift": 0.0067029799260193874,
+    "n_cells": 258,
+    "status": "success",
+    "time_seconds": 198.93983435630798,
+    "bin": 2,
+    "frequency": 0.675682913765399,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ]
+  },
+  "NUP98": {
+    "ensembl": "ENSG00000110713",
+    "symbol": "NUP98",
+    "mean_shift": 0.012368585752404255,
+    "std_shift": 0.007283293377448689,
+    "n_cells": 161,
+    "status": "success",
+    "time_seconds": 142.01126909255981,
+    "bin": 2,
+    "frequency": 0.5158007498660954,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ]
+  },
+  "TUT4": {
+    "ensembl": "ENSG00000134744",
+    "symbol": "TUT4",
+    "mean_shift": 0.014549555622528647,
+    "std_shift": 0.006179084813587154,
+    "n_cells": 321,
+    "status": "success",
+    "time_seconds": 231.7194423675537,
+    "bin": 3,
+    "frequency": 0.8074450990894483,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT",
+      "FOXO3"
+    ]
+  },
+  "SRPK2": {
+    "ensembl": "ENSG00000135250",
+    "symbol": "SRPK2",
+    "mean_shift": 0.019233802865060528,
+    "std_shift": 0.0048768177607259825,
+    "n_cells": 445,
+    "status": "success",
+    "time_seconds": 315.6803262233734,
+    "bin": 3,
+    "frequency": 0.9157293340474916,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NLGN1",
+      "TCF4",
+      "MAPT"
+    ]
+  },
+  "FBXL17": {
+    "ensembl": "ENSG00000145743",
+    "symbol": "FBXL17",
+    "mean_shift": 0.01624756481176541,
+    "std_shift": 0.007156694382066071,
+    "n_cells": 324,
+    "status": "success",
+    "time_seconds": 247.56665706634521,
+    "bin": 3,
+    "frequency": 0.7536154258168184,
+    "matched_to": [
+      "NRXN1",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "MAPT",
+      "FOXO3"
+    ]
+  },
+  "PKN2": {
+    "ensembl": "ENSG00000065243",
+    "symbol": "PKN2",
+    "mean_shift": 0.014812013833625768,
+    "std_shift": 0.007077955557402449,
+    "n_cells": 301,
+    "status": "success",
+    "time_seconds": 223.1250081062317,
+    "bin": 3,
+    "frequency": 0.766113194072487,
+    "matched_to": [
+      "NRXN1",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT",
+      "FOXO3"
+    ]
+  },
+  "ITFG1": {
+    "ensembl": "ENSG00000129636",
+    "symbol": "ITFG1",
+    "mean_shift": 0.017189529980476174,
+    "std_shift": 0.00584425649943052,
+    "n_cells": 411,
+    "status": "success",
+    "time_seconds": 300.32421040534973,
+    "bin": 3,
+    "frequency": 0.8630601678271738,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT"
+    ]
+  },
+  "PPP1R9A": {
+    "ensembl": "ENSG00000158528",
+    "symbol": "PPP1R9A",
+    "mean_shift": 0.01286559221116214,
+    "std_shift": 0.006599500073136481,
+    "n_cells": 277,
+    "status": "success",
+    "time_seconds": 205.1057686805725,
+    "bin": 3,
+    "frequency": 0.8143188716300661,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT",
+      "FOXO3"
+    ]
+  },
+  "CTNNA3": {
+    "ensembl": "ENSG00000183230",
+    "symbol": "CTNNA3",
+    "mean_shift": 0.02031594758131066,
+    "std_shift": 0.003172965436449871,
+    "n_cells": 245,
+    "status": "success",
+    "time_seconds": 377.16552090644836,
+    "bin": 3,
+    "frequency": 0.859757186216747,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT"
+    ]
+  },
+  "NRDC": {
+    "ensembl": "ENSG00000078618",
+    "symbol": "NRDC",
+    "status": "failed",
+    "error": "Timeout (600s)"
+  },
+  "TRIM2": {
+    "ensembl": "ENSG00000109654",
+    "symbol": "TRIM2",
+    "status": "failed",
+    "error": "CUDA error: out of memory\nSearch for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.\nCUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.\nFor debugging consider passing CUDA_LAUNCH_BLOCKING=1\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n",
+    "traceback": "Traceback (most recent call last):\n  File \"/mnt/d/openclaw/intelligence-augmentation/analysis/permutation_null_v2_run_one.py\", line 93, in main\n    isp.perturb_data(\n  File \"/home/agent/.local/lib/python3.12/site-packages/geneformer/in_silico_perturber.py\", line 503, in perturb_data\n    self.isp_perturb_set(\n  File \"/home/agent/.local/lib/python3.12/site-packages/geneformer/in_silico_perturber.py\", line 646, in isp_perturb_set\n    full_perturbation_emb = get_embs(\n                            ^^^^^^^^^\n  File \"/home/agent/.local/lib/python3.12/site-packages/geneformer/emb_extractor.py\", line 167, in get_embs\n    torch.cuda.empty_cache()\n  File \"/home/agent/.local/lib/python3.12/site-packages/torch/cuda/memory.py\", line 280, in empty_cache\n    torch._C._cuda_emptyCache()\ntorch.AcceleratorError: CUDA error: out of memory\nSearch for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.\nCUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.\nFor debugging consider passing CUDA_LAUNCH_BLOCKING=1\nCompile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.\n\n",
+    "time_seconds": 346.94494819641113,
+    "bin": 3,
+    "frequency": 0.9312622745938225,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NLGN1",
+      "TCF4",
+      "MAPT"
+    ]
+  },
+  "ANKRD17": {
+    "ensembl": "ENSG00000132466",
+    "symbol": "ANKRD17",
+    "mean_shift": 0.015792830009259146,
+    "std_shift": 0.006886697734205858,
+    "n_cells": 379,
+    "status": "success",
+    "time_seconds": 532.019070148468,
+    "bin": 3,
+    "frequency": 0.8622567398678808,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT"
+    ]
+  },
+  "ZSWIM6": {
+    "ensembl": "ENSG00000130449",
+    "symbol": "ZSWIM6",
+    "mean_shift": 0.017213814176795978,
+    "std_shift": 0.006370739907272417,
+    "n_cells": 379,
+    "status": "success",
+    "time_seconds": 577.8033015727997,
+    "bin": 4,
+    "frequency": 0.9528655597214784,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NLGN1",
+      "TCF4",
+      "MAPT"
+    ]
+  },
+  "DNM3": {
+    "ensembl": "ENSG00000197959",
+    "symbol": "DNM3",
+    "status": "failed",
+    "error": "Timeout (600s)"
+  },
+  "ANK2": {
+    "ensembl": "ENSG00000145362",
+    "symbol": "ANK2",
+    "status": "failed",
+    "error": "Timeout (600s)"
+  },
+  "TCF12": {
+    "ensembl": "ENSG00000140262",
+    "symbol": "TCF12",
+    "status": "failed",
+    "error": "Timeout (600s)"
+  },
+  "PTPRD": {
+    "ensembl": "ENSG00000153707",
+    "symbol": "PTPRD",
+    "status": "failed",
+    "error": "Timeout (600s)"
+  }
+}

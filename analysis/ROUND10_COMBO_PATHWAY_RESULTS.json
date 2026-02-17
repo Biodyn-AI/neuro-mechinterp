@@ -1,0 +1,104 @@
+{
+  "combinatorial_null": {
+    "CADM2_CAMK2A": {
+      "observed_ratio": 1.1533463892604474,
+      "null_mean_ratio": 0.999958331855862,
+      "null_sd_ratio": 0.019574274337903142,
+      "p_value": 0.0,
+      "n_cells": 152,
+      "q_value": 0.0
+    },
+    "CADM2_GRIN2A": {
+      "observed_ratio": 1.1536229495169175,
+      "null_mean_ratio": 1.0002351328752248,
+      "null_sd_ratio": 0.017390108390707426,
+      "p_value": 0.0,
+      "n_cells": 215,
+      "q_value": 0.0
+    }
+  },
+  "pathway_enrichment": {
+    "Cell adhesion": {
+      "k": 3,
+      "M": 4,
+      "odds": 4.285714285714286,
+      "p": 0.2556390977443609,
+      "q": 1.0
+    },
+    "Glutamate receptor": {
+      "k": 2,
+      "M": 2,
+      "odds": Infinity,
+      "p": 0.21428571428571427,
+      "q": 1.0
+    },
+    "Calcium signaling": {
+      "k": 1,
+      "M": 1,
+      "odds": Infinity,
+      "p": 0.47619047619047616,
+      "q": 1.0
+    },
+    "Transcriptional regulation": {
+      "k": 1,
+      "M": 4,
+      "odds": 0.2962962962962963,
+      "p": 0.9448621553884712,
+      "q": 1.0
+    },
+    "Neurodegeneration": {
+      "k": 1,
+      "M": 3,
+      "odds": 0.5,
+      "p": 0.8759398496240601,
+      "q": 1.0
+    },
+    "Synaptic scaffolding": {
+      "k": 2,
+      "M": 4,
+      "odds": 1.125,
+      "p": 0.6691729323308271,
+      "q": 1.0
+    },
+    "Neurotrophic": {
+      "k": 0,
+      "M": 1,
+      "odds": 0.0,
+      "p": 1.0,
+      "q": 1.0
+    },
+    "Ion channel": {
+      "k": 1,
+      "M": 1,
+      "odds": Infinity,
+      "p": 0.47619047619047616,
+      "q": 1.0
+    },
+    "Synaptic vesicle": {
+      "k": 0,
+      "M": 1,
+      "odds": 0.0,
+      "p": 1.0,
+      "q": 1.0
+    },
+    "Serotonin": {
+      "k": 0,
+      "M": 1,
+      "odds": 0.0,
+      "p": 1.0,
+      "q": 1.0
+    },
+    "Catecholamine": {
+      "k": 0,
+      "M": 1,
+      "odds": 0.0,
+      "p": 1.0,
+      "q": 1.0
+    }
+  },
+  "summary": {
+    "combo_nominal_sig": 2,
+    "combo_fdr_sig": 2,
+    "pathway_any_fdr_sig": 0
+  }
+}

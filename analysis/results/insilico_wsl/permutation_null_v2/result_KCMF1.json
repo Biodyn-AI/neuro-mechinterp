@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000176407",
+  "symbol": "KCMF1",
+  "mean_shift": 0.013364417772544058,
+  "std_shift": 0.0059428651387665845,
+  "n_cells": 152,
+  "status": "success",
+  "time_seconds": 60.3231155872345
+}

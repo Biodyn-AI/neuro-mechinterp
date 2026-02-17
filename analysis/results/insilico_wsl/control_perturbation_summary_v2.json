@@ -1,0 +1,141 @@
+{
+  "EXOC6B": {
+    "status": "success",
+    "ensembl": "ENSG00000144036",
+    "matched_to": "CADM2",
+    "files": [
+      "in_silico_delete_control_perturb_EXOC6B_cell_embs_dict_[np.int16(8473)]_raw.pickle"
+    ],
+    "skipped": true
+  },
+  "DOCK9": {
+    "status": "success",
+    "ensembl": "ENSG00000088387",
+    "matched_to": "APP",
+    "files": [
+      "in_silico_delete_control_perturb_DOCK9_cell_embs_dict_[np.int16(1776)]_raw.pickle"
+    ],
+    "skipped": true
+  },
+  "PDE7B": {
+    "status": "success",
+    "ensembl": "ENSG00000171408",
+    "matched_to": "FOXO3",
+    "files": [
+      "in_silico_delete_control_perturb_PDE7B_cell_embs_dict_[np.int16(12942)]_raw.pickle"
+    ],
+    "skipped": true
+  },
+  "ZDHHC9": {
+    "status": "success",
+    "ensembl": "ENSG00000188706",
+    "matched_to": "NLGN1",
+    "files": [
+      "in_silico_delete_control_perturb_ZDHHC9_cell_embs_dict_[np.int16(16260)]_raw.pickle"
+    ],
+    "skipped": true
+  },
+  "HDAC11": {
+    "status": "success",
+    "ensembl": "ENSG00000163517",
+    "matched_to": "MAPT",
+    "files": [
+      "in_silico_delete_control_perturb_HDAC11_cell_embs_dict_[np.int16(10970)]_raw.pickle"
+    ],
+    "skipped": true
+  },
+  "XRCC6": {
+    "status": "success",
+    "ensembl": "ENSG00000196419",
+    "matched_to": "TCF4",
+    "files": [
+      "in_silico_delete_control_perturb_XRCC6_cell_embs_dict_[np.int16(16536)]_raw.pickle"
+    ]
+  },
+  "WDR46": {
+    "status": "success",
+    "ensembl": "ENSG00000227057",
+    "matched_to": "CREB1",
+    "files": [
+      "in_silico_delete_control_perturb_WDR46_cell_embs_dict_[np.int16(19745)]_raw.pickle"
+    ]
+  },
+  "CUEDC2": {
+    "status": "success",
+    "ensembl": "ENSG00000107874",
+    "matched_to": "DISC1",
+    "files": [
+      "in_silico_delete_control_perturb_CUEDC2_cell_embs_dict_[np.int16(3454)]_raw.pickle"
+    ]
+  },
+  "IGSF10": {
+    "status": "success",
+    "ensembl": "ENSG00000152580",
+    "matched_to": "NEGR1",
+    "files": [
+      "in_silico_delete_control_perturb_IGSF10_cell_embs_dict_[np.int16(9506)]_raw.pickle"
+    ]
+  },
+  "SALL3": {
+    "status": "success",
+    "ensembl": "ENSG00000256463",
+    "matched_to": "FMR1",
+    "files": [
+      "in_silico_delete_control_perturb_SALL3_cell_embs_dict_[np.int16(20971)]_raw.pickle"
+    ]
+  },
+  "MFSD6L": {
+    "status": "failed",
+    "ensembl": "ENSG00000185156",
+    "matched_to": "COMT",
+    "error": "No active exception to reraise"
+  },
+  "TMEM88": {
+    "status": "success",
+    "ensembl": "ENSG00000167874",
+    "matched_to": "MEF2C",
+    "files": [
+      "in_silico_delete_control_perturb_TMEM88_cell_embs_dict_[np.int16(12139)]_raw.pickle"
+    ]
+  },
+  "ACTB": {
+    "status": "success",
+    "ensembl": "ENSG00000075624",
+    "matched_to": "housekeeping",
+    "files": [
+      "in_silico_delete_control_perturb_ACTB_cell_embs_dict_[np.int16(1319)]_raw.pickle"
+    ]
+  },
+  "GAPDH": {
+    "status": "success",
+    "ensembl": "ENSG00000111640",
+    "matched_to": "housekeeping",
+    "files": [
+      "in_silico_delete_control_perturb_GAPDH_cell_embs_dict_[np.int16(3906)]_raw.pickle"
+    ]
+  },
+  "B2M": {
+    "status": "success",
+    "ensembl": "ENSG00000166710",
+    "matched_to": "housekeeping",
+    "files": [
+      "in_silico_delete_control_perturb_B2M_cell_embs_dict_[np.int16(11842)]_raw.pickle"
+    ]
+  },
+  "RPL13A": {
+    "status": "success",
+    "ensembl": "ENSG00000142541",
+    "matched_to": "housekeeping",
+    "files": [
+      "in_silico_delete_control_perturb_RPL13A_cell_embs_dict_[np.int16(8208)]_raw.pickle"
+    ]
+  },
+  "YWHAZ": {
+    "status": "success",
+    "ensembl": "ENSG00000164924",
+    "matched_to": "housekeeping",
+    "files": [
+      "in_silico_delete_control_perturb_YWHAZ_cell_embs_dict_[np.int16(11408)]_raw.pickle"
+    ]
+  }
+}

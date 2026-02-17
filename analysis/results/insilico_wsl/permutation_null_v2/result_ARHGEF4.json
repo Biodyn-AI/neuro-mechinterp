@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000136002",
+  "symbol": "ARHGEF4",
+  "mean_shift": 0.014858346119105258,
+  "std_shift": 0.006614020572422754,
+  "n_cells": 107,
+  "status": "success",
+  "time_seconds": 294.33764696121216
+}

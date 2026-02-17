@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000182095",
+  "symbol": "TNRC18",
+  "mean_shift": 0.010920772681365142,
+  "std_shift": 0.006456722944178723,
+  "n_cells": 148,
+  "status": "success",
+  "time_seconds": 123.13719606399536
+}

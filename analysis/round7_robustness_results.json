@@ -1,0 +1,36 @@
+{
+  "correlations": {
+    "shift_vs_freq_spearman": [
+      0.3532467532467533,
+      0.11623101293161812
+    ],
+    "shift_vs_ncells_spearman": [
+      0.487012987012987,
+      0.025150758255917977
+    ],
+    "z_vs_freq_spearman": [
+      0.1155844155844156,
+      0.6178368603191975
+    ],
+    "z_vs_ncells_spearman": [
+      0.2558441558441559,
+      0.2629729422417229
+    ]
+  },
+  "top_gene_by_z": "CAMK2A",
+  "loo_top_gene_stability": {
+    "same_top_count": 20,
+    "total": 21,
+    "fraction": 0.9523809523809523
+  },
+  "set_level_difference": {
+    "obs_mean_diff_intel_minus_control": 0.001400463141331713,
+    "bootstrap_95ci": [
+      -0.00042650143178088804,
+      0.0031670565694642654
+    ],
+    "permutation_p_two_sided": 0.127943602819859,
+    "n_intel": 21,
+    "n_controls": 55
+  }
+}

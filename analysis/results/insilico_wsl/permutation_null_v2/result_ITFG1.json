@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000129636",
+  "symbol": "ITFG1",
+  "mean_shift": 0.017189529980476174,
+  "std_shift": 0.00584425649943052,
+  "n_cells": 411,
+  "status": "success",
+  "time_seconds": 300.32421040534973
+}

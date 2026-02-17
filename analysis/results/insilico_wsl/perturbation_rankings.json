@@ -1,0 +1,32 @@
+{
+  "APP": {
+    "raw_keys": "<class 'list'>"
+  },
+  "BDNF": {
+    "raw_keys": "<class 'list'>"
+  },
+  "CADM2": {
+    "raw_keys": "<class 'list'>"
+  },
+  "CAMK2A": {
+    "raw_keys": "<class 'list'>"
+  },
+  "GRIN2A": {
+    "raw_keys": "<class 'list'>"
+  },
+  "GRIN2B": {
+    "raw_keys": "<class 'list'>"
+  },
+  "HOMER1": {
+    "raw_keys": "<class 'list'>"
+  },
+  "MEF2C": {
+    "raw_keys": "<class 'list'>"
+  },
+  "NRXN1": {
+    "raw_keys": "<class 'list'>"
+  },
+  "SHANK3": {
+    "raw_keys": "<class 'list'>"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000145743",
+  "symbol": "FBXL17",
+  "mean_shift": 0.01624756481176541,
+  "std_shift": 0.007156694382066071,
+  "n_cells": 324,
+  "status": "success",
+  "time_seconds": 247.56665706634521
+}

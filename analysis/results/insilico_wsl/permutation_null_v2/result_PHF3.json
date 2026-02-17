@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000118482",
+  "symbol": "PHF3",
+  "mean_shift": 0.013643974943678508,
+  "std_shift": 0.0067029799260193874,
+  "n_cells": 258,
+  "status": "success",
+  "time_seconds": 198.93983435630798
+}

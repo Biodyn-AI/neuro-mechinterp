@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000132466",
+  "symbol": "ANKRD17",
+  "mean_shift": 0.015792830009259146,
+  "std_shift": 0.006886697734205858,
+  "n_cells": 379,
+  "status": "success",
+  "time_seconds": 532.019070148468
+}

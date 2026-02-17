@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000143164",
+  "symbol": "DCAF6",
+  "mean_shift": 0.015101199466470294,
+  "std_shift": 0.008038223304328285,
+  "n_cells": 211,
+  "status": "success",
+  "time_seconds": 161.1655788421631
+}

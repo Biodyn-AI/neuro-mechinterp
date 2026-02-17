@@ -1,0 +1,8 @@
+{
+  "analysis_date": "2026-02-13 15:49:20",
+  "genes_analyzed": 22,
+  "druggable_targets": 15,
+  "drug_interactions": 841,
+  "top_target": "CADM2",
+  "top_impact_score": 0.009297431939561117
+}

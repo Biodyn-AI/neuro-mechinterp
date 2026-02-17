@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000162729",
+  "symbol": "IGSF8",
+  "mean_shift": 0.013000866613889996,
+  "std_shift": 0.004800212581596933,
+  "n_cells": 95,
+  "status": "success",
+  "time_seconds": 123.96417784690857
+}

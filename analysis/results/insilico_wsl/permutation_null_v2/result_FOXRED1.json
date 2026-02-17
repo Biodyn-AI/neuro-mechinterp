@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000110074",
+  "symbol": "FOXRED1",
+  "mean_shift": 0.01314498907254066,
+  "std_shift": 0.005933656682684777,
+  "n_cells": 81,
+  "status": "success",
+  "time_seconds": 40.50372648239136
+}

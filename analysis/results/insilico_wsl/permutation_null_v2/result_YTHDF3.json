@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000185728",
+  "symbol": "YTHDF3",
+  "mean_shift": 0.012256815800300011,
+  "std_shift": 0.0057101262194236635,
+  "n_cells": 130,
+  "status": "success",
+  "time_seconds": 112.17852997779846
+}

@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000153707",
+  "symbol": "PTPRD",
+  "mean_shift": 0.015932922054110024,
+  "std_shift": 0.006825264031497054,
+  "n_cells": 401,
+  "status": "success",
+  "time_seconds": 584.2629454135895
+}

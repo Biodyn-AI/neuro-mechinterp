@@ -1,0 +1,118 @@
+cell_type,pathway_type,pathway_name,pathway_id,genes_involved,gene_count
+Astrocytes,GO,protein serine/threonine kinase activity,GO:0004674,CAMK2A,1
+Astrocytes,GO,regulation of synaptic plasticity,GO:0048167,"CAMK2A, GRIN2A",2
+Astrocytes,GO,intracellular signal transduction,GO:0035556,CAMK2A,1
+Astrocytes,GO,cell adhesion,GO:0007155,"CADM2, APP",2
+Astrocytes,GO,synapse assembly,GO:0007416,CADM2,1
+Astrocytes,GO,cell-cell adhesion,GO:0098609,CADM2,1
+Astrocytes,GO,ionotropic glutamate receptor activity,GO:0004970,GRIN2A,1
+Astrocytes,GO,chemical synaptic transmission,GO:0007268,GRIN2A,1
+Astrocytes,GO,DNA-binding transcription factor activity,GO:0003700,MEF2C,1
+Astrocytes,GO,positive regulation of transcription,GO:0045944,MEF2C,1
+Astrocytes,GO,cell differentiation,GO:0030154,MEF2C,1
+Astrocytes,GO,calmodulin binding,GO:0005516,APP,1
+Astrocytes,GO,amyloid precursor protein catabolic process,GO:0042987,APP,1
+Astrocytes,KEGG,Glutamatergic synapse,hsa04724,"CAMK2A, GRIN2A",2
+Astrocytes,KEGG,Long-term potentiation,hsa04720,"CAMK2A, GRIN2A",2
+Astrocytes,KEGG,Cell adhesion molecules,hsa04514,CADM2,1
+Astrocytes,KEGG,Axon guidance,hsa04360,CADM2,1
+Astrocytes,KEGG,Neuroactive ligand-receptor interaction,hsa04080,GRIN2A,1
+Astrocytes,KEGG,Signaling pathways regulating pluripotency,hsa04550,MEF2C,1
+Astrocytes,KEGG,Alzheimer disease,hsa05010,APP,1
+Astrocytes,KEGG,Serotonergic synapse,hsa04726,APP,1
+Excitatory_neurons,GO,protein serine/threonine kinase activity,GO:0004674,CAMK2A,1
+Excitatory_neurons,GO,regulation of synaptic plasticity,GO:0048167,"CAMK2A, GRIN2A, GRIN2B",3
+Excitatory_neurons,GO,intracellular signal transduction,GO:0035556,CAMK2A,1
+Excitatory_neurons,GO,ionotropic glutamate receptor activity,GO:0004970,"GRIN2A, GRIN2B",2
+Excitatory_neurons,GO,chemical synaptic transmission,GO:0007268,"GRIN2A, GRIN2B",2
+Excitatory_neurons,GO,cell adhesion,GO:0007155,CADM2,1
+Excitatory_neurons,GO,synapse assembly,GO:0007416,CADM2,1
+Excitatory_neurons,GO,cell-cell adhesion,GO:0098609,CADM2,1
+Excitatory_neurons,GO,DNA-binding transcription factor activity,GO:0003700,MEF2C,1
+Excitatory_neurons,GO,positive regulation of transcription,GO:0045944,MEF2C,1
+Excitatory_neurons,GO,cell differentiation,GO:0030154,MEF2C,1
+Excitatory_neurons,KEGG,Glutamatergic synapse,hsa04724,"CAMK2A, GRIN2A, GRIN2B",3
+Excitatory_neurons,KEGG,Long-term potentiation,hsa04720,"CAMK2A, GRIN2A, GRIN2B",3
+Excitatory_neurons,KEGG,Neuroactive ligand-receptor interaction,hsa04080,GRIN2A,1
+Excitatory_neurons,KEGG,Cell adhesion molecules,hsa04514,CADM2,1
+Excitatory_neurons,KEGG,Axon guidance,hsa04360,CADM2,1
+Excitatory_neurons,KEGG,Signaling pathways regulating pluripotency,hsa04550,MEF2C,1
+Inhibitory_neurons,GO,cell adhesion,GO:0007155,"CADM2, APP",2
+Inhibitory_neurons,GO,synapse assembly,GO:0007416,CADM2,1
+Inhibitory_neurons,GO,cell-cell adhesion,GO:0098609,CADM2,1
+Inhibitory_neurons,GO,ionotropic glutamate receptor activity,GO:0004970,GRIN2A,1
+Inhibitory_neurons,GO,chemical synaptic transmission,GO:0007268,GRIN2A,1
+Inhibitory_neurons,GO,regulation of synaptic plasticity,GO:0048167,"GRIN2A, CAMK2A",2
+Inhibitory_neurons,GO,calmodulin binding,GO:0005516,APP,1
+Inhibitory_neurons,GO,amyloid precursor protein catabolic process,GO:0042987,APP,1
+Inhibitory_neurons,GO,DNA-binding transcription factor activity,GO:0003700,MEF2C,1
+Inhibitory_neurons,GO,positive regulation of transcription,GO:0045944,MEF2C,1
+Inhibitory_neurons,GO,cell differentiation,GO:0030154,MEF2C,1
+Inhibitory_neurons,GO,protein serine/threonine kinase activity,GO:0004674,CAMK2A,1
+Inhibitory_neurons,GO,intracellular signal transduction,GO:0035556,CAMK2A,1
+Inhibitory_neurons,KEGG,Cell adhesion molecules,hsa04514,CADM2,1
+Inhibitory_neurons,KEGG,Axon guidance,hsa04360,CADM2,1
+Inhibitory_neurons,KEGG,Glutamatergic synapse,hsa04724,"GRIN2A, CAMK2A",2
+Inhibitory_neurons,KEGG,Long-term potentiation,hsa04720,"GRIN2A, CAMK2A",2
+Inhibitory_neurons,KEGG,Neuroactive ligand-receptor interaction,hsa04080,GRIN2A,1
+Inhibitory_neurons,KEGG,Alzheimer disease,hsa05010,APP,1
+Inhibitory_neurons,KEGG,Serotonergic synapse,hsa04726,APP,1
+Inhibitory_neurons,KEGG,Signaling pathways regulating pluripotency,hsa04550,MEF2C,1
+Oligodendrocytes,GO,voltage-gated sodium channel activity,GO:0005248,SCN1A,1
+Oligodendrocytes,GO,neuronal action potential,GO:0019228,SCN1A,1
+Oligodendrocytes,GO,membrane depolarization during action potential,GO:0086010,SCN1A,1
+Oligodendrocytes,GO,cell adhesion,GO:0007155,"CADM2, APP",2
+Oligodendrocytes,GO,synapse assembly,GO:0007416,"CADM2, NRXN1",2
+Oligodendrocytes,GO,cell-cell adhesion,GO:0098609,CADM2,1
+Oligodendrocytes,GO,calmodulin binding,GO:0005516,APP,1
+Oligodendrocytes,GO,amyloid precursor protein catabolic process,GO:0042987,APP,1
+Oligodendrocytes,GO,calcium ion binding,GO:0005509,NRXN1,1
+Oligodendrocytes,GO,chemical synaptic transmission,GO:0007268,NRXN1,1
+Oligodendrocytes,GO,DNA-binding transcription factor activity,GO:0003700,MEF2C,1
+Oligodendrocytes,GO,positive regulation of transcription,GO:0045944,MEF2C,1
+Oligodendrocytes,GO,cell differentiation,GO:0030154,MEF2C,1
+Oligodendrocytes,KEGG,Inflammatory mediator regulation,hsa04750,SCN1A,1
+Oligodendrocytes,KEGG,Nicotine addiction,hsa05033,SCN1A,1
+Oligodendrocytes,KEGG,Cell adhesion molecules,hsa04514,"CADM2, NRXN1",2
+Oligodendrocytes,KEGG,Axon guidance,hsa04360,"CADM2, NRXN1",2
+Oligodendrocytes,KEGG,Alzheimer disease,hsa05010,APP,1
+Oligodendrocytes,KEGG,Serotonergic synapse,hsa04726,APP,1
+Oligodendrocytes,KEGG,Signaling pathways regulating pluripotency,hsa04550,MEF2C,1
+OPC,GO,cell adhesion,GO:0007155,"CADM2, APP",2
+OPC,GO,synapse assembly,GO:0007416,CADM2,1
+OPC,GO,cell-cell adhesion,GO:0098609,CADM2,1
+OPC,GO,protein binding,GO:0005515,HOMER1,1
+OPC,GO,regulation of synaptic plasticity,GO:0048167,"HOMER1, GRIN2A",2
+OPC,GO,chemical synaptic transmission,GO:0007268,"HOMER1, GRIN2A",2
+OPC,GO,calmodulin binding,GO:0005516,APP,1
+OPC,GO,amyloid precursor protein catabolic process,GO:0042987,APP,1
+OPC,GO,ionotropic glutamate receptor activity,GO:0004970,GRIN2A,1
+OPC,GO,DNA-binding transcription factor activity,GO:0003700,MEF2C,1
+OPC,GO,positive regulation of transcription,GO:0045944,MEF2C,1
+OPC,GO,cell differentiation,GO:0030154,MEF2C,1
+OPC,KEGG,Cell adhesion molecules,hsa04514,CADM2,1
+OPC,KEGG,Axon guidance,hsa04360,CADM2,1
+OPC,KEGG,Glutamatergic synapse,hsa04724,"HOMER1, GRIN2A",2
+OPC,KEGG,Long-term potentiation,hsa04720,"HOMER1, GRIN2A",2
+OPC,KEGG,Alzheimer disease,hsa05010,APP,1
+OPC,KEGG,Serotonergic synapse,hsa04726,APP,1
+OPC,KEGG,Neuroactive ligand-receptor interaction,hsa04080,GRIN2A,1
+OPC,KEGG,Signaling pathways regulating pluripotency,hsa04550,MEF2C,1
+Other,GO,protein binding,GO:0005515,HOMER1,1
+Other,GO,regulation of synaptic plasticity,GO:0048167,"HOMER1, CAMK2A, GRIN2A",3
+Other,GO,chemical synaptic transmission,GO:0007268,"HOMER1, GRIN2A",2
+Other,GO,cell adhesion,GO:0007155,"CADM2, APP",2
+Other,GO,synapse assembly,GO:0007416,CADM2,1
+Other,GO,cell-cell adhesion,GO:0098609,CADM2,1
+Other,GO,protein serine/threonine kinase activity,GO:0004674,CAMK2A,1
+Other,GO,intracellular signal transduction,GO:0035556,CAMK2A,1
+Other,GO,ionotropic glutamate receptor activity,GO:0004970,GRIN2A,1
+Other,GO,calmodulin binding,GO:0005516,APP,1
+Other,GO,amyloid precursor protein catabolic process,GO:0042987,APP,1
+Other,KEGG,Glutamatergic synapse,hsa04724,"HOMER1, CAMK2A, GRIN2A",3
+Other,KEGG,Long-term potentiation,hsa04720,"HOMER1, CAMK2A, GRIN2A",3
+Other,KEGG,Cell adhesion molecules,hsa04514,CADM2,1
+Other,KEGG,Axon guidance,hsa04360,CADM2,1
+Other,KEGG,Neuroactive ligand-receptor interaction,hsa04080,GRIN2A,1
+Other,KEGG,Alzheimer disease,hsa05010,APP,1
+Other,KEGG,Serotonergic synapse,hsa04726,APP,1

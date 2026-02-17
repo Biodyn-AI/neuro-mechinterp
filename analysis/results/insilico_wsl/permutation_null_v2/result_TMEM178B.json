@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000261115",
+  "symbol": "TMEM178B",
+  "mean_shift": 0.017141681615547213,
+  "std_shift": 0.006873726827765327,
+  "n_cells": 223,
+  "status": "success",
+  "time_seconds": 175.39079093933105
+}

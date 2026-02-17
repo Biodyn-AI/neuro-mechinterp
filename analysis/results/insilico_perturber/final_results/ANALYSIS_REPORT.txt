@@ -1,0 +1,43 @@
+INTELLIGENCE GENE PERTURBATION ANALYSIS REPORT
+==================================================
+
+ANALYSIS OVERVIEW:
+- Dataset: Brain scRNA-seq data (DLPFC)
+- Genes analyzed: 21 intelligence genes
+- Model used: Geneformer V2-104M
+
+TOP 10 HIGHLY EXPRESSED INTELLIGENCE GENES:
+----------------------------------------
+ 1. CADM2        - Mean:  64.69, Expressed in:  98.3% of cells
+ 2. NRXN1        - Mean:  42.84, Expressed in:  66.6% of cells
+ 3. NLGN1        - Mean:  26.96, Expressed in:  89.3% of cells
+ 4. NEGR1        - Mean:  24.28, Expressed in:  73.1% of cells
+ 5. GRIN2A       - Mean:  13.59, Expressed in:  48.6% of cells
+ 6. TCF4         - Mean:  11.96, Expressed in:  94.8% of cells
+ 7. MEF2C        - Mean:  10.74, Expressed in:  51.2% of cells
+ 8. GRIN2B       - Mean:  10.30, Expressed in:  42.9% of cells
+ 9. APP          - Mean:  10.18, Expressed in:  91.5% of cells
+10. MAPT         - Mean:   6.83, Expressed in:  89.2% of cells
+
+TOP 10 PREDICTED HIGH-IMPACT PERTURBATION TARGETS:
+--------------------------------------------------
+ 1. CADM2        - Impact Score: 2.878, Avg Correlation: 0.596
+ 2. NRXN1        - Impact Score: 2.084, Avg Correlation: 0.629
+ 3. NLGN1        - Impact Score: 1.235, Avg Correlation: 0.548
+ 4. NEGR1        - Impact Score: 1.213, Avg Correlation: 0.622
+ 5. GRIN2A       - Impact Score: 0.726, Avg Correlation: 0.594
+ 6. TCF4         - Impact Score: 0.612, Avg Correlation: 0.517
+ 7. MEF2C        - Impact Score: 0.602, Avg Correlation: 0.596
+ 8. GRIN2B       - Impact Score: 0.590, Avg Correlation: 0.621
+ 9. APP          - Impact Score: 0.560, Avg Correlation: 0.580
+10. MAPT         - Impact Score: 0.447, Avg Correlation: 0.630
+
+KEY FINDINGS:
+- Genes with highest expression: CADM2, NRXN1, NLGN1, NEGR1, GRIN2A
+- Most connected genes: MAPT, NRXN1, NEGR1, GRIN2B, MEF2C
+- Top perturbation targets: CADM2, NRXN1, NLGN1, NEGR1, GRIN2A
+
+NOTES:
+- This analysis provides predictions based on gene expression patterns
+- Results should be validated with experimental perturbation studies
+- High-impact genes are good candidates for drug target research

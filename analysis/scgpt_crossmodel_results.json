@@ -1,0 +1,47 @@
+{
+  "experiment": "scgpt_perturbation_v3_removal",
+  "n_cells": 200,
+  "genes": {
+    "CADM2": {
+      "mean_shift": 0.012646924071491528,
+      "std_shift": 0.001947861947624866,
+      "n_cells": 195
+    },
+    "GRIN2A": {
+      "mean_shift": 0.007093730507991635,
+      "std_shift": 0.002340712081024766,
+      "n_cells": 78
+    },
+    "CAMK2A": {
+      "mean_shift": 0.00993094274834279,
+      "std_shift": 0.0014219871365005775,
+      "n_cells": 31
+    },
+    "MEF2C": {
+      "mean_shift": 0.008847745374909469,
+      "std_shift": 0.0023792868267589378,
+      "n_cells": 70
+    },
+    "APP": {
+      "mean_shift": 0.00934499342757691,
+      "std_shift": 0.0021978311935561983,
+      "n_cells": 144
+    }
+  },
+  "scgpt_ranking": [
+    "CADM2",
+    "CAMK2A",
+    "APP",
+    "MEF2C",
+    "GRIN2A"
+  ],
+  "geneformer_ranking": [
+    "CADM2",
+    "GRIN2A",
+    "CAMK2A",
+    "MEF2C",
+    "APP"
+  ],
+  "spearman_rho": 0.3,
+  "spearman_pval": 0.6238376647810728
+}

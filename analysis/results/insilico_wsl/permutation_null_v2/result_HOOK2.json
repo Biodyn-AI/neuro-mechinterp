@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000095066",
+  "symbol": "HOOK2",
+  "mean_shift": 0.013381686855535039,
+  "std_shift": 0.005864831514646126,
+  "n_cells": 122,
+  "status": "success",
+  "time_seconds": 51.279236793518066
+}

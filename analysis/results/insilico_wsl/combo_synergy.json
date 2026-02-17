@@ -1,0 +1,50 @@
+{
+  "combo": {
+    "CADM2_CAMK2A": {
+      "mean_cos_sim": 0.9555390277191212,
+      "mean_shift": 0.04446097228087875,
+      "std": 0.009271441883436616,
+      "n_cells": 152,
+      "file": "in_silico_delete_combo_CADM2_CAMK2A_cell_embs_dict_[np.int16(13697), np.int16(1135)]_raw.pickle"
+    },
+    "CADM2_GRIN2A": {
+      "mean_cos_sim": 0.9554873122725376,
+      "mean_shift": 0.04451268772746242,
+      "std": 0.009829346404686155,
+      "n_cells": 215,
+      "file": "in_silico_delete_combo_CADM2_GRIN2A_cell_embs_dict_[np.int16(13697), np.int16(15103)]_raw.pickle"
+    }
+  },
+  "singles": {
+    "APP": {
+      "mean_cos_sim": 0.9816795698432035,
+      "mean_shift": 0.01832043015679652,
+      "std": 0.005368357565385183,
+      "n_cells": 430
+    },
+    "CADM2": {
+      "mean_cos_sim": 0.9803727420709901,
+      "mean_shift": 0.019627257929009878,
+      "std": 0.004490611163070982,
+      "n_cells": 472
+    },
+    "CAMK2A": {
+      "mean_cos_sim": 0.9810777183501951,
+      "mean_shift": 0.018922281649804917,
+      "std": 0.00587987572931476,
+      "n_cells": 155
+    },
+    "GRIN2A": {
+      "mean_cos_sim": 0.9810421311801859,
+      "mean_shift": 0.018957868819814094,
+      "std": 0.006070469569714811,
+      "n_cells": 223
+    },
+    "MEF2C": {
+      "mean_cos_sim": 0.9815574680213575,
+      "mean_shift": 0.01844253197864254,
+      "std": 0.006518398611022745,
+      "n_cells": 216
+    }
+  }
+}

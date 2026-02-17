@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000198597",
+  "symbol": "ZNF536",
+  "mean_shift": 0.018321317036946616,
+  "std_shift": 0.004981977920161813,
+  "n_cells": 300,
+  "status": "success",
+  "time_seconds": 219.56721115112305
+}

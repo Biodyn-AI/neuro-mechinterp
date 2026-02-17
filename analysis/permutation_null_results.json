@@ -1,0 +1,2036 @@
+{
+  "metadata": {
+    "analysis": "Genome-wide permutation null for intelligence gene perturbation",
+    "date": "2026-02-15 00:18:55",
+    "n_intelligence_genes": 21,
+    "n_control_genes_sampled": 100,
+    "n_control_genes_successful": 1,
+    "expression_tolerance": 0.2,
+    "max_ncells": 500,
+    "random_seed": 42
+  },
+  "bin_info": {
+    "bin_edges": [
+      0.014068916264952689,
+      0.2472058560971255,
+      0.48034279592929835,
+      0.7134797357614712,
+      0.9466166755936439,
+      1.1797536154258168
+    ],
+    "genes_per_bin": {
+      "2": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "GRIN2A",
+        "FOXO3",
+        "CREB1"
+      ],
+      "1": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "SYN1",
+        "SCN1A",
+        "COMT"
+      ],
+      "4": [
+        "CADM2",
+        "TCF4"
+      ],
+      "3": [
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "MAPT"
+      ],
+      "0": [
+        "SLC6A4"
+      ]
+    },
+    "samples_per_bin": {
+      "0": 5,
+      "1": 38,
+      "2": 29,
+      "3": 19,
+      "4": 9
+    },
+    "intel_bins": {
+      "MEF2C": {
+        "bin": 2,
+        "bin_range": [
+          0.48034279592929835,
+          0.7134797357614712
+        ]
+      },
+      "BDNF": {
+        "bin": 2,
+        "bin_range": [
+          0.48034279592929835,
+          0.7134797357614712
+        ]
+      },
+      "GRIN2B": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "CADM2": {
+        "bin": 4,
+        "bin_range": [
+          0.9466166755936439,
+          1.1797536154258168
+        ]
+      },
+      "NRXN1": {
+        "bin": 2,
+        "bin_range": [
+          0.48034279592929835,
+          0.7134797357614712
+        ]
+      },
+      "CAMK2A": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "GRIN2A": {
+        "bin": 2,
+        "bin_range": [
+          0.48034279592929835,
+          0.7134797357614712
+        ]
+      },
+      "SHANK3": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "HOMER1": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "APP": {
+        "bin": 3,
+        "bin_range": [
+          0.7134797357614712,
+          0.9466166755936439
+        ]
+      },
+      "NEGR1": {
+        "bin": 3,
+        "bin_range": [
+          0.7134797357614712,
+          0.9466166755936439
+        ]
+      },
+      "NLGN1": {
+        "bin": 3,
+        "bin_range": [
+          0.7134797357614712,
+          0.9466166755936439
+        ]
+      },
+      "TCF4": {
+        "bin": 4,
+        "bin_range": [
+          0.9466166755936439,
+          1.1797536154258168
+        ]
+      },
+      "MAPT": {
+        "bin": 3,
+        "bin_range": [
+          0.7134797357614712,
+          0.9466166755936439
+        ]
+      },
+      "FOXO3": {
+        "bin": 2,
+        "bin_range": [
+          0.48034279592929835,
+          0.7134797357614712
+        ]
+      },
+      "CREB1": {
+        "bin": 2,
+        "bin_range": [
+          0.48034279592929835,
+          0.7134797357614712
+        ]
+      },
+      "FMR1": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "SYN1": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "SCN1A": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      },
+      "SLC6A4": {
+        "bin": 0,
+        "bin_range": [
+          0.014068916264952689,
+          0.2472058560971255
+        ]
+      },
+      "COMT": {
+        "bin": 1,
+        "bin_range": [
+          0.2472058560971255,
+          0.48034279592929835
+        ]
+      }
+    }
+  },
+  "intelligence_gene_results": {
+    "CADM2": {
+      "mean_shift": 0.019627257929009906,
+      "n_cells": 472,
+      "expression_frequency": 0.9831280128548473,
+      "null_type": "all_controls",
+      "n_null_genes": 1,
+      "n_exceeding": 0,
+      "empirical_p": 0.5,
+      "z_score": null,
+      "null_mean": null,
+      "null_std": null,
+      "fdr_q": 0.75,
+      "significance": "ns"
+    },
+    "GRIN2A": {
+      "mean_shift": 0.01895786881981409,
+      "n_cells": 223,
+      "expression_frequency": 0.4859846455990002,
+      "null_type": "bin_based",
+      "n_null_genes": 5,
+      "n_exceeding": 0,
+      "empirical_p": 0.16666666666666666,
+      "z_score": 1.6286947922925301,
+      "null_mean": 0.014595518438363837,
+      "null_std": 0.0026784333087415753,
+      "fdr_q": 0.6,
+      "significance": "ns"
+    },
+    "CAMK2A": {
+      "mean_shift": 0.018922281649804886,
+      "n_cells": 155,
+      "expression_frequency": 0.38707373683270846,
+      "null_type": "bin_based",
+      "n_null_genes": 9,
+      "n_exceeding": 0,
+      "empirical_p": 0.1,
+      "z_score": 1.7340332119398065,
+      "null_mean": 0.011587810277587854,
+      "null_std": 0.0042297179325718895,
+      "fdr_q": 0.6,
+      "significance": "ns"
+    },
+    "MEF2C": {
+      "mean_shift": 0.0184425319786425,
+      "n_cells": 216,
+      "expression_frequency": 0.5116050705231209,
+      "null_type": "bin_based",
+      "n_null_genes": 5,
+      "n_exceeding": 0,
+      "empirical_p": 0.16666666666666666,
+      "z_score": 1.4362924504124122,
+      "null_mean": 0.014595518438363837,
+      "null_std": 0.0026784333087415753,
+      "fdr_q": 0.6,
+      "significance": "ns"
+    },
+    "APP": {
+      "mean_shift": 0.018320430156796477,
+      "n_cells": 430,
+      "expression_frequency": 0.9149259060881986,
+      "null_type": "all_controls",
+      "n_null_genes": 1,
+      "n_exceeding": 0,
+      "empirical_p": 0.5,
+      "z_score": null,
+      "null_mean": null,
+      "null_std": null,
+      "fdr_q": 0.75,
+      "significance": "ns"
+    },
+    "SCN1A": {
+      "mean_shift": 0.01792155439789231,
+      "n_cells": 185,
+      "expression_frequency": 0.435457953936797,
+      "null_type": "bin_based",
+      "n_null_genes": 9,
+      "n_exceeding": 1,
+      "empirical_p": 0.2,
+      "z_score": 1.4974388886620642,
+      "null_mean": 0.011587810277587854,
+      "null_std": 0.0042297179325718895,
+      "fdr_q": 0.6,
+      "significance": "ns"
+    },
+    "NRXN1": {
+      "mean_shift": 0.017791572942773337,
+      "n_cells": 241,
+      "expression_frequency": 0.6660417782538832,
+      "null_type": "bin_based",
+      "n_null_genes": 5,
+      "n_exceeding": 1,
+      "empirical_p": 0.3333333333333333,
+      "z_score": 1.193255211536748,
+      "null_mean": 0.014595518438363837,
+      "null_std": 0.0026784333087415753,
+      "fdr_q": 0.75,
+      "significance": "ns"
+    },
+    "GRIN2B": {
+      "mean_shift": 0.017583773610341615,
+      "n_cells": 181,
+      "expression_frequency": 0.4293876093554722,
+      "null_type": "bin_based",
+      "n_null_genes": 9,
+      "n_exceeding": 1,
+      "empirical_p": 0.2,
+      "z_score": 1.417579949381613,
+      "null_mean": 0.011587810277587854,
+      "null_std": 0.0042297179325718895,
+      "fdr_q": 0.6,
+      "significance": "ns"
+    },
+    "HOMER1": {
+      "mean_shift": 0.017466272065739433,
+      "n_cells": 167,
+      "expression_frequency": 0.40349937511158723,
+      "null_type": "bin_based",
+      "n_null_genes": 9,
+      "n_exceeding": 1,
+      "empirical_p": 0.2,
+      "z_score": 1.389799954007138,
+      "null_mean": 0.011587810277587854,
+      "null_std": 0.0042297179325718895,
+      "fdr_q": 0.6,
+      "significance": "ns"
+    },
+    "NEGR1": {
+      "mean_shift": 0.016624006650430692,
+      "n_cells": 278,
+      "expression_frequency": 0.7313872522763792,
+      "null_type": "all_controls",
+      "n_null_genes": 1,
+      "n_exceeding": 0,
+      "empirical_p": 0.5,
+      "z_score": null,
+      "null_mean": null,
+      "null_std": null,
+      "fdr_q": 0.75,
+      "significance": "ns"
+    },
+    "SLC6A4": {
+      "mean_shift": 0.01613074541091919,
+      "n_cells": 1,
+      "expression_frequency": 0.01758614533119086,
+      "null_type": "bin_based",
+      "n_null_genes": 9,
+      "n_exceeding": 1,
+      "empirical_p": 0.2,
+      "z_score": 1.0740515575157972,
+      "null_mean": 0.011587810277587854,
+      "null_std": 0.0042297179325718895,
+      "fdr_q": 0.6,
+      "significance": "ns"
+    },
+    "NLGN1": {
+      "mean_shift": 0.01598416362938128,
+      "n_cells": 380,
+      "expression_frequency": 0.8931440814140332,
+      "null_type": "all_controls",
+      "n_null_genes": 1,
+      "n_exceeding": 0,
+      "empirical_p": 0.5,
+      "z_score": null,
+      "null_mean": null,
+      "null_std": null,
+      "fdr_q": 0.75,
+      "significance": "ns"
+    },
+    "TCF4": {
+      "mean_shift": 0.015230617739937523,
+      "n_cells": 440,
+      "expression_frequency": 0.9475986430994465,
+      "null_type": "all_controls",
+      "n_null_genes": 1,
+      "n_exceeding": 0,
+      "empirical_p": 0.5,
+      "z_score": null,
+      "null_mean": null,
+      "null_std": null,
+      "fdr_q": 0.75,
+      "significance": "ns"
+    },
+    "FOXO3": {
+      "mean_shift": 0.014868919616160185,
+      "n_cells": 276,
+      "expression_frequency": 0.7071951437243349,
+      "null_type": "bin_based",
+      "n_null_genes": 5,
+      "n_exceeding": 3,
+      "empirical_p": 0.6666666666666666,
+      "z_score": 0.10207503651632904,
+      "null_mean": 0.014595518438363837,
+      "null_std": 0.0026784333087415753,
+      "fdr_q": 0.8235294117647058,
+      "significance": "ns"
+    },
+    "BDNF": {
+      "mean_shift": 0.014018572610000083,
+      "n_cells": 174,
+      "expression_frequency": 0.5190144617032673,
+      "null_type": "bin_based",
+      "n_null_genes": 5,
+      "n_exceeding": 3,
+      "empirical_p": 0.6666666666666666,
+      "z_score": -0.21540421651746228,
+      "null_mean": 0.014595518438363837,
+      "null_std": 0.0026784333087415753,
+      "fdr_q": 0.8235294117647058,
+      "significance": "ns"
+    },
+    "MAPT": {
+      "mean_shift": 0.013814136627558116,
+      "n_cells": 370,
+      "expression_frequency": 0.8922513836814855,
+      "null_type": "all_controls",
+      "n_null_genes": 1,
+      "n_exceeding": 0,
+      "empirical_p": 0.5,
+      "z_score": null,
+      "null_mean": null,
+      "null_std": null,
+      "fdr_q": 0.75,
+      "significance": "ns"
+    },
+    "CREB1": {
+      "mean_shift": 0.012409844795862834,
+      "n_cells": 150,
+      "expression_frequency": 0.4931262274593822,
+      "null_type": "bin_based",
+      "n_null_genes": 5,
+      "n_exceeding": 4,
+      "empirical_p": 0.8333333333333334,
+      "z_score": -0.8160269047460104,
+      "null_mean": 0.014595518438363837,
+      "null_std": 0.0026784333087415753,
+      "fdr_q": 0.875,
+      "significance": "ns"
+    },
+    "FMR1": {
+      "mean_shift": 0.01091100976747625,
+      "n_cells": 68,
+      "expression_frequency": 0.3028030708802,
+      "null_type": "bin_based",
+      "n_null_genes": 9,
+      "n_exceeding": 5,
+      "empirical_p": 0.6,
+      "z_score": -0.16001079053043943,
+      "null_mean": 0.011587810277587854,
+      "null_std": 0.0042297179325718895,
+      "fdr_q": 0.8235294117647058,
+      "significance": "ns"
+    },
+    "SYN1": {
+      "mean_shift": 0.009434258937835694,
+      "n_cells": 30,
+      "expression_frequency": 0.26173897518300304,
+      "null_type": "bin_based",
+      "n_null_genes": 9,
+      "n_exceeding": 7,
+      "empirical_p": 0.8,
+      "z_score": -0.5091477432025092,
+      "null_mean": 0.011587810277587854,
+      "null_std": 0.0042297179325718895,
+      "fdr_q": 0.875,
+      "significance": "ns"
+    },
+    "COMT": {
+      "mean_shift": 0.009359199706822226,
+      "n_cells": 73,
+      "expression_frequency": 0.35225852526334583,
+      "null_type": "bin_based",
+      "n_null_genes": 9,
+      "n_exceeding": 7,
+      "empirical_p": 0.8,
+      "z_score": -0.5268934255884331,
+      "null_mean": 0.011587810277587854,
+      "null_std": 0.0042297179325718895,
+      "fdr_q": 0.875,
+      "significance": "ns"
+    },
+    "SHANK3": {
+      "mean_shift": 0.006302297115325928,
+      "n_cells": 35,
+      "expression_frequency": 0.3795750758793073,
+      "null_type": "bin_based",
+      "n_null_genes": 9,
+      "n_exceeding": 8,
+      "empirical_p": 0.9,
+      "z_score": -1.2496136259015405,
+      "null_mean": 0.011587810277587854,
+      "null_std": 0.0042297179325718895,
+      "fdr_q": 0.9000000000000001,
+      "significance": "ns"
+    }
+  },
+  "control_gene_results": {
+    "SRL": {
+      "ensembl": "ENSG00000185739",
+      "frequency": 0.01624709873236922,
+      "bin": 0,
+      "matched_to": [
+        "SLC6A4"
+      ],
+      "mean_shift": 0.0023263096809387207,
+      "std_shift": 0.0,
+      "n_cells": 1,
+      "status": "success",
+      "time_seconds": 26.69731879234314
+    },
+    "UQCC5": {
+      "ensembl": "ENSG00000168273",
+      "frequency": 0.23022674522406714,
+      "bin": 0,
+      "matched_to": [
+        "SYN1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 35.42303228378296
+    },
+    "CIBAR1": {
+      "ensembl": "ENSG00000188343",
+      "frequency": 0.24424209962506696,
+      "bin": 0,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 26.867324113845825
+    },
+    "GTF3A": {
+      "ensembl": "ENSG00000122034",
+      "frequency": 0.23352972683449383,
+      "bin": 0,
+      "matched_to": [
+        "SYN1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 25.20378303527832
+    },
+    "CUTC": {
+      "ensembl": "ENSG00000119929",
+      "frequency": 0.21630066059632208,
+      "bin": 0,
+      "matched_to": [
+        "SYN1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 21.571579694747925
+    },
+    "ACBD3": {
+      "ensembl": "ENSG00000182827",
+      "frequency": 0.37029101946081056,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "SCN1A",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 21.15189504623413
+    },
+    "CPM": {
+      "ensembl": "ENSG00000135678",
+      "frequency": 0.415550794500982,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 23.818730115890503
+    },
+    "COX6C": {
+      "ensembl": "ENSG00000164919",
+      "frequency": 0.27834315300839135,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 21.3607816696167
+    },
+    "YTHDF3": {
+      "ensembl": "ENSG00000185728",
+      "frequency": 0.41269416175682916,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 20.956257343292236
+    },
+    "HEXB": {
+      "ensembl": "ENSG00000049860",
+      "frequency": 0.2886091769326906,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 22.015323162078857
+    },
+    "CDC37L1": {
+      "ensembl": "ENSG00000106993",
+      "frequency": 0.27084449205499017,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 20.122572422027588
+    },
+    "HAPSTR1": {
+      "ensembl": "ENSG00000182831",
+      "frequency": 0.3341367612926263,
+      "bin": 1,
+      "matched_to": [
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 21.512208938598633
+    },
+    "NUP42": {
+      "ensembl": "ENSG00000136243",
+      "frequency": 0.4116229244777718,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 24.51938772201538
+    },
+    "FOXRED1": {
+      "ensembl": "ENSG00000110074",
+      "frequency": 0.30655240135690054,
+      "bin": 1,
+      "matched_to": [
+        "SHANK3",
+        "FMR1",
+        "SYN1",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 20.43486976623535
+    },
+    "HOOK2": {
+      "ensembl": "ENSG00000095066",
+      "frequency": 0.3713622567398679,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "SCN1A",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 20.85740303993225
+    },
+    "SLC4A10": {
+      "ensembl": "ENSG00000144290",
+      "frequency": 0.44938403856454207,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 26.43257975578308
+    },
+    "ARHGEF4": {
+      "ensembl": "ENSG00000136002",
+      "frequency": 0.44358150330298163,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 22.075427770614624
+    },
+    "TPK1": {
+      "ensembl": "ENSG00000196511",
+      "frequency": 0.42635243706480985,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 23.00397825241089
+    },
+    "IGSF8": {
+      "ensembl": "ENSG00000162729",
+      "frequency": 0.34413497589716124,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 4.318271636962891
+    },
+    "STAMBP": {
+      "ensembl": "ENSG00000124356",
+      "frequency": 0.36636314943760045,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "SCN1A",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.6382486820220947
+    },
+    "TMOD1": {
+      "ensembl": "ENSG00000136842",
+      "frequency": 0.3431530083913587,
+      "bin": 1,
+      "matched_to": [
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.739393711090088
+    },
+    "CDK11B": {
+      "ensembl": "ENSG00000248333",
+      "frequency": 0.2614711658632387,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 4.136433124542236
+    },
+    "KANSL3": {
+      "ensembl": "ENSG00000114982",
+      "frequency": 0.4427780753436886,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 4.13460373878479
+    },
+    "PRPF6": {
+      "ensembl": "ENSG00000101161",
+      "frequency": 0.3282449562578111,
+      "bin": 1,
+      "matched_to": [
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 5.979294776916504
+    },
+    "DGCR2": {
+      "ensembl": "ENSG00000070413",
+      "frequency": 0.4566148901981789,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.5544567108154297
+    },
+    "PTPRZ1": {
+      "ensembl": "ENSG00000106278",
+      "frequency": 0.29976789858953756,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.7861711978912354
+    },
+    "RPSA": {
+      "ensembl": "ENSG00000168028",
+      "frequency": 0.2730762363863596,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.568979024887085
+    },
+    "PSMB1": {
+      "ensembl": "ENSG00000008018",
+      "frequency": 0.2766470273165506,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.3373892307281494
+    },
+    "PMM2": {
+      "ensembl": "ENSG00000140650",
+      "frequency": 0.3284234958043207,
+      "bin": 1,
+      "matched_to": [
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.54526686668396
+    },
+    "PCMTD2": {
+      "ensembl": "ENSG00000203880",
+      "frequency": 0.3776111408677022,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "SCN1A",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.497567653656006
+    },
+    "STX6": {
+      "ensembl": "ENSG00000135823",
+      "frequency": 0.39805391894304587,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.3898563385009766
+    },
+    "GNPAT": {
+      "ensembl": "ENSG00000116906",
+      "frequency": 0.3260132119264417,
+      "bin": 1,
+      "matched_to": [
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "FMR1",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.0893747806549072
+    },
+    "EIF4G2": {
+      "ensembl": "ENSG00000110321",
+      "frequency": 0.30458846634529546,
+      "bin": 1,
+      "matched_to": [
+        "SHANK3",
+        "FMR1",
+        "SYN1",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.1723012924194336
+    },
+    "GABRG2": {
+      "ensembl": "ENSG00000113327",
+      "frequency": 0.36814854490269594,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "SHANK3",
+        "HOMER1",
+        "SCN1A",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.104969024658203
+    },
+    "WDR25": {
+      "ensembl": "ENSG00000176473",
+      "frequency": 0.2862881628280664,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.540658950805664
+    },
+    "ZNF226": {
+      "ensembl": "ENSG00000167380",
+      "frequency": 0.25129441171219424,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.7550222873687744
+    },
+    "JAK1": {
+      "ensembl": "ENSG00000162434",
+      "frequency": 0.4717907516514908,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.818418502807617
+    },
+    "CCS": {
+      "ensembl": "ENSG00000173992",
+      "frequency": 0.2510266023924299,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.507375955581665
+    },
+    "DLST": {
+      "ensembl": "ENSG00000119689",
+      "frequency": 0.2752187109444742,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.6326684951782227
+    },
+    "GOLGA8B": {
+      "ensembl": "ENSG00000215252",
+      "frequency": 0.43608284234958045,
+      "bin": 1,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.948996067047119
+    },
+    "HSF2": {
+      "ensembl": "ENSG00000025156",
+      "frequency": 0.2495982860203535,
+      "bin": 1,
+      "matched_to": [
+        "FMR1",
+        "SYN1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.4970643520355225
+    },
+    "TPM4": {
+      "ensembl": "ENSG00000167460",
+      "frequency": 0.4005534725941796,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.668915033340454
+    },
+    "SEC61A2": {
+      "ensembl": "ENSG00000065665",
+      "frequency": 0.4043028030708802,
+      "bin": 1,
+      "matched_to": [
+        "GRIN2B",
+        "CAMK2A",
+        "GRIN2A",
+        "SHANK3",
+        "HOMER1",
+        "CREB1",
+        "SCN1A",
+        "COMT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.5174546241760254
+    },
+    "NUP98": {
+      "ensembl": "ENSG00000110713",
+      "frequency": 0.5158007498660954,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.6354451179504395
+    },
+    "MTREX": {
+      "ensembl": "ENSG00000039123",
+      "frequency": 0.6085520442778075,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.1510658264160156
+    },
+    "LMTK2": {
+      "ensembl": "ENSG00000164715",
+      "frequency": 0.4972326370291019,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.3918774127960205
+    },
+    "KCNMB4": {
+      "ensembl": "ENSG00000135643",
+      "frequency": 0.5116050705231209,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.0599100589752197
+    },
+    "DENND6A": {
+      "ensembl": "ENSG00000174839",
+      "frequency": 0.5305302624531334,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2A",
+        "CREB1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.9297637939453125
+    },
+    "PLCL2": {
+      "ensembl": "ENSG00000154822",
+      "frequency": 0.5191930012497769,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.6928532123565674
+    },
+    "DGLUCY": {
+      "ensembl": "ENSG00000133943",
+      "frequency": 0.5089269773254776,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.6959991455078125
+    },
+    "MOBP": {
+      "ensembl": "ENSG00000168314",
+      "frequency": 0.5615961435457953,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "GRIN2A",
+        "CREB1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.5707385540008545
+    },
+    "NAA16": {
+      "ensembl": "ENSG00000172766",
+      "frequency": 0.5027673629708981,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.8882036209106445
+    },
+    "WASHC4": {
+      "ensembl": "ENSG00000136051",
+      "frequency": 0.4909837529012676,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.7226850986480713
+    },
+    "UBE2H": {
+      "ensembl": "ENSG00000186591",
+      "frequency": 0.6999642920906981,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.95024037361145
+    },
+    "PTPDC1": {
+      "ensembl": "ENSG00000158079",
+      "frequency": 0.4963399392965542,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.1900081634521484
+    },
+    "ADSS2": {
+      "ensembl": "ENSG00000035687",
+      "frequency": 0.5164256382788788,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.484992504119873
+    },
+    "FAM182B": {
+      "ensembl": "ENSG00000175170",
+      "frequency": 0.5250848062845921,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2A",
+        "CREB1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.14927077293396
+    },
+    "BABAM2": {
+      "ensembl": "ENSG00000158019",
+      "frequency": 0.7071951437243349,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.729612350463867
+    },
+    "STX18": {
+      "ensembl": "ENSG00000168818",
+      "frequency": 0.49535797179075164,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.617363929748535
+    },
+    "GPATCH2L": {
+      "ensembl": "ENSG00000089916",
+      "frequency": 0.5906088198535976,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "NEGR1",
+        "FOXO3",
+        "CREB1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.04738187789917
+    },
+    "CLK1": {
+      "ensembl": "ENSG00000013441",
+      "frequency": 0.4922335297268345,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.4012157917022705
+    },
+    "SRGAP3": {
+      "ensembl": "ENSG00000196220",
+      "frequency": 0.6880914122478129,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.7970006465911865
+    },
+    "PCSK7": {
+      "ensembl": "ENSG00000160613",
+      "frequency": 0.5507945009819675,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "GRIN2A",
+        "CREB1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.7238588333129883
+    },
+    "GSN": {
+      "ensembl": "ENSG00000148180",
+      "frequency": 0.6684520621317622,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.8550381660461426
+    },
+    "MTDH": {
+      "ensembl": "ENSG00000147649",
+      "frequency": 0.7079093019103732,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.736623525619507
+    },
+    "KPNA3": {
+      "ensembl": "ENSG00000102753",
+      "frequency": 0.5391001606855919,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "GRIN2A",
+        "CREB1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.787249803543091
+    },
+    "FBXL7": {
+      "ensembl": "ENSG00000183580",
+      "frequency": 0.6425638278878771,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.6621689796447754
+    },
+    "AKAP7": {
+      "ensembl": "ENSG00000118507",
+      "frequency": 0.49482235315122297,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2B",
+        "GRIN2A",
+        "CREB1",
+        "SCN1A"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.718992233276367
+    },
+    "CEP192": {
+      "ensembl": "ENSG00000101639",
+      "frequency": 0.6674700946259596,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.602297782897949
+    },
+    "TTC21B": {
+      "ensembl": "ENSG00000123607",
+      "frequency": 0.5546331012319229,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "NRXN1",
+        "GRIN2A",
+        "CREB1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.5090386867523193
+    },
+    "ADAM17": {
+      "ensembl": "ENSG00000151694",
+      "frequency": 0.5253526156043563,
+      "bin": 2,
+      "matched_to": [
+        "MEF2C",
+        "BDNF",
+        "GRIN2A",
+        "CREB1"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.7834970951080322
+    },
+    "MPHOSPH8": {
+      "ensembl": "ENSG00000196199",
+      "frequency": 0.7090698089626852,
+      "bin": 2,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.728311777114868
+    },
+    "TMTC2": {
+      "ensembl": "ENSG00000179104",
+      "frequency": 0.821906802356722,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.0392379760742188
+    },
+    "NLK": {
+      "ensembl": "ENSG00000087095",
+      "frequency": 0.8254775932869131,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.143587350845337
+    },
+    "PEX5L": {
+      "ensembl": "ENSG00000114757",
+      "frequency": 0.872879842885199,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.6431751251220703
+    },
+    "TAOK3": {
+      "ensembl": "ENSG00000135090",
+      "frequency": 0.8768969826816639,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.9901833534240723
+    },
+    "GAB1": {
+      "ensembl": "ENSG00000109458",
+      "frequency": 0.8145866809498303,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.7741143703460693
+    },
+    "DIS3L2": {
+      "ensembl": "ENSG00000144535",
+      "frequency": 0.7641492590608819,
+      "bin": 3,
+      "matched_to": [
+        "NRXN1",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.652148485183716
+    },
+    "ITFG1": {
+      "ensembl": "ENSG00000129636",
+      "frequency": 0.8630601678271738,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.0436594486236572
+    },
+    "PHF14": {
+      "ensembl": "ENSG00000106443",
+      "frequency": 0.7612926263167291,
+      "bin": 3,
+      "matched_to": [
+        "NRXN1",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.7545900344848633
+    },
+    "PPP1R21": {
+      "ensembl": "ENSG00000162869",
+      "frequency": 0.7161221210498125,
+      "bin": 3,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "NLGN1",
+        "MAPT",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.7145144939422607
+    },
+    "EXOC4": {
+      "ensembl": "ENSG00000131558",
+      "frequency": 0.8838600249955365,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.2159175872802734
+    },
+    "MGAT5": {
+      "ensembl": "ENSG00000152127",
+      "frequency": 0.7666488127120157,
+      "bin": 3,
+      "matched_to": [
+        "NRXN1",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.710568428039551
+    },
+    "HNRNPU": {
+      "ensembl": "ENSG00000153187",
+      "frequency": 0.7168362792358507,
+      "bin": 3,
+      "matched_to": [
+        "NRXN1",
+        "NEGR1",
+        "NLGN1",
+        "MAPT",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.09541654586792
+    },
+    "MLLT10": {
+      "ensembl": "ENSG00000078403",
+      "frequency": 0.7881628280664167,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "NRXN1",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.4323151111602783
+    },
+    "HERC1": {
+      "ensembl": "ENSG00000103657",
+      "frequency": 0.8579717907516515,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.9791958332061768
+    },
+    "ZBTB20": {
+      "ensembl": "ENSG00000181722",
+      "frequency": 0.9173361899660775,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.002906560897827
+    },
+    "TNKS": {
+      "ensembl": "ENSG00000173273",
+      "frequency": 0.8625245491876451,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.897731304168701
+    },
+    "WDFY2": {
+      "ensembl": "ENSG00000139668",
+      "frequency": 0.7720049991073022,
+      "bin": 3,
+      "matched_to": [
+        "NRXN1",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.7340288162231445
+    },
+    "ARGLU1": {
+      "ensembl": "ENSG00000134884",
+      "frequency": 0.8752008569898232,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.0214102268218994
+    },
+    "HIPK2": {
+      "ensembl": "ENSG00000064393",
+      "frequency": 0.8070880199964292,
+      "bin": 3,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NEGR1",
+        "NLGN1",
+        "TCF4",
+        "MAPT",
+        "FOXO3"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.5655109882354736
+    },
+    "DST": {
+      "ensembl": "ENSG00000151914",
+      "frequency": 0.9840207105873952,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.1452691555023193
+    },
+    "ZSWIM6": {
+      "ensembl": "ENSG00000130449",
+      "frequency": 0.9528655597214784,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.092592716217041
+    },
+    "FMNL2": {
+      "ensembl": "ENSG00000157827",
+      "frequency": 0.9798250312444207,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.8613035678863525
+    },
+    "DLG2": {
+      "ensembl": "ENSG00000150672",
+      "frequency": 0.9803606498839493,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.9914777278900146
+    },
+    "SIK3": {
+      "ensembl": "ENSG00000160584",
+      "frequency": 0.9806284592037137,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.890371561050415
+    },
+    "DOCK4": {
+      "ensembl": "ENSG00000128512",
+      "frequency": 0.9591144438493127,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.1427114009857178
+    },
+    "ZEB2": {
+      "ensembl": "ENSG00000169554",
+      "frequency": 0.9472415640064275,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.5342071056365967
+    },
+    "NCAM1": {
+      "ensembl": "ENSG00000149294",
+      "frequency": 0.9580432065702553,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 2.746058464050293
+    },
+    "CLASP2": {
+      "ensembl": "ENSG00000163539",
+      "frequency": 0.9724156400642743,
+      "bin": 4,
+      "matched_to": [
+        "CADM2",
+        "APP",
+        "NLGN1",
+        "TCF4",
+        "MAPT"
+      ],
+      "status": "failed",
+      "error": "[Errno 32] Broken pipe",
+      "time_seconds": 3.153792142868042
+    }
+  },
+  "summary": {
+    "n_significant_fdr005": 0,
+    "n_significant_fdr01": 0,
+    "n_significant_fdr001": 0,
+    "intelligence_mean_shift": 0.01524387219802498,
+    "intelligence_median_shift": 0.01613074541091919,
+    "null_mean_shift": 0.0023263096809387207,
+    "null_median_shift": 0.0023263096809387207,
+    "null_std_shift": 0.0
+  }
+}

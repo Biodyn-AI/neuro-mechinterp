@@ -1,0 +1,37 @@
+{
+  "CADM2": {
+    "shift_mean": 0.019627257929009906,
+    "shift_std": 0.004490611163070982,
+    "n_cells": 472,
+    "cosine_sim_mean": 0.9803727420709901,
+    "pathway": "Cell Adhesion"
+  },
+  "GRIN2A": {
+    "shift_mean": 0.01895786881981409,
+    "shift_std": 0.006070469569714811,
+    "n_cells": 223,
+    "cosine_sim_mean": 0.9810421311801859,
+    "pathway": "Glutamate Receptors"
+  },
+  "CAMK2A": {
+    "shift_mean": 0.018922281649804886,
+    "shift_std": 0.00587987572931476,
+    "n_cells": 155,
+    "cosine_sim_mean": 0.9810777183501951,
+    "pathway": "Neurotrophic Signaling"
+  },
+  "MEF2C": {
+    "shift_mean": 0.0184425319786425,
+    "shift_std": 0.006518398611022745,
+    "n_cells": 216,
+    "cosine_sim_mean": 0.9815574680213575,
+    "pathway": "Neurodevelopmental/Transcription"
+  },
+  "APP": {
+    "shift_mean": 0.018320430156796477,
+    "shift_std": 0.005368357565385183,
+    "n_cells": 430,
+    "cosine_sim_mean": 0.9816795698432035,
+    "pathway": "Neurodegeneration-Associated"
+  }
+}

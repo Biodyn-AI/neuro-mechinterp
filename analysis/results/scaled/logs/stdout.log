@@ -1,0 +1,113 @@
+[2026-02-14 12:21:25] === Intelligence Augmentation - Scaled Perturbation Analysis ===
+[2026-02-14 12:21:25] Target: 2500 cells, Batch size: 150
+[2026-02-14 12:21:25] Using device: cuda
+[2026-02-14 12:21:25] Loading Geneformer dictionaries...
+[2026-02-14 12:21:25] Loaded dictionaries: 20275 tokens, 63675 genes
+[2026-02-14 12:21:25] Gene mapping: 22/22 genes mapped
+[2026-02-14 12:21:25] Loading Geneformer model...
+[2026-02-14 12:21:33] Model loaded and moved to cuda
+[2026-02-14 12:21:33] Loading dataset: D:\openclaw\intelligence-augmentation\data\brain_scrna\Siletti_DLPFC_113k.h5ad
+[2026-02-14 12:22:32] Dataset loaded: 113,339 cells x 28,586 genes
+[2026-02-14 12:22:32] Subsampling to 2500 cells...
+[2026-02-14 12:22:36] Processing 2,500 cells
+[2026-02-14 12:22:36] Mapped 28,520/28,586 data genes to Ensembl IDs
+[2026-02-14 12:22:36] Processing 17 batches of 150 cells each...
+[2026-02-14 12:22:36] Batch 1/17: cells 0-149
+[2026-02-14 12:22:36] Processing batch 1: 150 cells
+[2026-02-14 12:25:48] Saved batch 1: 369 perturbation results
+[2026-02-14 12:25:49] Batch 1 complete: 369 results
+[2026-02-14 12:25:49] Batch 2/17: cells 150-299
+[2026-02-14 12:25:49] Processing batch 2: 150 cells
+[2026-02-14 12:28:57] Saved batch 2: 352 perturbation results
+[2026-02-14 12:28:57] Batch 2 complete: 352 results
+[2026-02-14 12:28:57] Batch 3/17: cells 300-449
+[2026-02-14 12:28:57] Processing batch 3: 150 cells
+[2026-02-14 12:32:28] Saved batch 3: 406 perturbation results
+[2026-02-14 12:32:28] Batch 3 complete: 406 results
+[2026-02-14 12:32:28] Batch 4/17: cells 450-599
+[2026-02-14 12:32:28] Processing batch 4: 150 cells
+[2026-02-14 12:36:00] Saved batch 4: 397 perturbation results
+[2026-02-14 12:36:00] Batch 4 complete: 397 results
+[2026-02-14 12:36:01] Batch 5/17: cells 600-749
+[2026-02-14 12:36:01] Processing batch 5: 150 cells
+[2026-02-14 12:39:25] Saved batch 5: 400 perturbation results
+[2026-02-14 12:39:25] Batch 5 complete: 400 results
+[2026-02-14 12:39:25] Batch 6/17: cells 750-899
+[2026-02-14 12:39:25] Processing batch 6: 150 cells
+[2026-02-14 12:42:46] Saved batch 6: 394 perturbation results
+[2026-02-14 12:42:46] Batch 6 complete: 394 results
+[2026-02-14 12:42:46] Batch 7/17: cells 900-1049
+[2026-02-14 12:42:46] Processing batch 7: 150 cells
+[2026-02-14 12:45:49] Saved batch 7: 351 perturbation results
+[2026-02-14 12:45:49] Batch 7 complete: 351 results
+[2026-02-14 12:45:49] Batch 8/17: cells 1050-1199
+[2026-02-14 12:45:49] Processing batch 8: 150 cells
+[2026-02-14 12:48:59] Saved batch 8: 359 perturbation results
+[2026-02-14 12:48:59] Batch 8 complete: 359 results
+[2026-02-14 12:48:59] Batch 9/17: cells 1200-1349
+[2026-02-14 12:48:59] Processing batch 9: 150 cells
+[2026-02-14 12:52:01] Saved batch 9: 369 perturbation results
+[2026-02-14 12:52:01] Batch 9 complete: 369 results
+[2026-02-14 12:52:01] Batch 10/17: cells 1350-1499
+[2026-02-14 12:52:02] Processing batch 10: 150 cells
+[2026-02-14 12:55:16] Saved batch 10: 376 perturbation results
+[2026-02-14 12:55:16] Batch 10 complete: 376 results
+[2026-02-14 12:55:16] Batch 11/17: cells 1500-1649
+[2026-02-14 12:55:16] Processing batch 11: 150 cells
+[2026-02-14 12:58:49] Saved batch 11: 379 perturbation results
+[2026-02-14 12:58:49] Batch 11 complete: 379 results
+[2026-02-14 12:58:49] Batch 12/17: cells 1650-1799
+[2026-02-14 12:58:49] Processing batch 12: 150 cells
+[2026-02-14 13:02:05] Saved batch 12: 368 perturbation results
+[2026-02-14 13:02:05] Batch 12 complete: 368 results
+[2026-02-14 13:02:05] Batch 13/17: cells 1800-1949
+[2026-02-14 13:02:05] Processing batch 13: 150 cells
+[2026-02-14 13:05:12] Saved batch 13: 324 perturbation results
+[2026-02-14 13:05:12] Batch 13 complete: 324 results
+[2026-02-14 13:05:12] Batch 14/17: cells 1950-2099
+[2026-02-14 13:05:12] Processing batch 14: 150 cells
+[2026-02-14 13:08:27] Saved batch 14: 361 perturbation results
+[2026-02-14 13:08:27] Batch 14 complete: 361 results
+[2026-02-14 13:08:27] Batch 15/17: cells 2100-2249
+[2026-02-14 13:08:27] Processing batch 15: 150 cells
+[2026-02-14 13:11:54] Saved batch 15: 389 perturbation results
+[2026-02-14 13:11:55] Batch 15 complete: 389 results
+[2026-02-14 13:11:55] Batch 16/17: cells 2250-2399
+[2026-02-14 13:11:55] Processing batch 16: 150 cells
+[2026-02-14 13:15:24] Saved batch 16: 378 perturbation results
+[2026-02-14 13:15:24] Batch 16 complete: 378 results
+[2026-02-14 13:15:24] Batch 17/17: cells 2400-2499
+[2026-02-14 13:15:24] Processing batch 17: 100 cells
+[2026-02-14 13:17:42] Saved batch 17: 262 perturbation results
+[2026-02-14 13:17:42] Batch 17 complete: 262 results
+[2026-02-14 13:17:42] Combining all batch results...
+[2026-02-14 13:17:42] Combining all batch results...
+[2026-02-14 13:17:42] Loaded batch_001_results.csv: 369 results
+[2026-02-14 13:17:42] Loaded batch_002_results.csv: 352 results
+[2026-02-14 13:17:43] Loaded batch_003_results.csv: 406 results
+[2026-02-14 13:17:43] Loaded batch_004_results.csv: 397 results
+[2026-02-14 13:17:43] Loaded batch_005_results.csv: 400 results
+[2026-02-14 13:17:43] Loaded batch_006_results.csv: 394 results
+[2026-02-14 13:17:43] Loaded batch_007_results.csv: 351 results
+[2026-02-14 13:17:43] Loaded batch_008_results.csv: 359 results
+[2026-02-14 13:17:43] Loaded batch_009_results.csv: 369 results
+[2026-02-14 13:17:43] Loaded batch_010_results.csv: 376 results
+[2026-02-14 13:17:43] Loaded batch_011_results.csv: 379 results
+[2026-02-14 13:17:43] Loaded batch_012_results.csv: 368 results
+[2026-02-14 13:17:43] Loaded batch_013_results.csv: 324 results
+[2026-02-14 13:17:43] Loaded batch_014_results.csv: 361 results
+[2026-02-14 13:17:43] Loaded batch_015_results.csv: 389 results
+[2026-02-14 13:17:43] Loaded batch_016_results.csv: 378 results
+[2026-02-14 13:17:43] Loaded batch_017_results.csv: 262 results
+[2026-02-14 13:17:43] Combined results: 6234 measurements from 2327 cells
+[2026-02-14 13:17:43] Calculating gene-level statistics...
+[2026-02-14 13:17:43] FDR correction applied. Minimum FDR: 1.0000
+[2026-02-14 13:17:43] Summary report saved: D:\openclaw\intelligence-augmentation\analysis\results\scaled\SCALED_ANALYSIS_SUMMARY.md
+[2026-02-14 13:17:43] === ANALYSIS COMPLETE ===
+[2026-02-14 13:17:43] Final results:
+[2026-02-14 13:17:43]   - Cells processed: 2,327
+[2026-02-14 13:17:43]   - Total measurements: 6,234
+[2026-02-14 13:17:43]   - Overall FDR: 1.0000
+[2026-02-14 13:17:43]   - Results saved to: D:\openclaw\intelligence-augmentation\analysis\results\scaled
+[2026-02-14 13:17:43] FDR not significantly improved. May need more cells or different approach.
+[2026-02-14 13:17:43] Top gene: SHANK3 (effect size: 0.0022, 1321 cells)

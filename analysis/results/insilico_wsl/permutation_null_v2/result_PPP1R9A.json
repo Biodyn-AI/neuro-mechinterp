@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000158528",
+  "symbol": "PPP1R9A",
+  "mean_shift": 0.01286559221116214,
+  "std_shift": 0.006599500073136481,
+  "n_cells": 277,
+  "status": "success",
+  "time_seconds": 205.1057686805725
+}

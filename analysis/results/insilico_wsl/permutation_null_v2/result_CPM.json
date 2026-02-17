@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000135678",
+  "symbol": "CPM",
+  "mean_shift": 0.01545102287221838,
+  "std_shift": 0.006608185951175687,
+  "n_cells": 162,
+  "status": "success",
+  "time_seconds": 107.50326895713806
+}

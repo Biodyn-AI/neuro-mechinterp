@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000130449",
+  "symbol": "ZSWIM6",
+  "mean_shift": 0.017213814176795978,
+  "std_shift": 0.006370739907272417,
+  "n_cells": 379,
+  "status": "success",
+  "time_seconds": 577.8033015727997
+}

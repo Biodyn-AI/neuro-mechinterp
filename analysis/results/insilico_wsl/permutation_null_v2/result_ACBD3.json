@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000182827",
+  "symbol": "ACBD3",
+  "mean_shift": 0.013592898845672607,
+  "std_shift": 0.005811475190285645,
+  "n_cells": 106,
+  "status": "success",
+  "time_seconds": 78.68294882774353
+}

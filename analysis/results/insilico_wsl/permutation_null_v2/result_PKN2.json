@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000065243",
+  "symbol": "PKN2",
+  "mean_shift": 0.014812013833625768,
+  "std_shift": 0.007077955557402449,
+  "n_cells": 301,
+  "status": "success",
+  "time_seconds": 223.1250081062317
+}

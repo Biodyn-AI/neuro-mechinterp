@@ -1,0 +1,8 @@
+pathway_category,conservation_type,conservation_score,celltypes_present,total_celltypes,total_genes,genes,celltype_details
+Synaptic transmission,Highly conserved,1.0,6,6,4,"GRIN2A, GRIN2B, HOMER1, NRXN1",Astrocytes: 1 pathways; Excitatory_neurons: 1 pathways; Inhibitory_neurons: 1 pathways; Oligodendrocytes: 1 pathways; OPC: 1 pathways; Other: 1 pathways
+Cell adhesion,Highly conserved,1.0,6,6,3,"APP, CADM2, NRXN1",Astrocytes: 3 pathways; Excitatory_neurons: 3 pathways; Inhibitory_neurons: 3 pathways; Oligodendrocytes: 3 pathways; OPC: 3 pathways; Other: 3 pathways
+Synaptic plasticity,Highly conserved,0.8333333333333334,5,6,4,"CAMK2A, GRIN2A, GRIN2B, HOMER1",Astrocytes: 1 pathways; Excitatory_neurons: 1 pathways; Inhibitory_neurons: 1 pathways; OPC: 1 pathways; Other: 1 pathways
+Glutamate signaling,Highly conserved,0.8333333333333334,5,6,4,"CAMK2A, GRIN2A, GRIN2B, HOMER1",Astrocytes: 2 pathways; Excitatory_neurons: 2 pathways; Inhibitory_neurons: 2 pathways; OPC: 2 pathways; Other: 2 pathways
+Calcium signaling,Highly conserved,0.8333333333333334,5,6,2,"APP, NRXN1",Astrocytes: 1 pathways; Inhibitory_neurons: 1 pathways; Oligodendrocytes: 2 pathways; OPC: 1 pathways; Other: 1 pathways
+Transcription,Highly conserved,0.8333333333333334,5,6,1,MEF2C,Astrocytes: 2 pathways; Excitatory_neurons: 2 pathways; Inhibitory_neurons: 2 pathways; Oligodendrocytes: 2 pathways; OPC: 2 pathways
+Ion channels,Cell-type specific,0.16666666666666666,1,6,1,SCN1A,Oligodendrocytes: 1 pathways

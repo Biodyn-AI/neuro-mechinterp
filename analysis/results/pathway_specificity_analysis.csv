@@ -1,0 +1,29 @@
+pathway_type,pathway_id,pathway_name,specificity,celltype_count,total_celltypes,celltypes,genes,gene_count
+GO,GO:0005248,voltage-gated sodium channel activity,Cell-type specific,1,6,Oligodendrocytes,SCN1A,1
+GO,GO:0019228,neuronal action potential,Cell-type specific,1,6,Oligodendrocytes,SCN1A,1
+GO,GO:0086010,membrane depolarization during action potential,Cell-type specific,1,6,Oligodendrocytes,SCN1A,1
+GO,GO:0005509,calcium ion binding,Cell-type specific,1,6,Oligodendrocytes,NRXN1,1
+KEGG,hsa04750,Inflammatory mediator regulation,Cell-type specific,1,6,Oligodendrocytes,SCN1A,1
+KEGG,hsa05033,Nicotine addiction,Cell-type specific,1,6,Oligodendrocytes,SCN1A,1
+GO,GO:0005515,protein binding,Restricted,2,6,"OPC, Other",HOMER1,1
+GO,GO:0048167,regulation of synaptic plasticity,Common,5,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, OPC, Other","CAMK2A, GRIN2A, GRIN2B, HOMER1",4
+GO,GO:0004970,ionotropic glutamate receptor activity,Common,5,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, OPC, Other","GRIN2A, GRIN2B",2
+GO,GO:0003700,DNA-binding transcription factor activity,Common,5,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, Oligodendrocytes, OPC",MEF2C,1
+GO,GO:0045944,positive regulation of transcription,Common,5,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, Oligodendrocytes, OPC",MEF2C,1
+GO,GO:0030154,cell differentiation,Common,5,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, Oligodendrocytes, OPC",MEF2C,1
+GO,GO:0005516,calmodulin binding,Common,5,6,"Astrocytes, Inhibitory_neurons, Oligodendrocytes, OPC, Other",APP,1
+GO,GO:0042987,amyloid precursor protein catabolic process,Common,5,6,"Astrocytes, Inhibitory_neurons, Oligodendrocytes, OPC, Other",APP,1
+KEGG,hsa04724,Glutamatergic synapse,Common,5,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, OPC, Other","CAMK2A, GRIN2A, GRIN2B, HOMER1",4
+KEGG,hsa04720,Long-term potentiation,Common,5,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, OPC, Other","CAMK2A, GRIN2A, GRIN2B, HOMER1",4
+KEGG,hsa04080,Neuroactive ligand-receptor interaction,Common,5,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, OPC, Other",GRIN2A,1
+KEGG,hsa04550,Signaling pathways regulating pluripotency,Common,5,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, Oligodendrocytes, OPC",MEF2C,1
+KEGG,hsa05010,Alzheimer disease,Common,5,6,"Astrocytes, Inhibitory_neurons, Oligodendrocytes, OPC, Other",APP,1
+KEGG,hsa04726,Serotonergic synapse,Common,5,6,"Astrocytes, Inhibitory_neurons, Oligodendrocytes, OPC, Other",APP,1
+GO,GO:0004674,protein serine/threonine kinase activity,Common,4,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, Other",CAMK2A,1
+GO,GO:0035556,intracellular signal transduction,Common,4,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, Other",CAMK2A,1
+GO,GO:0007155,cell adhesion,Universal,6,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, Oligodendrocytes, OPC, Other","APP, CADM2",2
+GO,GO:0007416,synapse assembly,Universal,6,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, Oligodendrocytes, OPC, Other","CADM2, NRXN1",2
+GO,GO:0098609,cell-cell adhesion,Universal,6,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, Oligodendrocytes, OPC, Other",CADM2,1
+GO,GO:0007268,chemical synaptic transmission,Universal,6,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, Oligodendrocytes, OPC, Other","GRIN2A, GRIN2B, HOMER1, NRXN1",4
+KEGG,hsa04514,Cell adhesion molecules,Universal,6,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, Oligodendrocytes, OPC, Other","CADM2, NRXN1",2
+KEGG,hsa04360,Axon guidance,Universal,6,6,"Astrocytes, Excitatory_neurons, Inhibitory_neurons, Oligodendrocytes, OPC, Other","CADM2, NRXN1",2

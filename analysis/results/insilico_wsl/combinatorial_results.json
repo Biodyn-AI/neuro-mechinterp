@@ -1,0 +1,82 @@
+{
+  "CADM2_GRIN2A": {
+    "status": "failed",
+    "error": "\n        An attempt has been made to start a new process before the\n        current process has finished its bootstrapping phase.\n\n        This probably means that you are not using fork to start your\n        child processes and you have forgotten to use the proper idiom\n        in the main module:\n\n            if __name__ == '__main__':\n                freeze_support()\n                ...\n\n        The \"freeze_support()\" line can be omitted if the program\n        is not going to be frozen to produce an executable.\n\n        To fix this issue, refer to the \"Safe importing of main module\"\n        section in https://docs.python.org/3/library/multiprocessing.html\n        ",
+    "genes": [
+      "CADM2",
+      "GRIN2A"
+    ]
+  },
+  "CADM2_CAMK2A": {
+    "status": "failed",
+    "error": "\n        An attempt has been made to start a new process before the\n        current process has finished its bootstrapping phase.\n\n        This probably means that you are not using fork to start your\n        child processes and you have forgotten to use the proper idiom\n        in the main module:\n\n            if __name__ == '__main__':\n                freeze_support()\n                ...\n\n        The \"freeze_support()\" line can be omitted if the program\n        is not going to be frozen to produce an executable.\n\n        To fix this issue, refer to the \"Safe importing of main module\"\n        section in https://docs.python.org/3/library/multiprocessing.html\n        ",
+    "genes": [
+      "CADM2",
+      "CAMK2A"
+    ]
+  },
+  "CADM2_MEF2C": {
+    "status": "failed",
+    "error": "\n        An attempt has been made to start a new process before the\n        current process has finished its bootstrapping phase.\n\n        This probably means that you are not using fork to start your\n        child processes and you have forgotten to use the proper idiom\n        in the main module:\n\n            if __name__ == '__main__':\n                freeze_support()\n                ...\n\n        The \"freeze_support()\" line can be omitted if the program\n        is not going to be frozen to produce an executable.\n\n        To fix this issue, refer to the \"Safe importing of main module\"\n        section in https://docs.python.org/3/library/multiprocessing.html\n        ",
+    "genes": [
+      "CADM2",
+      "MEF2C"
+    ]
+  },
+  "CADM2_APP": {
+    "status": "failed",
+    "error": "\n        An attempt has been made to start a new process before the\n        current process has finished its bootstrapping phase.\n\n        This probably means that you are not using fork to start your\n        child processes and you have forgotten to use the proper idiom\n        in the main module:\n\n            if __name__ == '__main__':\n                freeze_support()\n                ...\n\n        The \"freeze_support()\" line can be omitted if the program\n        is not going to be frozen to produce an executable.\n\n        To fix this issue, refer to the \"Safe importing of main module\"\n        section in https://docs.python.org/3/library/multiprocessing.html\n        ",
+    "genes": [
+      "CADM2",
+      "APP"
+    ]
+  },
+  "GRIN2A_CAMK2A": {
+    "status": "failed",
+    "error": "\n        An attempt has been made to start a new process before the\n        current process has finished its bootstrapping phase.\n\n        This probably means that you are not using fork to start your\n        child processes and you have forgotten to use the proper idiom\n        in the main module:\n\n            if __name__ == '__main__':\n                freeze_support()\n                ...\n\n        The \"freeze_support()\" line can be omitted if the program\n        is not going to be frozen to produce an executable.\n\n        To fix this issue, refer to the \"Safe importing of main module\"\n        section in https://docs.python.org/3/library/multiprocessing.html\n        ",
+    "genes": [
+      "GRIN2A",
+      "CAMK2A"
+    ]
+  },
+  "GRIN2A_MEF2C": {
+    "status": "failed",
+    "error": "\n        An attempt has been made to start a new process before the\n        current process has finished its bootstrapping phase.\n\n        This probably means that you are not using fork to start your\n        child processes and you have forgotten to use the proper idiom\n        in the main module:\n\n            if __name__ == '__main__':\n                freeze_support()\n                ...\n\n        The \"freeze_support()\" line can be omitted if the program\n        is not going to be frozen to produce an executable.\n\n        To fix this issue, refer to the \"Safe importing of main module\"\n        section in https://docs.python.org/3/library/multiprocessing.html\n        ",
+    "genes": [
+      "GRIN2A",
+      "MEF2C"
+    ]
+  },
+  "GRIN2A_APP": {
+    "status": "failed",
+    "error": "\n        An attempt has been made to start a new process before the\n        current process has finished its bootstrapping phase.\n\n        This probably means that you are not using fork to start your\n        child processes and you have forgotten to use the proper idiom\n        in the main module:\n\n            if __name__ == '__main__':\n                freeze_support()\n                ...\n\n        The \"freeze_support()\" line can be omitted if the program\n        is not going to be frozen to produce an executable.\n\n        To fix this issue, refer to the \"Safe importing of main module\"\n        section in https://docs.python.org/3/library/multiprocessing.html\n        ",
+    "genes": [
+      "GRIN2A",
+      "APP"
+    ]
+  },
+  "CAMK2A_MEF2C": {
+    "status": "failed",
+    "error": "\n        An attempt has been made to start a new process before the\n        current process has finished its bootstrapping phase.\n\n        This probably means that you are not using fork to start your\n        child processes and you have forgotten to use the proper idiom\n        in the main module:\n\n            if __name__ == '__main__':\n                freeze_support()\n                ...\n\n        The \"freeze_support()\" line can be omitted if the program\n        is not going to be frozen to produce an executable.\n\n        To fix this issue, refer to the \"Safe importing of main module\"\n        section in https://docs.python.org/3/library/multiprocessing.html\n        ",
+    "genes": [
+      "CAMK2A",
+      "MEF2C"
+    ]
+  },
+  "CAMK2A_APP": {
+    "status": "failed",
+    "error": "\n        An attempt has been made to start a new process before the\n        current process has finished its bootstrapping phase.\n\n        This probably means that you are not using fork to start your\n        child processes and you have forgotten to use the proper idiom\n        in the main module:\n\n            if __name__ == '__main__':\n                freeze_support()\n                ...\n\n        The \"freeze_support()\" line can be omitted if the program\n        is not going to be frozen to produce an executable.\n\n        To fix this issue, refer to the \"Safe importing of main module\"\n        section in https://docs.python.org/3/library/multiprocessing.html\n        ",
+    "genes": [
+      "CAMK2A",
+      "APP"
+    ]
+  },
+  "MEF2C_APP": {
+    "status": "failed",
+    "error": "\n        An attempt has been made to start a new process before the\n        current process has finished its bootstrapping phase.\n\n        This probably means that you are not using fork to start your\n        child processes and you have forgotten to use the proper idiom\n        in the main module:\n\n            if __name__ == '__main__':\n                freeze_support()\n                ...\n\n        The \"freeze_support()\" line can be omitted if the program\n        is not going to be frozen to produce an executable.\n\n        To fix this issue, refer to the \"Safe importing of main module\"\n        section in https://docs.python.org/3/library/multiprocessing.html\n        ",
+    "genes": [
+      "MEF2C",
+      "APP"
+    ]
+  }
+}

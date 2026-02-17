@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000163714",
+  "symbol": "U2SURP",
+  "mean_shift": 0.012958996204866303,
+  "std_shift": 0.0063309229909291305,
+  "n_cells": 288,
+  "status": "success",
+  "time_seconds": 221.01755595207214
+}

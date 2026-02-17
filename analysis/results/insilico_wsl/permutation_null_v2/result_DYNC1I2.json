@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000077380",
+  "symbol": "DYNC1I2",
+  "mean_shift": 0.014707340875687583,
+  "std_shift": 0.007100769986630276,
+  "n_cells": 277,
+  "status": "success",
+  "time_seconds": 206.0447118282318
+}

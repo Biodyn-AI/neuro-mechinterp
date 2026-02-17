@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000124356",
+  "symbol": "STAMBP",
+  "mean_shift": 0.014592481984032525,
+  "std_shift": 0.005396386030286002,
+  "n_cells": 135,
+  "status": "success",
+  "time_seconds": 184.42444276809692
+}

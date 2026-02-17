@@ -1,0 +1,90 @@
+{
+  "n_rows_input": 588,
+  "n_genes": 22,
+  "n_donors_total": 3,
+  "nominal_t_p_lt_0_05": 4,
+  "fdr_q_lt_0_10": 0,
+  "fdr_q_lt_0_05": 0,
+  "top_genes_by_donor_mean_delta": [
+    {
+      "gene": "NRXN1",
+      "donor_mean_delta": 0.011897157466912785,
+      "t_p": 0.35648982018010567,
+      "q_t_bh": 0.5023857398073118,
+      "n_donors": 3,
+      "n_cells_total": 31
+    },
+    {
+      "gene": "MEF2C",
+      "donor_mean_delta": 0.011186535316983432,
+      "t_p": 0.14348288197827816,
+      "q_t_bh": 0.4304486459348345,
+      "n_donors": 3,
+      "n_cells_total": 23
+    },
+    {
+      "gene": "TCF4",
+      "donor_mean_delta": 0.011154600904578121,
+      "t_p": 0.11416579872308888,
+      "q_t_bh": 0.39958029553081104,
+      "n_donors": 3,
+      "n_cells_total": 49
+    },
+    {
+      "gene": "CADM2",
+      "donor_mean_delta": 0.010559909517992593,
+      "t_p": 0.2970002763400461,
+      "q_t_bh": 0.5023857398073118,
+      "n_donors": 3,
+      "n_cells_total": 50
+    },
+    {
+      "gene": "NEGR1",
+      "donor_mean_delta": 0.010157513357439698,
+      "t_p": 0.20637253141061213,
+      "q_t_bh": 0.5023857398073118,
+      "n_donors": 3,
+      "n_cells_total": 30
+    },
+    {
+      "gene": "GRIN2B",
+      "donor_mean_delta": 0.009496472943030385,
+      "t_p": 0.25095135367048116,
+      "q_t_bh": 0.5023857398073118,
+      "n_donors": 3,
+      "n_cells_total": 20
+    },
+    {
+      "gene": "APP",
+      "donor_mean_delta": 0.006912670752505189,
+      "t_p": 0.36047196403654325,
+      "q_t_bh": 0.5023857398073118,
+      "n_donors": 3,
+      "n_cells_total": 47
+    },
+    {
+      "gene": "NLGN1",
+      "donor_mean_delta": 0.00594583079332888,
+      "t_p": 0.37226459426751357,
+      "q_t_bh": 0.5023857398073118,
+      "n_donors": 3,
+      "n_cells_total": 48
+    },
+    {
+      "gene": "DISC1",
+      "donor_mean_delta": 0.0022258235686477123,
+      "t_p": 0.37203177934431586,
+      "q_t_bh": 0.5023857398073118,
+      "n_donors": 3,
+      "n_cells_total": 15
+    },
+    {
+      "gene": "MAPT",
+      "donor_mean_delta": 0.0014406896716310878,
+      "t_p": 0.41974953853256913,
+      "q_t_bh": 0.5185141358343501,
+      "n_donors": 3,
+      "n_cells_total": 46
+    }
+  ]
+}

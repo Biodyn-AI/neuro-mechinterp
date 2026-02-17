@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000185739",
+  "symbol": "SRL",
+  "mean_shift": 0.0023263096809387207,
+  "std_shift": 0.0,
+  "n_cells": 1,
+  "status": "success",
+  "time_seconds": 24.231724739074707
+}

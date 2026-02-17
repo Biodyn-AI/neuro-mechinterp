@@ -1,0 +1,24 @@
+2026-02-14 14:26:52,778 - INFO - Starting in silico perturbation experiment...
+2026-02-14 14:26:52,917 - INFO - CUDA available: True, GPU: NVIDIA GeForce RTX 2060
+2026-02-14 14:26:52,918 - INFO - Intelligence genes to perturb: 21 genes
+2026-02-14 14:26:52,919 - INFO - Genes: MEF2C, BDNF, GRIN2B, CADM2, NRXN1, CAMK2A, GRIN2A, SHANK3, HOMER1, APP, NEGR1, NLGN1, TCF4, MAPT, FOXO3, CREB1, FMR1, SYN1, SCN1A, SLC6A4, COMT
+2026-02-14 14:26:52,931 - INFO - Paths verified successfully
+2026-02-14 14:26:52,932 - INFO - Tokenizing brain data...
+Tokenizing /mnt/d/openclaw/intelligence-augmentation/analysis/results/insilico_wsl/prepared_data/brain_500.h5ad
+2026-02-14 14:27:02,024 - ERROR - Error during perturbation experiment: 'n_counts' column missing from data.obs
+2026-02-14 14:27:02,028 - ERROR - Traceback (most recent call last):
+  File "/mnt/d/openclaw/intelligence-augmentation/analysis/results/insilico_wsl/run_perturber.py", line 73, in main
+    tk.tokenize_data(
+  File "/home/agent/.local/lib/python3.12/site-packages/geneformer/tokenizer.py", line 466, in tokenize_data
+    tokenized_cells, cell_metadata, tokenized_counts = self.tokenize_files(
+                                                       ^^^^^^^^^^^^^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/geneformer/tokenizer.py", line 503, in tokenize_files
+    file_tokenized_cells, file_cell_metadata, file_tokenized_counts = tokenize_file_fn(file_path, file_format=file_format)
+                                                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/geneformer/tokenizer.py", line 522, in tokenize_anndata
+    adata = sum_ensembl_ids(
+            ^^^^^^^^^^^^^^^^
+  File "/home/agent/.local/lib/python3.12/site-packages/geneformer/tokenizer.py", line 226, in sum_ensembl_ids
+    "n_counts" in data.obs.columns
+AssertionError: 'n_counts' column missing from data.obs
+

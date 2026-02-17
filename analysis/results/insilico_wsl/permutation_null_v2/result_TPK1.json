@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000196511",
+  "symbol": "TPK1",
+  "mean_shift": 0.01602130801212497,
+  "std_shift": 0.006012412073531482,
+  "n_cells": 164,
+  "status": "success",
+  "time_seconds": 217.71477341651917
+}

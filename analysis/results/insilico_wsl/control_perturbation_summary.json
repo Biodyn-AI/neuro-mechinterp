@@ -1,0 +1,104 @@
+{
+  "EXOC6B": {
+    "status": "failed",
+    "ensembl": "ENSG00000144036",
+    "matched_to": "CADM2",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "DOCK9": {
+    "status": "failed",
+    "ensembl": "ENSG00000088387",
+    "matched_to": "APP",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "PDE7B": {
+    "status": "failed",
+    "ensembl": "ENSG00000171408",
+    "matched_to": "FOXO3",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "ZDHHC9": {
+    "status": "failed",
+    "ensembl": "ENSG00000188706",
+    "matched_to": "NLGN1",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "HDAC11": {
+    "status": "failed",
+    "ensembl": "ENSG00000163517",
+    "matched_to": "MAPT",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "XRCC6": {
+    "status": "failed",
+    "ensembl": "ENSG00000196419",
+    "matched_to": "TCF4",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "WDR46": {
+    "status": "failed",
+    "ensembl": "ENSG00000227057",
+    "matched_to": "CREB1",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "CUEDC2": {
+    "status": "failed",
+    "ensembl": "ENSG00000107874",
+    "matched_to": "DISC1",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "IGSF10": {
+    "status": "failed",
+    "ensembl": "ENSG00000152580",
+    "matched_to": "NEGR1",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "SALL3": {
+    "status": "failed",
+    "ensembl": "ENSG00000256463",
+    "matched_to": "FMR1",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "MFSD6L": {
+    "status": "failed",
+    "ensembl": "ENSG00000185156",
+    "matched_to": "COMT",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "TMEM88": {
+    "status": "failed",
+    "ensembl": "ENSG00000167874",
+    "matched_to": "MEF2C",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "ACTB": {
+    "status": "failed",
+    "ensembl": "ENSG00000075624",
+    "matched_to": "housekeeping",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "GAPDH": {
+    "status": "failed",
+    "ensembl": "ENSG00000111640",
+    "matched_to": "housekeeping",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "B2M": {
+    "status": "failed",
+    "ensembl": "ENSG00000166710",
+    "matched_to": "housekeeping",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "RPL13A": {
+    "status": "failed",
+    "ensembl": "ENSG00000142541",
+    "matched_to": "housekeeping",
+    "error": "must be called with a dataclass type or instance"
+  },
+  "YWHAZ": {
+    "status": "failed",
+    "ensembl": "ENSG00000164924",
+    "matched_to": "housekeeping",
+    "error": "must be called with a dataclass type or instance"
+  }
+}

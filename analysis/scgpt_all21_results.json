@@ -1,0 +1,43 @@
+{
+  "experiment": "scgpt_all21_perturbation",
+  "n_cells_sampled": 500,
+  "n_cells_tokenized": 500,
+  "genes": {
+    "CADM2": {
+      "mean_shift": 0.014210343360900879,
+      "std_shift": 0.0030857056844979525,
+      "n_cells": 6,
+      "n_expressing": 6
+    },
+    "SCN1A": {
+      "mean_shift": 0.011205261573195457,
+      "std_shift": 0.003448207164183259,
+      "n_cells": 17,
+      "n_expressing": 17
+    },
+    "NRXN1": {
+      "mean_shift": 0.012746459804475307,
+      "std_shift": 0.0027677882462739944,
+      "n_cells": 17,
+      "n_expressing": 17
+    },
+    "NEGR1": {
+      "mean_shift": 0.011816490441560745,
+      "std_shift": 0.0026636857073754072,
+      "n_cells": 82,
+      "n_expressing": 82
+    },
+    "NLGN1": {
+      "mean_shift": 0.011661265045404434,
+      "std_shift": 0.003346997080370784,
+      "n_cells": 4,
+      "n_expressing": 4
+    },
+    "CREB1": {
+      "mean_shift": 0.009724291041493416,
+      "std_shift": 0.0011099756229668856,
+      "n_cells": 17,
+      "n_expressing": 17
+    }
+  }
+}

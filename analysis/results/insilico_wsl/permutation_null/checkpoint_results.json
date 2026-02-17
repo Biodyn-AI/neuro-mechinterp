@@ -1,0 +1,1356 @@
+{
+  "SRL": {
+    "ensembl": "ENSG00000185739",
+    "frequency": 0.01624709873236922,
+    "bin": 0,
+    "matched_to": [
+      "SLC6A4"
+    ],
+    "mean_shift": 0.0023263096809387207,
+    "std_shift": 0.0,
+    "n_cells": 1,
+    "status": "reused"
+  },
+  "UQCC5": {
+    "ensembl": "ENSG00000168273",
+    "frequency": 0.23022674522406714,
+    "bin": 0,
+    "matched_to": [
+      "SYN1"
+    ],
+    "mean_shift": 0.01443409352075486,
+    "std_shift": 0.0070016495342537085,
+    "n_cells": 63,
+    "status": "success",
+    "time_seconds": 8.043137311935425
+  },
+  "CIBAR1": {
+    "ensembl": "ENSG00000188343",
+    "frequency": 0.24424209962506696,
+    "bin": 0,
+    "matched_to": [
+      "FMR1",
+      "SYN1"
+    ],
+    "mean_shift": 0.011234729062943231,
+    "std_shift": 0.005958021286847518,
+    "n_cells": 42,
+    "status": "success",
+    "time_seconds": 6.067173719406128
+  },
+  "GTF3A": {
+    "ensembl": "ENSG00000122034",
+    "frequency": 0.23352972683449383,
+    "bin": 0,
+    "matched_to": [
+      "SYN1"
+    ],
+    "mean_shift": 0.006481643645994125,
+    "std_shift": 0.0042129101272000355,
+    "n_cells": 31,
+    "status": "success",
+    "time_seconds": 4.732071876525879
+  },
+  "CUTC": {
+    "ensembl": "ENSG00000119929",
+    "frequency": 0.21630066059632208,
+    "bin": 0,
+    "matched_to": [
+      "SYN1"
+    ],
+    "mean_shift": 0.012863603922036978,
+    "std_shift": 0.005444108004544712,
+    "n_cells": 52,
+    "status": "success",
+    "time_seconds": 4.857462406158447
+  },
+  "ACBD3": {
+    "ensembl": "ENSG00000182827",
+    "frequency": 0.37029101946081056,
+    "bin": 1,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "SCN1A",
+      "COMT"
+    ],
+    "mean_shift": 0.013592898845672607,
+    "std_shift": 0.005811475190285645,
+    "n_cells": 106,
+    "status": "success",
+    "time_seconds": 7.903806209564209
+  },
+  "CPM": {
+    "ensembl": "ENSG00000135678",
+    "frequency": 0.415550794500982,
+    "bin": 1,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A",
+      "COMT"
+    ],
+    "mean_shift": 0.015451023976008097,
+    "std_shift": 0.006608184949932253,
+    "n_cells": 162,
+    "status": "success",
+    "time_seconds": 10.9141845703125
+  },
+  "COX6C": {
+    "ensembl": "ENSG00000164919",
+    "frequency": 0.27834315300839135,
+    "bin": 1,
+    "matched_to": [
+      "FMR1",
+      "SYN1"
+    ],
+    "mean_shift": 0.004207317645733173,
+    "std_shift": 0.003829686524607664,
+    "n_cells": 13,
+    "status": "success",
+    "time_seconds": 3.0212697982788086
+  },
+  "YTHDF3": {
+    "ensembl": "ENSG00000185728",
+    "frequency": 0.41269416175682916,
+    "bin": 1,
+    "matched_to": [
+      "MEF2C",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A",
+      "COMT"
+    ],
+    "mean_shift": 0.012256815800300011,
+    "std_shift": 0.0057101262194236635,
+    "n_cells": 130,
+    "status": "success",
+    "time_seconds": 10.500307083129883
+  },
+  "HEXB": {
+    "ensembl": "ENSG00000049860",
+    "frequency": 0.2886091769326906,
+    "bin": 1,
+    "matched_to": [
+      "FMR1",
+      "SYN1",
+      "COMT"
+    ],
+    "mean_shift": 0.013822201369465261,
+    "std_shift": 0.008415373968348369,
+    "n_cells": 69,
+    "status": "success",
+    "time_seconds": 7.121612787246704
+  },
+  "CDC37L1": {
+    "ensembl": "ENSG00000106993",
+    "frequency": 0.27084449205499017,
+    "bin": 1,
+    "matched_to": [
+      "FMR1",
+      "SYN1"
+    ],
+    "mean_shift": 0.012010042555630207,
+    "std_shift": 0.005904275808824521,
+    "n_cells": 64,
+    "status": "success",
+    "time_seconds": 5.7662084102630615
+  },
+  "HAPSTR1": {
+    "ensembl": "ENSG00000182831",
+    "frequency": 0.3341367612926263,
+    "bin": 1,
+    "matched_to": [
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "FMR1",
+      "COMT"
+    ],
+    "mean_shift": 0.012593839670482434,
+    "std_shift": 0.005931997363706389,
+    "n_cells": 95,
+    "status": "success",
+    "time_seconds": 7.590916633605957
+  },
+  "NUP42": {
+    "ensembl": "ENSG00000136243",
+    "frequency": 0.4116229244777718,
+    "bin": 1,
+    "matched_to": [
+      "MEF2C",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A",
+      "COMT"
+    ],
+    "mean_shift": 0.014795739720337582,
+    "std_shift": 0.00573648029304952,
+    "n_cells": 137,
+    "status": "success",
+    "time_seconds": 9.868930339813232
+  },
+  "FOXRED1": {
+    "ensembl": "ENSG00000110074",
+    "frequency": 0.30655240135690054,
+    "bin": 1,
+    "matched_to": [
+      "SHANK3",
+      "FMR1",
+      "SYN1",
+      "COMT"
+    ],
+    "mean_shift": 0.01314498907254066,
+    "std_shift": 0.005933656682684777,
+    "n_cells": 81,
+    "status": "success",
+    "time_seconds": 9.22745680809021
+  },
+  "HOOK2": {
+    "ensembl": "ENSG00000095066",
+    "frequency": 0.3713622567398679,
+    "bin": 1,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "SCN1A",
+      "COMT"
+    ],
+    "mean_shift": 0.0133816873440977,
+    "std_shift": 0.00586483254319667,
+    "n_cells": 122,
+    "status": "success",
+    "time_seconds": 9.643391370773315
+  },
+  "SLC4A10": {
+    "ensembl": "ENSG00000144290",
+    "frequency": 0.44938403856454207,
+    "bin": 1,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.01883135363459587,
+    "std_shift": 0.006346129954276666,
+    "n_cells": 192,
+    "status": "success",
+    "time_seconds": 12.552355289459229
+  },
+  "ARHGEF4": {
+    "ensembl": "ENSG00000136002",
+    "frequency": 0.44358150330298163,
+    "bin": 1,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.014858346119105258,
+    "std_shift": 0.006614020572422754,
+    "n_cells": 107,
+    "status": "success",
+    "time_seconds": 8.468385696411133
+  },
+  "TPK1": {
+    "ensembl": "ENSG00000196511",
+    "frequency": 0.42635243706480985,
+    "bin": 1,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.01602130801212497,
+    "std_shift": 0.006012412073531482,
+    "n_cells": 164,
+    "status": "success",
+    "time_seconds": 11.073237419128418
+  },
+  "IGSF8": {
+    "ensembl": "ENSG00000162729",
+    "frequency": 0.34413497589716124,
+    "bin": 1,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "FMR1",
+      "COMT"
+    ],
+    "mean_shift": 0.013000866613889996,
+    "std_shift": 0.004800212306040087,
+    "n_cells": 95,
+    "status": "success",
+    "time_seconds": 7.6699981689453125
+  },
+  "STAMBP": {
+    "ensembl": "ENSG00000124356",
+    "frequency": 0.36636314943760045,
+    "bin": 1,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "SCN1A",
+      "COMT"
+    ],
+    "mean_shift": 0.014592481984032525,
+    "std_shift": 0.005396386030286002,
+    "n_cells": 135,
+    "status": "success",
+    "time_seconds": 9.885388851165771
+  },
+  "TMOD1": {
+    "ensembl": "ENSG00000136842",
+    "frequency": 0.3431530083913587,
+    "bin": 1,
+    "matched_to": [
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "FMR1",
+      "COMT"
+    ],
+    "mean_shift": 0.009285526890908518,
+    "std_shift": 0.005744846878023513,
+    "n_cells": 62,
+    "status": "success",
+    "time_seconds": 5.695865631103516
+  },
+  "CDK11B": {
+    "ensembl": "ENSG00000248333",
+    "frequency": 0.2614711658632387,
+    "bin": 1,
+    "matched_to": [
+      "FMR1",
+      "SYN1"
+    ],
+    "mean_shift": 0.014196142331877751,
+    "std_shift": 0.00505068646077145,
+    "n_cells": 67,
+    "status": "success",
+    "time_seconds": 7.30187463760376
+  },
+  "KANSL3": {
+    "ensembl": "ENSG00000114982",
+    "frequency": 0.4427780753436886,
+    "bin": 1,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.011795183886652407,
+    "std_shift": 0.005874813457066368,
+    "n_cells": 115,
+    "status": "success",
+    "time_seconds": 7.892068862915039
+  },
+  "PRPF6": {
+    "ensembl": "ENSG00000101161",
+    "frequency": 0.3282449562578111,
+    "bin": 1,
+    "matched_to": [
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "FMR1",
+      "COMT"
+    ],
+    "mean_shift": 0.01344123024206895,
+    "std_shift": 0.0055402796857113865,
+    "n_cells": 78,
+    "status": "success",
+    "time_seconds": 6.038266897201538
+  },
+  "DGCR2": {
+    "ensembl": "ENSG00000070413",
+    "frequency": 0.4566148901981789,
+    "bin": 1,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "HOMER1",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.012321296514886799,
+    "std_shift": 0.005854841122750406,
+    "n_cells": 132,
+    "status": "success",
+    "time_seconds": 8.831881999969482
+  },
+  "PTPRZ1": {
+    "ensembl": "ENSG00000106278",
+    "frequency": 0.29976789858953756,
+    "bin": 1,
+    "matched_to": [
+      "FMR1",
+      "SYN1",
+      "COMT"
+    ],
+    "mean_shift": 0.013790512277233985,
+    "std_shift": 0.007956388726581855,
+    "n_cells": 62,
+    "status": "success",
+    "time_seconds": 5.2039477825164795
+  },
+  "RPSA": {
+    "ensembl": "ENSG00000168028",
+    "frequency": 0.2730762363863596,
+    "bin": 1,
+    "matched_to": [
+      "FMR1",
+      "SYN1"
+    ],
+    "mean_shift": 0.0006768822669982911,
+    "std_shift": 0.00016625310377671435,
+    "n_cells": 5,
+    "status": "success",
+    "time_seconds": 2.052924156188965
+  },
+  "PSMB1": {
+    "ensembl": "ENSG00000008018",
+    "frequency": 0.2766470273165506,
+    "bin": 1,
+    "matched_to": [
+      "FMR1",
+      "SYN1"
+    ],
+    "mean_shift": 0.00875096150806972,
+    "std_shift": 0.006023934508137265,
+    "n_cells": 35,
+    "status": "success",
+    "time_seconds": 3.8273351192474365
+  },
+  "PMM2": {
+    "ensembl": "ENSG00000140650",
+    "frequency": 0.3284234958043207,
+    "bin": 1,
+    "matched_to": [
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "FMR1",
+      "COMT"
+    ],
+    "mean_shift": 0.014028114386093922,
+    "std_shift": 0.005603572850383156,
+    "n_cells": 78,
+    "status": "success",
+    "time_seconds": 5.914635419845581
+  },
+  "PCMTD2": {
+    "ensembl": "ENSG00000203880",
+    "frequency": 0.3776111408677022,
+    "bin": 1,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "SCN1A",
+      "COMT"
+    ],
+    "mean_shift": 0.01072985234886709,
+    "std_shift": 0.0066127039786881255,
+    "n_cells": 99,
+    "status": "success",
+    "time_seconds": 7.058510780334473
+  },
+  "STX6": {
+    "ensembl": "ENSG00000135823",
+    "frequency": 0.39805391894304587,
+    "bin": 1,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A",
+      "COMT"
+    ],
+    "mean_shift": 0.012576770479396239,
+    "std_shift": 0.00561244128515792,
+    "n_cells": 118,
+    "status": "success",
+    "time_seconds": 8.085750818252563
+  },
+  "GNPAT": {
+    "ensembl": "ENSG00000116906",
+    "frequency": 0.3260132119264417,
+    "bin": 1,
+    "matched_to": [
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "FMR1",
+      "COMT"
+    ],
+    "mean_shift": 0.014054147751776727,
+    "std_shift": 0.005445860250645311,
+    "n_cells": 91,
+    "status": "success",
+    "time_seconds": 6.943661212921143
+  },
+  "EIF4G2": {
+    "ensembl": "ENSG00000110321",
+    "frequency": 0.30458846634529546,
+    "bin": 1,
+    "matched_to": [
+      "SHANK3",
+      "FMR1",
+      "SYN1",
+      "COMT"
+    ],
+    "mean_shift": 0.0066904425621032715,
+    "std_shift": 0.0051894108258913755,
+    "n_cells": 26,
+    "status": "success",
+    "time_seconds": 3.380084276199341
+  },
+  "GABRG2": {
+    "ensembl": "ENSG00000113327",
+    "frequency": 0.36814854490269594,
+    "bin": 1,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "SHANK3",
+      "HOMER1",
+      "SCN1A",
+      "COMT"
+    ],
+    "mean_shift": 0.017872543808836374,
+    "std_shift": 0.006888885748984069,
+    "n_cells": 161,
+    "status": "success",
+    "time_seconds": 10.238378763198853
+  },
+  "WDR25": {
+    "ensembl": "ENSG00000176473",
+    "frequency": 0.2862881628280664,
+    "bin": 1,
+    "matched_to": [
+      "FMR1",
+      "SYN1",
+      "COMT"
+    ],
+    "mean_shift": 0.013440516488305453,
+    "std_shift": 0.006045994183169242,
+    "n_cells": 87,
+    "status": "success",
+    "time_seconds": 6.527541637420654
+  },
+  "ZNF226": {
+    "ensembl": "ENSG00000167380",
+    "frequency": 0.25129441171219424,
+    "bin": 1,
+    "matched_to": [
+      "FMR1",
+      "SYN1"
+    ],
+    "mean_shift": 0.014533018148862398,
+    "std_shift": 0.0048023639478409095,
+    "n_cells": 65,
+    "status": "success",
+    "time_seconds": 5.367556571960449
+  },
+  "JAK1": {
+    "ensembl": "ENSG00000162434",
+    "frequency": 0.4717907516514908,
+    "bin": 1,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "GRIN2A",
+      "HOMER1",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.012496083530027475,
+    "std_shift": 0.006537273704501951,
+    "n_cells": 134,
+    "status": "success",
+    "time_seconds": 9.015331983566284
+  },
+  "CCS": {
+    "ensembl": "ENSG00000173992",
+    "frequency": 0.2510266023924299,
+    "bin": 1,
+    "matched_to": [
+      "FMR1",
+      "SYN1"
+    ],
+    "mean_shift": 0.01423310698607029,
+    "std_shift": 0.004985603037217026,
+    "n_cells": 78,
+    "status": "success",
+    "time_seconds": 6.310269594192505
+  },
+  "DLST": {
+    "ensembl": "ENSG00000119689",
+    "frequency": 0.2752187109444742,
+    "bin": 1,
+    "matched_to": [
+      "FMR1",
+      "SYN1"
+    ],
+    "mean_shift": 0.01336178845829434,
+    "std_shift": 0.006393639472889895,
+    "n_cells": 72,
+    "status": "success",
+    "time_seconds": 6.371487617492676
+  },
+  "GOLGA8B": {
+    "ensembl": "ENSG00000215252",
+    "frequency": 0.43608284234958045,
+    "bin": 1,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.01668743851284186,
+    "std_shift": 0.006851884875298888,
+    "n_cells": 192,
+    "status": "success",
+    "time_seconds": 12.356868267059326
+  },
+  "HSF2": {
+    "ensembl": "ENSG00000025156",
+    "frequency": 0.2495982860203535,
+    "bin": 1,
+    "matched_to": [
+      "FMR1",
+      "SYN1"
+    ],
+    "mean_shift": 0.012536321580410004,
+    "std_shift": 0.004985751867404432,
+    "n_cells": 40,
+    "status": "success",
+    "time_seconds": 5.295278072357178
+  },
+  "TPM4": {
+    "ensembl": "ENSG00000167460",
+    "frequency": 0.4005534725941796,
+    "bin": 1,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A",
+      "COMT"
+    ],
+    "mean_shift": 0.00844754834673298,
+    "std_shift": 0.005633619312336132,
+    "n_cells": 67,
+    "status": "success",
+    "time_seconds": 5.590836763381958
+  },
+  "SEC61A2": {
+    "ensembl": "ENSG00000065665",
+    "frequency": 0.4043028030708802,
+    "bin": 1,
+    "matched_to": [
+      "GRIN2B",
+      "CAMK2A",
+      "GRIN2A",
+      "SHANK3",
+      "HOMER1",
+      "CREB1",
+      "SCN1A",
+      "COMT"
+    ],
+    "mean_shift": 0.010351005980842992,
+    "std_shift": 0.0053741187891260854,
+    "n_cells": 95,
+    "status": "success",
+    "time_seconds": 7.451058626174927
+  },
+  "NUP98": {
+    "ensembl": "ENSG00000110713",
+    "frequency": 0.5158007498660954,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.012368585752404255,
+    "std_shift": 0.007283293377448689,
+    "n_cells": 161,
+    "status": "success",
+    "time_seconds": 11.040071487426758
+  },
+  "MTREX": {
+    "ensembl": "ENSG00000039123",
+    "frequency": 0.6085520442778075,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ],
+    "mean_shift": 0.013990416986132981,
+    "std_shift": 0.006405104715927368,
+    "n_cells": 218,
+    "status": "success",
+    "time_seconds": 14.117353677749634
+  },
+  "LMTK2": {
+    "ensembl": "ENSG00000164715",
+    "frequency": 0.4972326370291019,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.01433596414763753,
+    "std_shift": 0.0067796106680044705,
+    "n_cells": 164,
+    "status": "success",
+    "time_seconds": 11.295673608779907
+  },
+  "KCNMB4": {
+    "ensembl": "ENSG00000135643",
+    "frequency": 0.5116050705231209,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.01241082078974012,
+    "std_shift": 0.00663736613094408,
+    "n_cells": 142,
+    "status": "success",
+    "time_seconds": 9.436427593231201
+  },
+  "DENND6A": {
+    "ensembl": "ENSG00000174839",
+    "frequency": 0.5305302624531334,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2A",
+      "CREB1"
+    ],
+    "mean_shift": 0.01241121039246068,
+    "std_shift": 0.006391225823547305,
+    "n_cells": 165,
+    "status": "success",
+    "time_seconds": 11.074259042739868
+  },
+  "PLCL2": {
+    "ensembl": "ENSG00000154822",
+    "frequency": 0.5191930012497769,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.01367931253105931,
+    "std_shift": 0.007507072643484138,
+    "n_cells": 169,
+    "status": "success",
+    "time_seconds": 10.85303783416748
+  },
+  "DGLUCY": {
+    "ensembl": "ENSG00000133943",
+    "frequency": 0.5089269773254776,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.014843442900614305,
+    "std_shift": 0.005503698164243831,
+    "n_cells": 176,
+    "status": "success",
+    "time_seconds": 12.34563422203064
+  },
+  "MOBP": {
+    "ensembl": "ENSG00000168314",
+    "frequency": 0.5615961435457953,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "NRXN1",
+      "GRIN2A",
+      "CREB1"
+    ],
+    "mean_shift": 0.007989012900693917,
+    "std_shift": 0.007128260964125443,
+    "n_cells": 162,
+    "status": "success",
+    "time_seconds": 11.020483493804932
+  },
+  "NAA16": {
+    "ensembl": "ENSG00000172766",
+    "frequency": 0.5027673629708981,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.011728804606895942,
+    "std_shift": 0.007126425198378919,
+    "n_cells": 154,
+    "status": "success",
+    "time_seconds": 10.083208799362183
+  },
+  "WASHC4": {
+    "ensembl": "ENSG00000136051",
+    "frequency": 0.4909837529012676,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.012464579032815021,
+    "std_shift": 0.005707029024169716,
+    "n_cells": 138,
+    "status": "success",
+    "time_seconds": 9.186767101287842
+  },
+  "UBE2H": {
+    "ensembl": "ENSG00000186591",
+    "frequency": 0.6999642920906981,
+    "bin": 2,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ],
+    "mean_shift": 0.013715700242529272,
+    "std_shift": 0.006846838315543723,
+    "n_cells": 241,
+    "status": "success",
+    "time_seconds": 14.750334978103638
+  },
+  "PTPDC1": {
+    "ensembl": "ENSG00000158079",
+    "frequency": 0.4963399392965542,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.01274244648635767,
+    "std_shift": 0.006203174489059557,
+    "n_cells": 157,
+    "status": "success",
+    "time_seconds": 10.150861501693726
+  },
+  "ADSS2": {
+    "ensembl": "ENSG00000035687",
+    "frequency": 0.5164256382788788,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.015043385710035051,
+    "std_shift": 0.005533447881285029,
+    "n_cells": 175,
+    "status": "success",
+    "time_seconds": 11.20690107345581
+  },
+  "FAM182B": {
+    "ensembl": "ENSG00000175170",
+    "frequency": 0.5250848062845921,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2A",
+      "CREB1"
+    ],
+    "mean_shift": 0.010904564576990464,
+    "std_shift": 0.007894480192280203,
+    "n_cells": 119,
+    "status": "success",
+    "time_seconds": 8.208198308944702
+  },
+  "BABAM2": {
+    "ensembl": "ENSG00000158019",
+    "frequency": 0.7071951437243349,
+    "bin": 2,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ],
+    "mean_shift": 0.01704847116670209,
+    "std_shift": 0.006596277041699539,
+    "n_cells": 334,
+    "status": "success",
+    "time_seconds": 19.438504219055176
+  },
+  "STX18": {
+    "ensembl": "ENSG00000168818",
+    "frequency": 0.49535797179075164,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.013788120972143637,
+    "std_shift": 0.005840936763649086,
+    "n_cells": 148,
+    "status": "success",
+    "time_seconds": 9.701783180236816
+  },
+  "GPATCH2L": {
+    "ensembl": "ENSG00000089916",
+    "frequency": 0.5906088198535976,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "NRXN1",
+      "NEGR1",
+      "FOXO3",
+      "CREB1"
+    ],
+    "mean_shift": 0.0129932601880368,
+    "std_shift": 0.007174032081498694,
+    "n_cells": 217,
+    "status": "success",
+    "time_seconds": 13.303592920303345
+  },
+  "CLK1": {
+    "ensembl": "ENSG00000013441",
+    "frequency": 0.4922335297268345,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.0105736410918356,
+    "std_shift": 0.0059447899761577725,
+    "n_cells": 119,
+    "status": "success",
+    "time_seconds": 8.289508819580078
+  },
+  "SRGAP3": {
+    "ensembl": "ENSG00000196220",
+    "frequency": 0.6880914122478129,
+    "bin": 2,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ],
+    "mean_shift": 0.01587202122925851,
+    "std_shift": 0.006897116983013676,
+    "n_cells": 277,
+    "status": "success",
+    "time_seconds": 17.31943130493164
+  },
+  "PCSK7": {
+    "ensembl": "ENSG00000160613",
+    "frequency": 0.5507945009819675,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "NRXN1",
+      "GRIN2A",
+      "CREB1"
+    ],
+    "mean_shift": 0.011907172810499835,
+    "std_shift": 0.0067073573847516044,
+    "n_cells": 157,
+    "status": "success",
+    "time_seconds": 12.696468114852905
+  },
+  "GSN": {
+    "ensembl": "ENSG00000148180",
+    "frequency": 0.6684520621317622,
+    "bin": 2,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ],
+    "mean_shift": 0.01699013885481533,
+    "std_shift": 0.005822495462340316,
+    "n_cells": 231,
+    "status": "success",
+    "time_seconds": 14.243221282958984
+  },
+  "MTDH": {
+    "ensembl": "ENSG00000147649",
+    "frequency": 0.7079093019103732,
+    "bin": 2,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ],
+    "mean_shift": 0.012481876676013361,
+    "std_shift": 0.006522071308975839,
+    "n_cells": 241,
+    "status": "success",
+    "time_seconds": 15.689997911453247
+  },
+  "KPNA3": {
+    "ensembl": "ENSG00000102753",
+    "frequency": 0.5391001606855919,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "NRXN1",
+      "GRIN2A",
+      "CREB1"
+    ],
+    "mean_shift": 0.013251639863170643,
+    "std_shift": 0.006340105772379135,
+    "n_cells": 189,
+    "status": "success",
+    "time_seconds": 16.401090621948242
+  },
+  "FBXL7": {
+    "ensembl": "ENSG00000183580",
+    "frequency": 0.6425638278878771,
+    "bin": 2,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ],
+    "mean_shift": 0.013332678391052797,
+    "std_shift": 0.0068866775624156756,
+    "n_cells": 222,
+    "status": "success",
+    "time_seconds": 22.713752031326294
+  },
+  "AKAP7": {
+    "ensembl": "ENSG00000118507",
+    "frequency": 0.49482235315122297,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2B",
+      "GRIN2A",
+      "CREB1",
+      "SCN1A"
+    ],
+    "mean_shift": 0.01410272774423004,
+    "std_shift": 0.006539357665725723,
+    "n_cells": 157,
+    "status": "success",
+    "time_seconds": 14.327793598175049
+  },
+  "CEP192": {
+    "ensembl": "ENSG00000101639",
+    "frequency": 0.6674700946259596,
+    "bin": 2,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ],
+    "mean_shift": 0.013376242001151199,
+    "std_shift": 0.007057290636234558,
+    "n_cells": 227,
+    "status": "success",
+    "time_seconds": 18.8868510723114
+  },
+  "TTC21B": {
+    "ensembl": "ENSG00000123607",
+    "frequency": 0.5546331012319229,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "NRXN1",
+      "GRIN2A",
+      "CREB1"
+    ],
+    "mean_shift": 0.011989681200049389,
+    "std_shift": 0.007230522365431419,
+    "n_cells": 174,
+    "status": "success",
+    "time_seconds": 17.39457392692566
+  },
+  "ADAM17": {
+    "ensembl": "ENSG00000151694",
+    "frequency": 0.5253526156043563,
+    "bin": 2,
+    "matched_to": [
+      "MEF2C",
+      "BDNF",
+      "GRIN2A",
+      "CREB1"
+    ],
+    "mean_shift": 0.012686637944953387,
+    "std_shift": 0.007052181868368436,
+    "n_cells": 172,
+    "status": "success",
+    "time_seconds": 15.768498659133911
+  },
+  "MPHOSPH8": {
+    "ensembl": "ENSG00000196199",
+    "frequency": 0.7090698089626852,
+    "bin": 2,
+    "matched_to": [
+      "NRXN1",
+      "NEGR1",
+      "FOXO3"
+    ],
+    "mean_shift": 0.015970412073105667,
+    "std_shift": 0.006897777343315823,
+    "n_cells": 321,
+    "status": "success",
+    "time_seconds": 28.693851709365845
+  },
+  "TMTC2": {
+    "ensembl": "ENSG00000179104",
+    "frequency": 0.821906802356722,
+    "bin": 3,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT",
+      "FOXO3"
+    ],
+    "mean_shift": 0.01756745814413264,
+    "std_shift": 0.006240041046804949,
+    "n_cells": 276,
+    "status": "success",
+    "time_seconds": 141.65158438682556
+  },
+  "NLK": {
+    "ensembl": "ENSG00000087095",
+    "frequency": 0.8254775932869131,
+    "bin": 3,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT",
+      "FOXO3"
+    ],
+    "mean_shift": 0.016719108728262093,
+    "std_shift": 0.006602228455197864,
+    "n_cells": 325,
+    "status": "success",
+    "time_seconds": 261.7454288005829
+  },
+  "PEX5L": {
+    "ensembl": "ENSG00000114757",
+    "frequency": 0.872879842885199,
+    "bin": 3,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT"
+    ],
+    "mean_shift": 0.017331128565285018,
+    "std_shift": 0.0062151688314030385,
+    "n_cells": 343,
+    "status": "success",
+    "time_seconds": 222.97583889961243
+  },
+  "TAOK3": {
+    "ensembl": "ENSG00000135090",
+    "frequency": 0.8768969826816639,
+    "bin": 3,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT"
+    ],
+    "mean_shift": 0.016687655573414138,
+    "std_shift": 0.0061920043727679,
+    "n_cells": 383,
+    "status": "success",
+    "time_seconds": 273.94298338890076
+  },
+  "GAB1": {
+    "ensembl": "ENSG00000109458",
+    "frequency": 0.8145866809498303,
+    "bin": 3,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT",
+      "FOXO3"
+    ],
+    "status": "failed",
+    "error": "[Errno 32] Broken pipe",
+    "time_seconds": 41.54864311218262
+  },
+  "DIS3L2": {
+    "ensembl": "ENSG00000144535",
+    "frequency": 0.7641492590608819,
+    "bin": 3,
+    "matched_to": [
+      "NRXN1",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT",
+      "FOXO3"
+    ],
+    "status": "failed",
+    "error": "[Errno 32] Broken pipe",
+    "time_seconds": 30.64567232131958
+  },
+  "ITFG1": {
+    "ensembl": "ENSG00000129636",
+    "frequency": 0.8630601678271738,
+    "bin": 3,
+    "matched_to": [
+      "CADM2",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT"
+    ],
+    "status": "failed",
+    "error": "[Errno 32] Broken pipe",
+    "time_seconds": 27.81084704399109
+  },
+  "PHF14": {
+    "ensembl": "ENSG00000106443",
+    "frequency": 0.7612926263167291,
+    "bin": 3,
+    "matched_to": [
+      "NRXN1",
+      "APP",
+      "NEGR1",
+      "NLGN1",
+      "TCF4",
+      "MAPT",
+      "FOXO3"
+    ],
+    "status": "failed",
+    "error": "[Errno 32] Broken pipe",
+    "time_seconds": 15.447632074356079
+  }
+}

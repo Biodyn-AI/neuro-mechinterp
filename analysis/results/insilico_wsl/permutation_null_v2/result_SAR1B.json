@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000152700",
+  "symbol": "SAR1B",
+  "mean_shift": 0.01360899716053369,
+  "std_shift": 0.005358175260387861,
+  "n_cells": 106,
+  "status": "success",
+  "time_seconds": 46.9489164352417
+}

@@ -1,0 +1,943 @@
+{
+  "ranking_df": {
+    "CAMK2A": {
+      "Astrocyte": 1,
+      "Excitatory": 1,
+      "Inhibitory": 8,
+      "OPC": 11,
+      "Oligodendrocyte": 9,
+      "Other": 11
+    },
+    "CADM2": {
+      "Astrocyte": 4,
+      "Excitatory": 2,
+      "Inhibitory": 1,
+      "OPC": 1,
+      "Oligodendrocyte": 3,
+      "Other": 3
+    },
+    "GRIN2A": {
+      "Astrocyte": 11,
+      "Excitatory": 3,
+      "Inhibitory": 2,
+      "OPC": 11,
+      "Oligodendrocyte": 4,
+      "Other": 2
+    },
+    "MEF2C": {
+      "Astrocyte": 2,
+      "Excitatory": 4,
+      "Inhibitory": 6,
+      "OPC": 9,
+      "Oligodendrocyte": 2,
+      "Other": 5
+    },
+    "APP": {
+      "Astrocyte": 6,
+      "Excitatory": 5,
+      "Inhibitory": 3,
+      "OPC": 6,
+      "Oligodendrocyte": 5,
+      "Other": 6
+    },
+    "NRXN1": {
+      "Astrocyte": 5,
+      "Excitatory": 6,
+      "Inhibitory": 4,
+      "OPC": 7,
+      "Oligodendrocyte": 7,
+      "Other": 10
+    },
+    "GRIN2B": {
+      "Astrocyte": 11,
+      "Excitatory": 7,
+      "Inhibitory": 5,
+      "OPC": 8,
+      "Oligodendrocyte": 11,
+      "Other": 4
+    },
+    "SCN1A": {
+      "Astrocyte": 11,
+      "Excitatory": 8,
+      "Inhibitory": 7,
+      "OPC": 2,
+      "Oligodendrocyte": 1,
+      "Other": 11
+    },
+    "HOMER1": {
+      "Astrocyte": 11,
+      "Excitatory": 9,
+      "Inhibitory": 9,
+      "OPC": 3,
+      "Oligodendrocyte": 6,
+      "Other": 1
+    },
+    "NEGR1": {
+      "Astrocyte": 11,
+      "Excitatory": 10,
+      "Inhibitory": 11,
+      "OPC": 4,
+      "Oligodendrocyte": 8,
+      "Other": 11
+    }
+  },
+  "effect_df": {
+    "CAMK2A": {
+      "Astrocyte": 0.021079033613204956,
+      "Excitatory": 0.01952778155153448,
+      "Inhibitory": 0.017344917569841658,
+      "OPC": 0.0,
+      "Oligodendrocyte": 0.016958437860012054,
+      "Other": 0.0
+    },
+    "CADM2": {
+      "Astrocyte": 0.019001295489649617,
+      "Excitatory": 0.019351232368334206,
+      "Inhibitory": 0.020158266319948083,
+      "OPC": 0.020510505746912072,
+      "Oligodendrocyte": 0.019567962314771568,
+      "Other": 0.021053075790405273
+    },
+    "GRIN2A": {
+      "Astrocyte": 0.0,
+      "Excitatory": 0.018922733830976056,
+      "Inhibitory": 0.01931604267894358,
+      "OPC": 0.0,
+      "Oligodendrocyte": 0.018851921325776635,
+      "Other": 0.021123170852661133
+    },
+    "MEF2C": {
+      "Astrocyte": 0.020782440900802612,
+      "Excitatory": 0.018324471061879937,
+      "Inhibitory": 0.018045054163251605,
+      "OPC": 0.01627508799235026,
+      "Oligodendrocyte": 0.019661263624827067,
+      "Other": 0.019691869616508484
+    },
+    "APP": {
+      "Astrocyte": 0.018066028753916424,
+      "Excitatory": 0.01827140904347831,
+      "Inhibitory": 0.018891068867274693,
+      "OPC": 0.017073368032773335,
+      "Oligodendrocyte": 0.01828715611587871,
+      "Other": 0.01917332410812378
+    },
+    "NRXN1": {
+      "Astrocyte": 0.018646538257598877,
+      "Excitatory": 0.017450853259162565,
+      "Inhibitory": 0.0187363186661078,
+      "OPC": 0.016653063120665373,
+      "Oligodendrocyte": 0.01803502298536755,
+      "Other": 0.01431262493133545
+    },
+    "GRIN2B": {
+      "Astrocyte": 0.0,
+      "Excitatory": 0.017268386640046773,
+      "Inhibitory": 0.018153366247812906,
+      "OPC": 0.016284286975860596,
+      "Oligodendrocyte": 0.0,
+      "Other": 0.020964503288269043
+    },
+    "SCN1A": {
+      "Astrocyte": 0.0,
+      "Excitatory": 0.01725003440329369,
+      "Inhibitory": 0.017922868162898693,
+      "OPC": 0.020325002670288087,
+      "Oligodendrocyte": 0.02116492986679077,
+      "Other": 0.0
+    },
+    "HOMER1": {
+      "Astrocyte": 0.0,
+      "Excitatory": 0.017192354480039727,
+      "Inhibitory": 0.016919090634300596,
+      "OPC": 0.02011714662824358,
+      "Oligodendrocyte": 0.0182037353515625,
+      "Other": 0.05167049169540405
+    },
+    "NEGR1": {
+      "Astrocyte": 0.0,
+      "Excitatory": 0.016569588036663765,
+      "Inhibitory": 0.0,
+      "OPC": 0.018637213855981827,
+      "Oligodendrocyte": 0.017612679799397787,
+      "Other": 0.0
+    }
+  },
+  "spearman_correlations": {
+    "Astrocyte": {
+      "Astrocyte": 1.0,
+      "Excitatory": 0.7434844114105212,
+      "Inhibitory": 0.20041753698892312,
+      "OPC": -0.2723600249286634,
+      "Oligodendrocyte": 0.05818573654517123,
+      "Other": -0.21598172265071178
+    },
+    "Excitatory": {
+      "Astrocyte": 0.7434844114105212,
+      "Excitatory": 1.0,
+      "Inhibitory": 0.5878787878787879,
+      "OPC": -0.45592915776004844,
+      "Oligodendrocyte": 0.1393939393939394,
+      "Other": 0.11657319263657127
+    },
+    "Inhibitory": {
+      "Astrocyte": 0.20041753698892312,
+      "Excitatory": 0.5878787878787879,
+      "Inhibitory": 1.0,
+      "OPC": -0.042553388057604516,
+      "Oligodendrocyte": 0.3212121212121212,
+      "Other": 0.4233447522064957
+    },
+    "OPC": {
+      "Astrocyte": -0.2723600249286634,
+      "Excitatory": -0.45592915776004844,
+      "Inhibitory": -0.042553388057604516,
+      "OPC": 1.0,
+      "Oligodendrocyte": 0.35258521533443743,
+      "Other": 0.02461643338518358
+    },
+    "Oligodendrocyte": {
+      "Astrocyte": 0.05818573654517123,
+      "Excitatory": 0.1393939393939394,
+      "Inhibitory": 0.3212121212121212,
+      "OPC": 0.35258521533443743,
+      "Oligodendrocyte": 1.0,
+      "Other": 0.14111491740216522
+    },
+    "Other": {
+      "Astrocyte": -0.21598172265071178,
+      "Excitatory": 0.11657319263657127,
+      "Inhibitory": 0.4233447522064957,
+      "OPC": 0.02461643338518358,
+      "Oligodendrocyte": 0.14111491740216522,
+      "Other": 1.0
+    }
+  },
+  "consistent_genes": [
+    [
+      "CADM2",
+      6
+    ],
+    [
+      "GRIN2A",
+      4
+    ],
+    [
+      "MEF2C",
+      4
+    ],
+    [
+      "APP",
+      3
+    ],
+    [
+      "CAMK2A",
+      2
+    ],
+    [
+      "NRXN1",
+      2
+    ],
+    [
+      "GRIN2B",
+      2
+    ],
+    [
+      "SCN1A",
+      2
+    ],
+    [
+      "HOMER1",
+      2
+    ],
+    [
+      "NEGR1",
+      1
+    ]
+  ],
+  "specificity_analysis": {
+    "Astrocyte": {
+      "specific_genes": [
+        "CAMK2A",
+        "MEF2C",
+        "NRXN1",
+        "APP",
+        "CADM2"
+      ],
+      "rank_differences": {
+        "CAMK2A": -7.0,
+        "CADM2": 2.0,
+        "GRIN2A": 6.6,
+        "MEF2C": -3.2,
+        "APP": 1.0,
+        "NRXN1": -1.7999999999999998,
+        "GRIN2B": 4.0,
+        "SCN1A": 5.2,
+        "HOMER1": 5.4,
+        "NEGR1": 2.1999999999999993
+      },
+      "top_effects": {
+        "CAMK2A": 0.021079033613204956,
+        "MEF2C": 0.020782440900802612,
+        "CADM2": 0.019001295489649617,
+        "NRXN1": 0.018646538257598877,
+        "APP": 0.018066028753916424
+      }
+    },
+    "Excitatory": {
+      "specific_genes": [
+        "CAMK2A",
+        "GRIN2A",
+        "MEF2C",
+        "GRIN2B",
+        "NRXN1"
+      ],
+      "rank_differences": {
+        "CAMK2A": -7.0,
+        "CADM2": -0.3999999999999999,
+        "GRIN2A": -3.0,
+        "MEF2C": -0.7999999999999998,
+        "APP": -0.20000000000000018,
+        "NRXN1": -0.5999999999999996,
+        "GRIN2B": -0.7999999999999998,
+        "SCN1A": 1.5999999999999996,
+        "HOMER1": 3.0,
+        "NEGR1": 1.0
+      },
+      "top_effects": {
+        "CAMK2A": 0.01952778155153448,
+        "CADM2": 0.019351232368334206,
+        "GRIN2A": 0.018922733830976056,
+        "MEF2C": 0.018324471061879937,
+        "APP": 0.01827140904347831
+      }
+    },
+    "Inhibitory": {
+      "specific_genes": [
+        "GRIN2A",
+        "GRIN2B",
+        "NRXN1",
+        "APP",
+        "CADM2"
+      ],
+      "rank_differences": {
+        "CAMK2A": 1.4000000000000004,
+        "CADM2": -1.6,
+        "GRIN2A": -4.2,
+        "MEF2C": 1.5999999999999996,
+        "APP": -2.5999999999999996,
+        "NRXN1": -3.0,
+        "GRIN2B": -3.1999999999999993,
+        "SCN1A": 0.40000000000000036,
+        "HOMER1": 3.0,
+        "NEGR1": 2.1999999999999993
+      },
+      "top_effects": {
+        "CADM2": 0.020158266319948083,
+        "GRIN2A": 0.01931604267894358,
+        "APP": 0.018891068867274693,
+        "NRXN1": 0.0187363186661078,
+        "GRIN2B": 0.018153366247812906
+      }
+    },
+    "OPC": {
+      "specific_genes": [
+        "NEGR1",
+        "SCN1A",
+        "HOMER1",
+        "CADM2",
+        "GRIN2B"
+      ],
+      "rank_differences": {
+        "CAMK2A": 5.0,
+        "CADM2": -1.6,
+        "GRIN2A": 6.6,
+        "MEF2C": 5.2,
+        "APP": 1.0,
+        "NRXN1": 0.5999999999999996,
+        "GRIN2B": 0.40000000000000036,
+        "SCN1A": -5.6,
+        "HOMER1": -4.2,
+        "NEGR1": -6.199999999999999
+      },
+      "top_effects": {
+        "CADM2": 0.020510505746912072,
+        "SCN1A": 0.020325002670288087,
+        "HOMER1": 0.02011714662824358,
+        "NEGR1": 0.018637213855981827,
+        "APP": 0.017073368032773335
+      }
+    },
+    "Oligodendrocyte": {
+      "specific_genes": [
+        "SCN1A",
+        "MEF2C",
+        "GRIN2A",
+        "NEGR1",
+        "HOMER1"
+      ],
+      "rank_differences": {
+        "CAMK2A": 2.5999999999999996,
+        "CADM2": 0.7999999999999998,
+        "GRIN2A": -1.7999999999999998,
+        "MEF2C": -3.2,
+        "APP": -0.20000000000000018,
+        "NRXN1": 0.5999999999999996,
+        "GRIN2B": 4.0,
+        "SCN1A": -6.8,
+        "HOMER1": -0.5999999999999996,
+        "NEGR1": -1.4000000000000004
+      },
+      "top_effects": {
+        "SCN1A": 0.02116492986679077,
+        "MEF2C": 0.019661263624827067,
+        "CADM2": 0.019567962314771568,
+        "GRIN2A": 0.018851921325776635,
+        "APP": 0.01828715611587871
+      }
+    },
+    "Other": {
+      "specific_genes": [
+        "HOMER1",
+        "GRIN2B",
+        "GRIN2A",
+        "MEF2C",
+        "CADM2"
+      ],
+      "rank_differences": {
+        "CAMK2A": 5.0,
+        "CADM2": 0.7999999999999998,
+        "GRIN2A": -4.2,
+        "MEF2C": 0.40000000000000036,
+        "APP": 1.0,
+        "NRXN1": 4.2,
+        "GRIN2B": -4.4,
+        "SCN1A": 5.2,
+        "HOMER1": -6.6,
+        "NEGR1": 2.1999999999999993
+      },
+      "top_effects": {
+        "HOMER1": 0.05167049169540405,
+        "GRIN2A": 0.021123170852661133,
+        "CADM2": 0.021053075790405273,
+        "GRIN2B": 0.020964503288269043,
+        "MEF2C": 0.019691869616508484
+      }
+    }
+  },
+  "pathway_effects": {
+    "Astrocyte": {
+      "Cell Adhesion": {
+        "mean_effect": 0.019001295489649617,
+        "max_effect": 0.019001295489649617,
+        "gene_count": 1,
+        "genes": [
+          "CADM2",
+          "NEGR1"
+        ]
+      },
+      "Synaptic Scaffolding": {
+        "mean_effect": 0.019709914922714233,
+        "max_effect": 0.02077329158782959,
+        "gene_count": 2,
+        "genes": [
+          "NRXN1",
+          "HOMER1",
+          "NLGN1",
+          "SHANK3"
+        ]
+      },
+      "Neurotrophic Signaling": {
+        "mean_effect": 0.016756968572735786,
+        "max_effect": 0.021079033613204956,
+        "gene_count": 2,
+        "genes": [
+          "CAMK2A",
+          "BDNF",
+          "CREB1"
+        ]
+      },
+      "Neurodegeneration": {
+        "mean_effect": 0.01691280802090963,
+        "max_effect": 0.018066028753916424,
+        "gene_count": 2,
+        "genes": [
+          "APP",
+          "FOXO3",
+          "MAPT"
+        ]
+      },
+      "Neurodevelopmental/TF": {
+        "mean_effect": 0.016816599501503837,
+        "max_effect": 0.020782440900802612,
+        "gene_count": 3,
+        "genes": [
+          "MEF2C",
+          "TCF4",
+          "FMR1"
+        ]
+      }
+    },
+    "Excitatory": {
+      "Cell Adhesion": {
+        "mean_effect": 0.017960410202498986,
+        "max_effect": 0.019351232368334206,
+        "gene_count": 2,
+        "genes": [
+          "CADM2",
+          "NEGR1"
+        ]
+      },
+      "Glutamate Receptors": {
+        "mean_effect": 0.018095560235511413,
+        "max_effect": 0.018922733830976056,
+        "gene_count": 2,
+        "genes": [
+          "GRIN2A",
+          "GRIN2B"
+        ]
+      },
+      "Synaptic Scaffolding": {
+        "mean_effect": 0.017321603869601146,
+        "max_effect": 0.017450853259162565,
+        "gene_count": 2,
+        "genes": [
+          "NRXN1",
+          "HOMER1",
+          "NLGN1",
+          "SHANK3"
+        ]
+      },
+      "Neurotrophic Signaling": {
+        "mean_effect": 0.01952778155153448,
+        "max_effect": 0.01952778155153448,
+        "gene_count": 1,
+        "genes": [
+          "CAMK2A",
+          "BDNF",
+          "CREB1"
+        ]
+      },
+      "Neurodegeneration": {
+        "mean_effect": 0.01827140904347831,
+        "max_effect": 0.01827140904347831,
+        "gene_count": 1,
+        "genes": [
+          "APP",
+          "FOXO3",
+          "MAPT"
+        ]
+      },
+      "Neurodevelopmental/TF": {
+        "mean_effect": 0.018324471061879937,
+        "max_effect": 0.018324471061879937,
+        "gene_count": 1,
+        "genes": [
+          "MEF2C",
+          "TCF4",
+          "FMR1"
+        ]
+      },
+      "Synaptic Vesicle": {
+        "mean_effect": 0.01725003440329369,
+        "max_effect": 0.01725003440329369,
+        "gene_count": 1,
+        "genes": [
+          "SCN1A",
+          "SLC6A4",
+          "SYN1"
+        ]
+      }
+    },
+    "Inhibitory": {
+      "Cell Adhesion": {
+        "mean_effect": 0.020158266319948083,
+        "max_effect": 0.020158266319948083,
+        "gene_count": 1,
+        "genes": [
+          "CADM2",
+          "NEGR1"
+        ]
+      },
+      "Glutamate Receptors": {
+        "mean_effect": 0.018734704463378243,
+        "max_effect": 0.01931604267894358,
+        "gene_count": 2,
+        "genes": [
+          "GRIN2A",
+          "GRIN2B"
+        ]
+      },
+      "Synaptic Scaffolding": {
+        "mean_effect": 0.017827704650204196,
+        "max_effect": 0.0187363186661078,
+        "gene_count": 2,
+        "genes": [
+          "NRXN1",
+          "HOMER1",
+          "NLGN1",
+          "SHANK3"
+        ]
+      },
+      "Neurotrophic Signaling": {
+        "mean_effect": 0.01695366856139926,
+        "max_effect": 0.017344917569841658,
+        "gene_count": 2,
+        "genes": [
+          "CAMK2A",
+          "BDNF",
+          "CREB1"
+        ]
+      },
+      "Neurodegeneration": {
+        "mean_effect": 0.018891068867274693,
+        "max_effect": 0.018891068867274693,
+        "gene_count": 1,
+        "genes": [
+          "APP",
+          "FOXO3",
+          "MAPT"
+        ]
+      },
+      "Neurodevelopmental/TF": {
+        "mean_effect": 0.018045054163251605,
+        "max_effect": 0.018045054163251605,
+        "gene_count": 1,
+        "genes": [
+          "MEF2C",
+          "TCF4",
+          "FMR1"
+        ]
+      },
+      "Synaptic Vesicle": {
+        "mean_effect": 0.017922868162898693,
+        "max_effect": 0.017922868162898693,
+        "gene_count": 1,
+        "genes": [
+          "SCN1A",
+          "SLC6A4",
+          "SYN1"
+        ]
+      }
+    },
+    "OPC": {
+      "Cell Adhesion": {
+        "mean_effect": 0.01957385980144695,
+        "max_effect": 0.020510505746912072,
+        "gene_count": 2,
+        "genes": [
+          "CADM2",
+          "NEGR1"
+        ]
+      },
+      "Glutamate Receptors": {
+        "mean_effect": 0.016284286975860596,
+        "max_effect": 0.016284286975860596,
+        "gene_count": 1,
+        "genes": [
+          "GRIN2A",
+          "GRIN2B"
+        ]
+      },
+      "Synaptic Scaffolding": {
+        "mean_effect": 0.018017643973940897,
+        "max_effect": 0.02011714662824358,
+        "gene_count": 3,
+        "genes": [
+          "NRXN1",
+          "HOMER1",
+          "NLGN1",
+          "SHANK3"
+        ]
+      },
+      "Neurodegeneration": {
+        "mean_effect": 0.016563848157723743,
+        "max_effect": 0.017073368032773335,
+        "gene_count": 2,
+        "genes": [
+          "APP",
+          "FOXO3",
+          "MAPT"
+        ]
+      },
+      "Neurodevelopmental/TF": {
+        "mean_effect": 0.01627508799235026,
+        "max_effect": 0.01627508799235026,
+        "gene_count": 1,
+        "genes": [
+          "MEF2C",
+          "TCF4",
+          "FMR1"
+        ]
+      },
+      "Synaptic Vesicle": {
+        "mean_effect": 0.020325002670288087,
+        "max_effect": 0.020325002670288087,
+        "gene_count": 1,
+        "genes": [
+          "SCN1A",
+          "SLC6A4",
+          "SYN1"
+        ]
+      }
+    },
+    "Oligodendrocyte": {
+      "Cell Adhesion": {
+        "mean_effect": 0.018590321057084677,
+        "max_effect": 0.019567962314771568,
+        "gene_count": 2,
+        "genes": [
+          "CADM2",
+          "NEGR1"
+        ]
+      },
+      "Glutamate Receptors": {
+        "mean_effect": 0.018851921325776635,
+        "max_effect": 0.018851921325776635,
+        "gene_count": 1,
+        "genes": [
+          "GRIN2A",
+          "GRIN2B"
+        ]
+      },
+      "Synaptic Scaffolding": {
+        "mean_effect": 0.018119379168465025,
+        "max_effect": 0.0182037353515625,
+        "gene_count": 2,
+        "genes": [
+          "NRXN1",
+          "HOMER1",
+          "NLGN1",
+          "SHANK3"
+        ]
+      },
+      "Neurotrophic Signaling": {
+        "mean_effect": 0.016958437860012054,
+        "max_effect": 0.016958437860012054,
+        "gene_count": 1,
+        "genes": [
+          "CAMK2A",
+          "BDNF",
+          "CREB1"
+        ]
+      },
+      "Neurodegeneration": {
+        "mean_effect": 0.01828715611587871,
+        "max_effect": 0.01828715611587871,
+        "gene_count": 1,
+        "genes": [
+          "APP",
+          "FOXO3",
+          "MAPT"
+        ]
+      },
+      "Neurodevelopmental/TF": {
+        "mean_effect": 0.019661263624827067,
+        "max_effect": 0.019661263624827067,
+        "gene_count": 1,
+        "genes": [
+          "MEF2C",
+          "TCF4",
+          "FMR1"
+        ]
+      },
+      "Synaptic Vesicle": {
+        "mean_effect": 0.01864783763885498,
+        "max_effect": 0.02116492986679077,
+        "gene_count": 2,
+        "genes": [
+          "SCN1A",
+          "SLC6A4",
+          "SYN1"
+        ]
+      }
+    },
+    "Other": {
+      "Cell Adhesion": {
+        "mean_effect": 0.021053075790405273,
+        "max_effect": 0.021053075790405273,
+        "gene_count": 1,
+        "genes": [
+          "CADM2",
+          "NEGR1"
+        ]
+      },
+      "Glutamate Receptors": {
+        "mean_effect": 0.021043837070465088,
+        "max_effect": 0.021123170852661133,
+        "gene_count": 2,
+        "genes": [
+          "GRIN2A",
+          "GRIN2B"
+        ]
+      },
+      "Synaptic Scaffolding": {
+        "mean_effect": 0.03299155831336975,
+        "max_effect": 0.05167049169540405,
+        "gene_count": 2,
+        "genes": [
+          "NRXN1",
+          "HOMER1",
+          "NLGN1",
+          "SHANK3"
+        ]
+      },
+      "Neurodegeneration": {
+        "mean_effect": 0.01760052310095893,
+        "max_effect": 0.01917332410812378,
+        "gene_count": 2,
+        "genes": [
+          "APP",
+          "FOXO3",
+          "MAPT"
+        ]
+      },
+      "Neurodevelopmental/TF": {
+        "mean_effect": 0.017535915359472617,
+        "max_effect": 0.019691869616508484,
+        "gene_count": 3,
+        "genes": [
+          "MEF2C",
+          "TCF4",
+          "FMR1"
+        ]
+      }
+    }
+  },
+  "statistical_results": {
+    "friedman_test": {
+      "statistic": 5.303030303030303,
+      "p_value": 0.380027763762367,
+      "interpretation": "No significant differences"
+    },
+    "ranking_variability": {
+      "most_variable_genes": [
+        [
+          "GRIN2A",
+          0.7177405625652734
+        ],
+        [
+          "CAMK2A",
+          0.6232649921551531
+        ],
+        [
+          "SCN1A",
+          0.5916079783099616
+        ],
+        [
+          "HOMER1",
+          0.545738375738276
+        ],
+        [
+          "MEF2C",
+          0.5200078492343226
+        ]
+      ],
+      "least_variable_genes": [
+        [
+          "APP",
+          0.20655239475589834
+        ],
+        [
+          "NEGR1",
+          0.2775334094995227
+        ],
+        [
+          "NRXN1",
+          0.29122606901539866
+        ],
+        [
+          "GRIN2B",
+          0.35053294557819775
+        ],
+        [
+          "CADM2",
+          0.47380354147934284
+        ]
+      ],
+      "all_cv_scores": {
+        "CAMK2A": 0.6232649921551531,
+        "CADM2": 0.47380354147934284,
+        "GRIN2A": 0.7177405625652734,
+        "MEF2C": 0.5200078492343226,
+        "APP": 0.20655239475589834,
+        "NRXN1": 0.29122606901539866,
+        "GRIN2B": 0.35053294557819775,
+        "SCN1A": 0.5916079783099616,
+        "HOMER1": 0.545738375738276,
+        "NEGR1": 0.2775334094995227
+      }
+    },
+    "cell_type_similarities": {
+      "Astrocyte_vs_Excitatory": {
+        "spearman_rho": 0.7434844114105212,
+        "p_value": 0.013711884904507036
+      },
+      "Astrocyte_vs_Inhibitory": {
+        "spearman_rho": 0.20041753698892312,
+        "p_value": 0.5787761266135725
+      },
+      "Astrocyte_vs_OPC": {
+        "spearman_rho": -0.27236002492866335,
+        "p_value": 0.44647564479557844
+      },
+      "Astrocyte_vs_Oligodendrocyte": {
+        "spearman_rho": 0.058185736545171236,
+        "p_value": 0.873148747673779
+      },
+      "Astrocyte_vs_Other": {
+        "spearman_rho": -0.21598172265071178,
+        "p_value": 0.5489693405117944
+      },
+      "Excitatory_vs_Inhibitory": {
+        "spearman_rho": 0.5878787878787878,
+        "p_value": 0.07387770688865801
+      },
+      "Excitatory_vs_OPC": {
+        "spearman_rho": -0.4559291577600484,
+        "p_value": 0.1853967644537158
+      },
+      "Excitatory_vs_Oligodendrocyte": {
+        "spearman_rho": 0.13939393939393938,
+        "p_value": 0.7009318849100584
+      },
+      "Excitatory_vs_Other": {
+        "spearman_rho": 0.11657319263657127,
+        "p_value": 0.748433303989289
+      },
+      "Inhibitory_vs_OPC": {
+        "spearman_rho": -0.04255338805760452,
+        "p_value": 0.9070828390046616
+      },
+      "Inhibitory_vs_Oligodendrocyte": {
+        "spearman_rho": 0.32121212121212117,
+        "p_value": 0.3654683104386702
+      },
+      "Inhibitory_vs_Other": {
+        "spearman_rho": 0.42334475220649564,
+        "p_value": 0.2228181042830319
+      },
+      "OPC_vs_Oligodendrocyte": {
+        "spearman_rho": 0.3525852153344375,
+        "p_value": 0.31766237942092473
+      },
+      "OPC_vs_Other": {
+        "spearman_rho": 0.024616433385183583,
+        "p_value": 0.9461841705868279
+      },
+      "Oligodendrocyte_vs_Other": {
+        "spearman_rho": 0.14111491740216522,
+        "p_value": 0.6973850724458668
+      }
+    }
+  },
+  "summary": {
+    "n_cell_types": 6,
+    "n_genes_analyzed": 10,
+    "top_consistent_gene": "CADM2",
+    "most_correlated_cell_types": [
+      "Excitatory",
+      "Excitatory"
+    ]
+  }
+}

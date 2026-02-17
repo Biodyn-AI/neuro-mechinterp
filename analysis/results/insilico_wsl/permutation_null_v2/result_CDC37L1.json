@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000106993",
+  "symbol": "CDC37L1",
+  "mean_shift": 0.012010042555630207,
+  "std_shift": 0.005904275808824521,
+  "n_cells": 64,
+  "status": "success",
+  "time_seconds": 50.75779628753662
+}

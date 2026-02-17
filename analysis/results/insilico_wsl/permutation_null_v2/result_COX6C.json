@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000164919",
+  "symbol": "COX6C",
+  "mean_shift": 0.004207317645733173,
+  "std_shift": 0.003829686524607664,
+  "n_cells": 13,
+  "status": "success",
+  "time_seconds": 28.568515300750732
+}

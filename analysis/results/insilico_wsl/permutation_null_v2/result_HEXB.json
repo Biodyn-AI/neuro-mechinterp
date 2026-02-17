@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000049860",
+  "symbol": "HEXB",
+  "mean_shift": 0.013822201369465261,
+  "std_shift": 0.008415373968348369,
+  "n_cells": 69,
+  "status": "success",
+  "time_seconds": 51.60629987716675
+}

@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000227345",
+  "symbol": "PARG",
+  "mean_shift": 0.015626814312600563,
+  "std_shift": 0.005388941228145232,
+  "n_cells": 271,
+  "status": "success",
+  "time_seconds": 204.41005635261536
+}

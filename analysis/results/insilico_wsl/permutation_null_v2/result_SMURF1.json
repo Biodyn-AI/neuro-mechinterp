@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000198742",
+  "symbol": "SMURF1",
+  "mean_shift": 0.013910213538578579,
+  "std_shift": 0.0067465407374670645,
+  "n_cells": 210,
+  "status": "success",
+  "time_seconds": 168.1621434688568
+}

@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000168273",
+  "symbol": "UQCC5",
+  "mean_shift": 0.014434092574649386,
+  "std_shift": 0.007001648526554784,
+  "n_cells": 63,
+  "status": "success",
+  "time_seconds": 59.218021631240845
+}

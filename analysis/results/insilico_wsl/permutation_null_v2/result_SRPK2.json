@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000135250",
+  "symbol": "SRPK2",
+  "mean_shift": 0.019233802865060528,
+  "std_shift": 0.0048768177607259825,
+  "n_cells": 445,
+  "status": "success",
+  "time_seconds": 315.6803262233734
+}

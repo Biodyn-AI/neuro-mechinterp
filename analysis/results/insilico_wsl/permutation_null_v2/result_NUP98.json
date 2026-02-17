@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000110713",
+  "symbol": "NUP98",
+  "mean_shift": 0.012368585752404255,
+  "std_shift": 0.007283293377448689,
+  "n_cells": 161,
+  "status": "success",
+  "time_seconds": 142.01126909255981
+}

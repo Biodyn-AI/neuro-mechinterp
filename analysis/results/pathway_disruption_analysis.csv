@@ -1,0 +1,37 @@
+pathway_type,pathway_id,pathway_name,category,total_disruption,avg_disruption,n_genes,genes
+GO,GO:0048167,regulation of synaptic plasticity,BP,0.07300000000000001,0.018250000000000002,4,"GRIN2A, CAMK2A, GRIN2B, HOMER1"
+KEGG,hsa04724,Glutamatergic synapse,pathway,0.07300000000000001,0.018250000000000002,4,"GRIN2A, CAMK2A, GRIN2B, HOMER1"
+GO,GO:0005886,plasma membrane,CC,0.0724,0.0181,4,"CADM2, APP, SCN1A, NEGR1"
+KEGG,hsa04514,Cell adhesion molecules,pathway,0.0723,0.018075,4,"CADM2, APP, NRXN1, NEGR1"
+GO,GO:0007268,chemical synaptic transmission,BP,0.0719,0.017975,4,"GRIN2A, NRXN1, GRIN2B, HOMER1"
+GO,GO:0007155,cell adhesion,BP,0.05450000000000001,0.018166666666666668,3,"CADM2, APP, NEGR1"
+GO,GO:0045202,synapse,CC,0.054400000000000004,0.018133333333333335,3,"GRIN2A, NRXN1, GRIN2B"
+GO,GO:0007416,synapse assembly,BP,0.054000000000000006,0.018000000000000002,3,"CADM2, NRXN1, NEGR1"
+KEGG,hsa04360,Axon guidance,pathway,0.054000000000000006,0.018000000000000002,3,"CADM2, NRXN1, NEGR1"
+KEGG,hsa04720,Long-term potentiation,pathway,0.054000000000000006,0.018000000000000002,3,"CAMK2A, GRIN2B, HOMER1"
+GO,GO:0004970,ionotropic glutamate receptor activity,MF,0.0366,0.0183,2,"GRIN2A, GRIN2B"
+KEGG,hsa04080,Neuroactive ligand-receptor interaction,pathway,0.0366,0.0183,2,"GRIN2A, GRIN2B"
+GO,GO:0014069,postsynaptic density,CC,0.0364,0.0182,2,"CAMK2A, HOMER1"
+GO,GO:0098609,cell-cell adhesion,BP,0.0196,0.0196,1,CADM2
+KEGG,hsa05014,Amyotrophic lateral sclerosis,pathway,0.019,0.019,1,GRIN2A
+GO,GO:0004674,protein serine/threonine kinase activity,MF,0.0189,0.0189,1,CAMK2A
+GO,GO:0035556,intracellular signal transduction,BP,0.0189,0.0189,1,CAMK2A
+KEGG,hsa04310,Wnt signaling pathway,pathway,0.0189,0.0189,1,CAMK2A
+GO,GO:0003700,DNA-binding transcription factor activity,MF,0.0184,0.0184,1,MEF2C
+GO,GO:0045944,positive regulation of transcription,BP,0.0184,0.0184,1,MEF2C
+GO,GO:0030154,cell differentiation,BP,0.0184,0.0184,1,MEF2C
+GO,GO:0005634,nucleus,CC,0.0184,0.0184,1,MEF2C
+KEGG,hsa04550,Signaling pathways regulating pluripotency,pathway,0.0184,0.0184,1,MEF2C
+KEGG,hsa04261,Adrenergic signaling in cardiomyocytes,pathway,0.0184,0.0184,1,MEF2C
+GO,GO:0005516,calmodulin binding,MF,0.0183,0.0183,1,APP
+GO,GO:0042987,amyloid precursor protein catabolic process,BP,0.0183,0.0183,1,APP
+KEGG,hsa05010,Alzheimer disease,pathway,0.0183,0.0183,1,APP
+KEGG,hsa04726,Serotonergic synapse,pathway,0.0183,0.0183,1,APP
+GO,GO:0005248,voltage-gated sodium channel activity,MF,0.0179,0.0179,1,SCN1A
+GO,GO:0019228,neuronal action potential,BP,0.0179,0.0179,1,SCN1A
+GO,GO:0086010,membrane depolarization during action potential,BP,0.0179,0.0179,1,SCN1A
+KEGG,hsa04750,Inflammatory mediator regulation,pathway,0.0179,0.0179,1,SCN1A
+KEGG,hsa05033,Nicotine addiction,pathway,0.0179,0.0179,1,SCN1A
+GO,GO:0005509,calcium ion binding,MF,0.0178,0.0178,1,NRXN1
+GO,GO:0005515,protein binding,MF,0.0175,0.0175,1,HOMER1
+GO,GO:0031012,extracellular matrix,CC,0.0166,0.0166,1,NEGR1

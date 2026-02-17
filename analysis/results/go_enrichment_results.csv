@@ -1,0 +1,24 @@
+go_term,go_name,category,gene_count,total_genes,enrichment_score,genes
+GO:0005886,plasma membrane,CC,4,10,0.4,"['CADM2', 'APP', 'SCN1A', 'NEGR1']"
+GO:0007268,chemical synaptic transmission,BP,4,10,0.4,"['GRIN2A', 'NRXN1', 'GRIN2B', 'HOMER1']"
+GO:0048167,regulation of synaptic plasticity,BP,4,10,0.4,"['GRIN2A', 'CAMK2A', 'GRIN2B', 'HOMER1']"
+GO:0007155,cell adhesion,BP,3,10,0.3,"['CADM2', 'APP', 'NEGR1']"
+GO:0007416,synapse assembly,BP,3,10,0.3,"['CADM2', 'NRXN1', 'NEGR1']"
+GO:0045202,synapse,CC,3,10,0.3,"['GRIN2A', 'NRXN1', 'GRIN2B']"
+GO:0004970,ionotropic glutamate receptor activity,MF,2,10,0.2,"['GRIN2A', 'GRIN2B']"
+GO:0014069,postsynaptic density,CC,2,10,0.2,"['CAMK2A', 'HOMER1']"
+GO:0098609,cell-cell adhesion,BP,1,10,0.1,['CADM2']
+GO:0004674,protein serine/threonine kinase activity,MF,1,10,0.1,['CAMK2A']
+GO:0035556,intracellular signal transduction,BP,1,10,0.1,['CAMK2A']
+GO:0003700,DNA-binding transcription factor activity,MF,1,10,0.1,['MEF2C']
+GO:0045944,positive regulation of transcription,BP,1,10,0.1,['MEF2C']
+GO:0030154,cell differentiation,BP,1,10,0.1,['MEF2C']
+GO:0005634,nucleus,CC,1,10,0.1,['MEF2C']
+GO:0005516,calmodulin binding,MF,1,10,0.1,['APP']
+GO:0042987,amyloid precursor protein catabolic process,BP,1,10,0.1,['APP']
+GO:0005248,voltage-gated sodium channel activity,MF,1,10,0.1,['SCN1A']
+GO:0019228,neuronal action potential,BP,1,10,0.1,['SCN1A']
+GO:0086010,membrane depolarization during action potential,BP,1,10,0.1,['SCN1A']
+GO:0005509,calcium ion binding,MF,1,10,0.1,['NRXN1']
+GO:0005515,protein binding,MF,1,10,0.1,['HOMER1']
+GO:0031012,extracellular matrix,CC,1,10,0.1,['NEGR1']

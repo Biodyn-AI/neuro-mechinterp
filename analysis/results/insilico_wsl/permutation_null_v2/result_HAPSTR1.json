@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000182831",
+  "symbol": "HAPSTR1",
+  "mean_shift": 0.012593839670482434,
+  "std_shift": 0.005931995596641009,
+  "n_cells": 95,
+  "status": "success",
+  "time_seconds": 37.4936261177063
+}

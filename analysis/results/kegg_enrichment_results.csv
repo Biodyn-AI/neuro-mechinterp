@@ -1,0 +1,14 @@
+kegg_pathway,pathway_name,gene_count,total_genes,enrichment_score,genes
+hsa04514,Cell adhesion molecules,4,10,0.4,"['CADM2', 'APP', 'NRXN1', 'NEGR1']"
+hsa04724,Glutamatergic synapse,4,10,0.4,"['GRIN2A', 'CAMK2A', 'GRIN2B', 'HOMER1']"
+hsa04360,Axon guidance,3,10,0.3,"['CADM2', 'NRXN1', 'NEGR1']"
+hsa04720,Long-term potentiation,3,10,0.3,"['CAMK2A', 'GRIN2B', 'HOMER1']"
+hsa04080,Neuroactive ligand-receptor interaction,2,10,0.2,"['GRIN2A', 'GRIN2B']"
+hsa05014,Amyotrophic lateral sclerosis,1,10,0.1,['GRIN2A']
+hsa04310,Wnt signaling pathway,1,10,0.1,['CAMK2A']
+hsa04550,Signaling pathways regulating pluripotency,1,10,0.1,['MEF2C']
+hsa04261,Adrenergic signaling in cardiomyocytes,1,10,0.1,['MEF2C']
+hsa05010,Alzheimer disease,1,10,0.1,['APP']
+hsa04726,Serotonergic synapse,1,10,0.1,['APP']
+hsa04750,Inflammatory mediator regulation,1,10,0.1,['SCN1A']
+hsa05033,Nicotine addiction,1,10,0.1,['SCN1A']

@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000144290",
+  "symbol": "SLC4A10",
+  "mean_shift": 0.01883135363459587,
+  "std_shift": 0.006346129954276666,
+  "n_cells": 192,
+  "status": "success",
+  "time_seconds": 152.5559859275818
+}

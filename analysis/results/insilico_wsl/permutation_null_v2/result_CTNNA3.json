@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000183230",
+  "symbol": "CTNNA3",
+  "mean_shift": 0.02031594758131066,
+  "std_shift": 0.003172965436449871,
+  "n_cells": 245,
+  "status": "success",
+  "time_seconds": 377.16552090644836
+}

@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000170558",
+  "symbol": "CDH2",
+  "mean_shift": 0.010395881400179507,
+  "std_shift": 0.0071054158444938485,
+  "n_cells": 134,
+  "status": "success",
+  "time_seconds": 116.2247519493103
+}

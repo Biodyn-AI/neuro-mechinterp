@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000122729",
+  "symbol": "ACO1",
+  "mean_shift": 0.015771751431213028,
+  "std_shift": 0.004493044014448547,
+  "n_cells": 87,
+  "status": "success",
+  "time_seconds": 30.869110345840454
+}

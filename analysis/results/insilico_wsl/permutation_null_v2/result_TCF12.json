@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000140262",
+  "symbol": "TCF12",
+  "mean_shift": 0.017851735817963812,
+  "std_shift": 0.005617834490660693,
+  "n_cells": 367,
+  "status": "success",
+  "time_seconds": 578.0156636238098
+}

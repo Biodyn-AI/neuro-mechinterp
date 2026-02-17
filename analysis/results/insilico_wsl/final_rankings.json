@@ -1,0 +1,170 @@
+{
+  "CADM2": {
+    "cosine_sim_mean": 0.9803727420709901,
+    "cosine_sim_std": 0.004490611163070982,
+    "shift_mean": 0.019627257929009906,
+    "shift_std": 0.004490611163070982,
+    "n_cells": 472,
+    "pathway": "Cell Adhesion"
+  },
+  "GRIN2A": {
+    "cosine_sim_mean": 0.9810421311801859,
+    "cosine_sim_std": 0.006070469569714811,
+    "shift_mean": 0.01895786881981409,
+    "shift_std": 0.006070469569714811,
+    "n_cells": 223,
+    "pathway": "Glutamate Receptors"
+  },
+  "CAMK2A": {
+    "cosine_sim_mean": 0.9810777183501951,
+    "cosine_sim_std": 0.00587987572931476,
+    "shift_mean": 0.018922281649804886,
+    "shift_std": 0.00587987572931476,
+    "n_cells": 155,
+    "pathway": "Neurotrophic Signaling"
+  },
+  "MEF2C": {
+    "cosine_sim_mean": 0.9815574680213575,
+    "cosine_sim_std": 0.006518398611022745,
+    "shift_mean": 0.0184425319786425,
+    "shift_std": 0.006518398611022745,
+    "n_cells": 216,
+    "pathway": "Neurodevelopmental/Transcription"
+  },
+  "APP": {
+    "cosine_sim_mean": 0.9816795698432035,
+    "cosine_sim_std": 0.005368357565385183,
+    "shift_mean": 0.018320430156796477,
+    "shift_std": 0.005368357565385183,
+    "n_cells": 430,
+    "pathway": "Neurodegeneration-Associated"
+  },
+  "SCN1A": {
+    "cosine_sim_mean": 0.9820784456021077,
+    "cosine_sim_std": 0.006035347000307313,
+    "shift_mean": 0.01792155439789231,
+    "shift_std": 0.006035347000307314,
+    "n_cells": 185,
+    "pathway": "Synaptic Vesicle/Transmission"
+  },
+  "NRXN1": {
+    "cosine_sim_mean": 0.9822084270572267,
+    "cosine_sim_std": 0.007573832385435061,
+    "shift_mean": 0.017791572942773337,
+    "shift_std": 0.007573832385435061,
+    "n_cells": 241,
+    "pathway": "Synaptic Scaffolding"
+  },
+  "GRIN2B": {
+    "cosine_sim_mean": 0.9824162263896584,
+    "cosine_sim_std": 0.005751995376366633,
+    "shift_mean": 0.017583773610341615,
+    "shift_std": 0.005751995376366633,
+    "n_cells": 181,
+    "pathway": "Glutamate Receptors"
+  },
+  "HOMER1": {
+    "cosine_sim_mean": 0.9825337279342605,
+    "cosine_sim_std": 0.007492319278250416,
+    "shift_mean": 0.017466272065739433,
+    "shift_std": 0.007492319278250417,
+    "n_cells": 167,
+    "pathway": "Synaptic Scaffolding"
+  },
+  "NEGR1": {
+    "cosine_sim_mean": 0.9833759933495693,
+    "cosine_sim_std": 0.00752278812171109,
+    "shift_mean": 0.016624006650430692,
+    "shift_std": 0.00752278812171109,
+    "n_cells": 278,
+    "pathway": "Cell Adhesion"
+  },
+  "SLC6A4": {
+    "cosine_sim_mean": 0.9838692545890808,
+    "cosine_sim_std": 0.0,
+    "shift_mean": 0.01613074541091919,
+    "shift_std": 0.0,
+    "n_cells": 1,
+    "pathway": "Synaptic Vesicle/Transmission"
+  },
+  "NLGN1": {
+    "cosine_sim_mean": 0.9840158363706187,
+    "cosine_sim_std": 0.00698675610353609,
+    "shift_mean": 0.01598416362938128,
+    "shift_std": 0.00698675610353609,
+    "n_cells": 380,
+    "pathway": "Synaptic Scaffolding"
+  },
+  "TCF4": {
+    "cosine_sim_mean": 0.9847693822600625,
+    "cosine_sim_std": 0.006659740443263047,
+    "shift_mean": 0.015230617739937523,
+    "shift_std": 0.006659740443263047,
+    "n_cells": 440,
+    "pathway": "Neurodevelopmental/Transcription"
+  },
+  "FOXO3": {
+    "cosine_sim_mean": 0.9851310803838398,
+    "cosine_sim_std": 0.006448064824182168,
+    "shift_mean": 0.014868919616160185,
+    "shift_std": 0.006448064824182169,
+    "n_cells": 276,
+    "pathway": "Neurodegeneration-Associated"
+  },
+  "BDNF": {
+    "cosine_sim_mean": 0.9859814273899999,
+    "cosine_sim_std": 0.0078009706703710035,
+    "shift_mean": 0.014018572610000083,
+    "shift_std": 0.007800970670371004,
+    "n_cells": 174,
+    "pathway": "Neurotrophic Signaling"
+  },
+  "MAPT": {
+    "cosine_sim_mean": 0.9861858633724419,
+    "cosine_sim_std": 0.006655275869783343,
+    "shift_mean": 0.013814136627558116,
+    "shift_std": 0.006655275869783343,
+    "n_cells": 370,
+    "pathway": "Neurodegeneration-Associated"
+  },
+  "CREB1": {
+    "cosine_sim_mean": 0.9875901552041372,
+    "cosine_sim_std": 0.006590882576354865,
+    "shift_mean": 0.012409844795862834,
+    "shift_std": 0.006590882576354865,
+    "n_cells": 150,
+    "pathway": "Neurotrophic Signaling"
+  },
+  "FMR1": {
+    "cosine_sim_mean": 0.9890889902325237,
+    "cosine_sim_std": 0.005414714387078773,
+    "shift_mean": 0.01091100976747625,
+    "shift_std": 0.005414714387078773,
+    "n_cells": 68,
+    "pathway": "Neurodevelopmental/Transcription"
+  },
+  "SYN1": {
+    "cosine_sim_mean": 0.9905657410621643,
+    "cosine_sim_std": 0.005738792018952635,
+    "shift_mean": 0.009434258937835694,
+    "shift_std": 0.005738792018952635,
+    "n_cells": 30,
+    "pathway": "Synaptic Vesicle/Transmission"
+  },
+  "COMT": {
+    "cosine_sim_mean": 0.9906408002931778,
+    "cosine_sim_std": 0.0053768215651729834,
+    "shift_mean": 0.009359199706822226,
+    "shift_std": 0.0053768215651729834,
+    "n_cells": 73,
+    "pathway": "Catecholamine Metabolism"
+  },
+  "SHANK3": {
+    "cosine_sim_mean": 0.9936977028846741,
+    "cosine_sim_std": 0.0050835134983979605,
+    "shift_mean": 0.006302297115325928,
+    "shift_std": 0.0050835134983979605,
+    "n_cells": 35,
+    "pathway": "Synaptic Scaffolding"
+  }
+}

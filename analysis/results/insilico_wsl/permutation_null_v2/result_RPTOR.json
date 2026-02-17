@@ -1,0 +1,9 @@
+{
+  "ensembl": "ENSG00000141564",
+  "symbol": "RPTOR",
+  "mean_shift": 0.013371834170676973,
+  "std_shift": 0.006179149164050459,
+  "n_cells": 253,
+  "status": "success",
+  "time_seconds": 200.24941444396973
+}
