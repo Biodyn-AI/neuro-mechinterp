@@ -1,0 +1,13 @@
+
+TABLE 2 FOOTNOTE (to be added):
+
+Note: Rank changes between 500-cell and 1000-cell samples (e.g., GRIN2A 2->3,
+MEF2C 4->2, CAMK2A 3->5) reflect the expected stochastic variability when
+closely-ranked genes have overlapping confidence intervals. The reshuffling among
+ranks 2-5 is consistent with sampling noise: these four genes have overlapping
+standard error bands (see Table 1 SE column), meaning their true population ranks
+are not distinguishable at this sample size. CADM2's stable rank 1 position across
+both sample sizes is noteworthy but may reflect its higher expression frequency
+(98.3% of cells) rather than biological primacy. This within-pipeline stability
+check does not constitute independent replication, as both samples are drawn from
+the same 3 donors.

@@ -1,2 +1,13 @@
-
 *.h5ad
+._*
+.DS_Store
+__pycache__/
+*.pyc
+paper/
+models/
+analysis/revision/c5_depmap_data_cache/
+analysis/revision/c1c4_full_results/seed_*/
+analysis/results/insilico_wsl/brain.dataset/data-00000-of-00001.arrow
+analysis/results/insilico_wsl/brain.dataset/cache-*.arrow
+analysis/results/insilico_wsl/brain.dataset/data-00000-of-00001.arrow.orig
+analysis/revision/c3_results/annotation_comparison.csv

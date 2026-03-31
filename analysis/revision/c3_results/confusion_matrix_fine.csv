@@ -1,0 +1,11 @@
+marker_based,Astrocyte,B_cell,CMP,DC,Embryonic_stem_cells,Endothelial_cells,Erythroblast,GMP,Gametocytes,HSC_-G-CSF,HSC_CD34+,Keratinocytes,MSC,Macrophage,Monocyte,NK_cell,Neuroepithelial_cell,Neurons,Neutrophils,Osteoblasts,Platelets,Pro-B_cell_CD34+,Pro-Myelocyte,Smooth_muscle_cells,T_cells,iPS_cells
+GABAergic interneuron,434,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,352,0,0,1,0,0,0,0,0
+T cell,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0
+astrocyte,717,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,57,0,0,0,0,0,1,0,0
+glutamatergic neuron,1172,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,40,1174,0,0,0,0,0,0,0,1
+macrophage,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1,0,0,0,2,0,0,0,0,0,0,0
+microglial cell,11,8,1,24,0,1,0,1,0,7,11,0,0,251,36,0,1,0,27,0,5,1,3,0,0,0
+mural cell,9,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,4,0,1,0,0,0,0,0,0
+oligodendrocyte,2499,0,0,0,18,83,18,0,30,0,0,2,2,2,2,1,200,2575,1,0,22,0,0,0,0,0
+oligodendrocyte precursor cell,547,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,23,0,0,0,0,0,0,0,0
+pvalb GABAergic cortical interneuron,524,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,6,254,0,0,0,0,0,0,0,0

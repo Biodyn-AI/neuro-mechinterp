@@ -1,0 +1,22 @@
+gene_symbol,excluded,expression_frequency,n_cells_expressing_geneformer,n_cells_in_scgpt_window,estimated_median_rank,in_scgpt_vocab,exclusion_category,reason
+MEF2C,yes,0.5116,216,0,989,yes,tokenization_window,In scGPT vocab and expressed (freq=0.512) but expression rank outside top-512 in sampled cells
+BDNF,yes,0.5190,174,0,975,yes,tokenization_window,In scGPT vocab and expressed (freq=0.519) but expression rank outside top-512 in sampled cells
+GRIN2B,yes,0.4294,181,0,1282,yes,tokenization_window,In scGPT vocab and expressed (freq=0.429) but expression rank outside top-512 in sampled cells
+CADM2,no,0.9831,472,6,117,yes,succeeded,Gene tokenized successfully; appeared in 6 of 500 sampled cells' top-512 windows
+NRXN1,no,0.6660,241,17,711,yes,succeeded,Gene tokenized successfully; appeared in 17 of 500 sampled cells' top-512 windows
+CAMK2A,yes,0.3871,155,0,1451,yes,tokenization_window,In scGPT vocab and expressed (freq=0.387) but expression rank outside top-512 in sampled cells
+GRIN2A,yes,0.4860,223,0,1056,yes,tokenization_window,In scGPT vocab and expressed (freq=0.486) but expression rank outside top-512 in sampled cells
+SHANK3,yes,0.3796,35,0,1481,yes,tokenization_window,In scGPT vocab and expressed (freq=0.380) but expression rank outside top-512 in sampled cells
+HOMER1,yes,0.4035,167,0,1386,yes,tokenization_window,In scGPT vocab and expressed (freq=0.403) but expression rank outside top-512 in sampled cells
+APP,yes,0.9149,430,0,263,yes,tokenization_window,In scGPT vocab and expressed (freq=0.915) but expression rank outside top-512 in sampled cells
+NEGR1,no,0.7314,278,82,593,yes,succeeded,Gene tokenized successfully; appeared in 82 of 500 sampled cells' top-512 windows
+NLGN1,no,0.8931,380,4,302,yes,succeeded,Gene tokenized successfully; appeared in 4 of 500 sampled cells' top-512 windows
+TCF4,yes,0.9476,440,0,204,yes,tokenization_window,In scGPT vocab and expressed (freq=0.948) but expression rank outside top-512 in sampled cells
+MAPT,yes,0.8923,370,0,303,yes,tokenization_window,In scGPT vocab and expressed (freq=0.892) but expression rank outside top-512 in sampled cells
+FOXO3,yes,0.7072,276,0,637,yes,tokenization_window,In scGPT vocab and expressed (freq=0.707) but expression rank outside top-512 in sampled cells
+CREB1,no,0.4931,150,17,1027,yes,succeeded,Gene tokenized successfully; appeared in 17 of 500 sampled cells' top-512 windows
+FMR1,yes,0.3028,68,0,1788,yes,tokenization_window,In scGPT vocab and expressed (freq=0.303) but expression rank outside top-512 in sampled cells
+SYN1,yes,0.2617,30,0,1953,yes,tokenization_window,In scGPT vocab and expressed (freq=0.262) but expression rank outside top-512 in sampled cells
+SCN1A,no,0.4355,185,17,1258,yes,succeeded,Gene tokenized successfully; appeared in 17 of 500 sampled cells' top-512 windows
+SLC6A4,yes,0.0176,1,0,3324,yes,biological_absence,Near-zero expression in DLPFC (freq=0.0176); gene expressed in <2% of cells
+COMT,yes,0.3523,73,0,1590,yes,tokenization_window,In scGPT vocab and expressed (freq=0.352) but expression rank outside top-512 in sampled cells

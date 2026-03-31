@@ -1,0 +1,657 @@
+{
+  "metadata": {
+    "analysis": "Revision C4: Variance-matched null model",
+    "date": "2026-03-31 12:50:19",
+    "description": "Post-hoc analysis stratifying the existing 44 control genes by perturbation effect variability (std_shift) within each expression-frequency bin. Provides a proxy for variance matching when raw h5ad expression variance data is not available. Also generates a template script for full variance-matched control selection when GPU access and h5ad data are available.",
+    "n_intelligence_genes": 21,
+    "n_controls_with_std": 44,
+    "fdr_threshold": 0.05
+  },
+  "summary": {
+    "n_controls_with_std": 44,
+    "n_existing_controls": 11,
+    "freq_shift_correlation": 0.5618827138571896,
+    "bin_median_std_shift": {
+      "0": 0.003500824263277392,
+      "1": 0.005864831514646126,
+      "2": 0.006579851435099055,
+      "3": 0.006389292443361817,
+      "4": 0.006370739907272417
+    },
+    "n_fdr_sig_combined": 0,
+    "n_fdr_sig_low_variance": 0,
+    "n_fdr_sig_high_variance": 0
+  },
+  "gene_results": {
+    "CADM2": {
+      "mean_shift": 0.019627257929009906,
+      "bin": 4,
+      "n_cells": 472,
+      "expression_frequency": 0.9831280128548473,
+      "combined_null": {
+        "n_null": 11,
+        "n_exceeding": 1,
+        "empirical_p": 0.16666666666666666,
+        "null_mean": 0.016409388221918567,
+        "null_std": 0.0019918801378045383,
+        "fdr_q": 0.4375
+      },
+      "low_variance_null": {
+        "n_null": 5,
+        "n_exceeding": 1,
+        "empirical_p": 0.3333333333333333,
+        "null_mean": 0.0177005300452344,
+        "null_std": 0.0019808072921589977,
+        "fdr_q": 0.875
+      },
+      "high_variance_null": {
+        "n_null": 4,
+        "n_exceeding": 0,
+        "empirical_p": 0.2,
+        "null_mean": 0.014929500216453118,
+        "null_std": 0.0012996299389649631,
+        "fdr_q": 0.38181818181818183
+      }
+    },
+    "GRIN2A": {
+      "mean_shift": 0.01895786881981409,
+      "bin": 2,
+      "n_cells": 223,
+      "expression_frequency": 0.4859846455990002,
+      "combined_null": {
+        "n_null": 14,
+        "n_exceeding": 0,
+        "empirical_p": 0.06666666666666667,
+        "null_mean": 0.014566559141484898,
+        "null_std": 0.0024426244492092154,
+        "fdr_q": 0.375
+      },
+      "low_variance_null": {
+        "n_null": 7,
+        "n_exceeding": 0,
+        "empirical_p": 0.125,
+        "null_mean": 0.015237564341177522,
+        "null_std": 0.0026708360496431266,
+        "fdr_q": 0.375
+      },
+      "high_variance_null": {
+        "n_null": 7,
+        "n_exceeding": 0,
+        "empirical_p": 0.125,
+        "null_mean": 0.013895553941792278,
+        "null_std": 0.001974580269233659,
+        "fdr_q": 0.38181818181818183
+      }
+    },
+    "CAMK2A": {
+      "mean_shift": 0.018922281649804886,
+      "bin": 1,
+      "n_cells": 155,
+      "expression_frequency": 0.38707373683270846,
+      "combined_null": {
+        "n_null": 23,
+        "n_exceeding": 0,
+        "empirical_p": 0.041666666666666664,
+        "null_mean": 0.013494576904310768,
+        "null_std": 0.002981923321547166,
+        "fdr_q": 0.375
+      },
+      "low_variance_null": {
+        "n_null": 10,
+        "n_exceeding": 0,
+        "empirical_p": 0.09090909090909091,
+        "null_mean": 0.01233188489904516,
+        "null_std": 0.0033409642508428427,
+        "fdr_q": 0.375
+      },
+      "high_variance_null": {
+        "n_null": 9,
+        "n_exceeding": 0,
+        "empirical_p": 0.1,
+        "null_mean": 0.014455280119856346,
+        "null_std": 0.0019862921313655996,
+        "fdr_q": 0.38181818181818183
+      }
+    },
+    "MEF2C": {
+      "mean_shift": 0.0184425319786425,
+      "bin": 2,
+      "n_cells": 216,
+      "expression_frequency": 0.5116050705231209,
+      "combined_null": {
+        "n_null": 14,
+        "n_exceeding": 0,
+        "empirical_p": 0.06666666666666667,
+        "null_mean": 0.014566559141484898,
+        "null_std": 0.0024426244492092154,
+        "fdr_q": 0.375
+      },
+      "low_variance_null": {
+        "n_null": 7,
+        "n_exceeding": 0,
+        "empirical_p": 0.125,
+        "null_mean": 0.015237564341177522,
+        "null_std": 0.0026708360496431266,
+        "fdr_q": 0.375
+      },
+      "high_variance_null": {
+        "n_null": 7,
+        "n_exceeding": 0,
+        "empirical_p": 0.125,
+        "null_mean": 0.013895553941792278,
+        "null_std": 0.001974580269233659,
+        "fdr_q": 0.38181818181818183
+      }
+    },
+    "APP": {
+      "mean_shift": 0.018320430156796477,
+      "bin": 3,
+      "n_cells": 430,
+      "expression_frequency": 0.9149259060881986,
+      "combined_null": {
+        "n_null": 9,
+        "n_exceeding": 2,
+        "empirical_p": 0.3,
+        "null_mean": 0.01633617004189097,
+        "null_std": 0.0021839551987806014,
+        "fdr_q": 0.63
+      },
+      "low_variance_null": {
+        "n_null": 4,
+        "n_exceeding": 2,
+        "empirical_p": 0.6,
+        "null_mean": 0.017822209012344003,
+        "null_std": 0.0021978325813522574,
+        "fdr_q": 0.9545454545454545
+      },
+      "high_variance_null": {
+        "n_null": 4,
+        "n_exceeding": 0,
+        "empirical_p": 0.2,
+        "null_mean": 0.014929500216453118,
+        "null_std": 0.0012996299389649631,
+        "fdr_q": 0.38181818181818183
+      }
+    },
+    "SCN1A": {
+      "mean_shift": 0.01792155439789231,
+      "bin": 1,
+      "n_cells": 185,
+      "expression_frequency": 0.435457953936797,
+      "combined_null": {
+        "n_null": 23,
+        "n_exceeding": 2,
+        "empirical_p": 0.125,
+        "null_mean": 0.013494576904310768,
+        "null_std": 0.002981923321547166,
+        "fdr_q": 0.375
+      },
+      "low_variance_null": {
+        "n_null": 10,
+        "n_exceeding": 0,
+        "empirical_p": 0.09090909090909091,
+        "null_mean": 0.01233188489904516,
+        "null_std": 0.0033409642508428427,
+        "fdr_q": 0.375
+      },
+      "high_variance_null": {
+        "n_null": 9,
+        "n_exceeding": 1,
+        "empirical_p": 0.2,
+        "null_mean": 0.014455280119856346,
+        "null_std": 0.0019862921313655996,
+        "fdr_q": 0.38181818181818183
+      }
+    },
+    "NRXN1": {
+      "mean_shift": 0.017791572942773337,
+      "bin": 2,
+      "n_cells": 241,
+      "expression_frequency": 0.6660417782538832,
+      "combined_null": {
+        "n_null": 14,
+        "n_exceeding": 2,
+        "empirical_p": 0.2,
+        "null_mean": 0.014566559141484898,
+        "null_std": 0.0024426244492092154,
+        "fdr_q": 0.4666666666666667
+      },
+      "low_variance_null": {
+        "n_null": 7,
+        "n_exceeding": 2,
+        "empirical_p": 0.375,
+        "null_mean": 0.015237564341177522,
+        "null_std": 0.0026708360496431266,
+        "fdr_q": 0.875
+      },
+      "high_variance_null": {
+        "n_null": 7,
+        "n_exceeding": 0,
+        "empirical_p": 0.125,
+        "null_mean": 0.013895553941792278,
+        "null_std": 0.001974580269233659,
+        "fdr_q": 0.38181818181818183
+      }
+    },
+    "GRIN2B": {
+      "mean_shift": 0.017583773610341615,
+      "bin": 1,
+      "n_cells": 181,
+      "expression_frequency": 0.4293876093554722,
+      "combined_null": {
+        "n_null": 23,
+        "n_exceeding": 2,
+        "empirical_p": 0.125,
+        "null_mean": 0.013494576904310768,
+        "null_std": 0.002981923321547166,
+        "fdr_q": 0.375
+      },
+      "low_variance_null": {
+        "n_null": 10,
+        "n_exceeding": 0,
+        "empirical_p": 0.09090909090909091,
+        "null_mean": 0.01233188489904516,
+        "null_std": 0.0033409642508428427,
+        "fdr_q": 0.375
+      },
+      "high_variance_null": {
+        "n_null": 9,
+        "n_exceeding": 1,
+        "empirical_p": 0.2,
+        "null_mean": 0.014455280119856346,
+        "null_std": 0.0019862921313655996,
+        "fdr_q": 0.38181818181818183
+      }
+    },
+    "HOMER1": {
+      "mean_shift": 0.017466272065739433,
+      "bin": 1,
+      "n_cells": 167,
+      "expression_frequency": 0.40349937511158723,
+      "combined_null": {
+        "n_null": 23,
+        "n_exceeding": 2,
+        "empirical_p": 0.125,
+        "null_mean": 0.013494576904310768,
+        "null_std": 0.002981923321547166,
+        "fdr_q": 0.375
+      },
+      "low_variance_null": {
+        "n_null": 10,
+        "n_exceeding": 0,
+        "empirical_p": 0.09090909090909091,
+        "null_mean": 0.01233188489904516,
+        "null_std": 0.0033409642508428427,
+        "fdr_q": 0.375
+      },
+      "high_variance_null": {
+        "n_null": 9,
+        "n_exceeding": 1,
+        "empirical_p": 0.2,
+        "null_mean": 0.014455280119856346,
+        "null_std": 0.0019862921313655996,
+        "fdr_q": 0.38181818181818183
+      }
+    },
+    "NEGR1": {
+      "mean_shift": 0.016624006650430692,
+      "bin": 3,
+      "n_cells": 278,
+      "expression_frequency": 0.7313872522763792,
+      "combined_null": {
+        "n_null": 9,
+        "n_exceeding": 3,
+        "empirical_p": 0.4,
+        "null_mean": 0.01633617004189097,
+        "null_std": 0.0021839551987806014,
+        "fdr_q": 0.7636363636363637
+      },
+      "low_variance_null": {
+        "n_null": 4,
+        "n_exceeding": 3,
+        "empirical_p": 0.8,
+        "null_mean": 0.017822209012344003,
+        "null_std": 0.0021978325813522574,
+        "fdr_q": 0.9545454545454545
+      },
+      "high_variance_null": {
+        "n_null": 4,
+        "n_exceeding": 0,
+        "empirical_p": 0.2,
+        "null_mean": 0.014929500216453118,
+        "null_std": 0.0012996299389649631,
+        "fdr_q": 0.38181818181818183
+      }
+    },
+    "SLC6A4": {
+      "mean_shift": 0.01613074541091919,
+      "bin": 0,
+      "n_cells": 1,
+      "expression_frequency": 0.01758614533119086,
+      "combined_null": {
+        "n_null": 7,
+        "n_exceeding": 0,
+        "empirical_p": 0.125,
+        "null_mean": 0.009511018699584189,
+        "null_std": 0.0041981643107870245,
+        "fdr_q": 0.375
+      },
+      "low_variance_null": {
+        "n_null": 11,
+        "n_exceeding": 0,
+        "empirical_p": 0.08333333333333333,
+        "null_mean": 0.011422287151944573,
+        "null_std": 0.004291968270899086,
+        "fdr_q": 0.375
+      },
+      "high_variance_null": {
+        "n_null": 10,
+        "n_exceeding": 1,
+        "empirical_p": 0.18181818181818182,
+        "null_mean": 0.014453161365335648,
+        "null_std": 0.0018843728904064814,
+        "fdr_q": 0.38181818181818183
+      }
+    },
+    "NLGN1": {
+      "mean_shift": 0.01598416362938128,
+      "bin": 3,
+      "n_cells": 380,
+      "expression_frequency": 0.8931440814140332,
+      "combined_null": {
+        "n_null": 9,
+        "n_exceeding": 5,
+        "empirical_p": 0.6,
+        "null_mean": 0.01633617004189097,
+        "null_std": 0.0021839551987806014,
+        "fdr_q": 0.9
+      },
+      "low_variance_null": {
+        "n_null": 4,
+        "n_exceeding": 3,
+        "empirical_p": 0.8,
+        "null_mean": 0.017822209012344003,
+        "null_std": 0.0021978325813522574,
+        "fdr_q": 0.9545454545454545
+      },
+      "high_variance_null": {
+        "n_null": 4,
+        "n_exceeding": 1,
+        "empirical_p": 0.4,
+        "null_mean": 0.014929500216453118,
+        "null_std": 0.0012996299389649631,
+        "fdr_q": 0.6461538461538462
+      }
+    },
+    "TCF4": {
+      "mean_shift": 0.015230617739937523,
+      "bin": 4,
+      "n_cells": 440,
+      "expression_frequency": 0.9475986430994465,
+      "combined_null": {
+        "n_null": 11,
+        "n_exceeding": 8,
+        "empirical_p": 0.75,
+        "null_mean": 0.016409388221918567,
+        "null_std": 0.0019918801378045383,
+        "fdr_q": 0.9583333333333334
+      },
+      "low_variance_null": {
+        "n_null": 5,
+        "n_exceeding": 4,
+        "empirical_p": 0.8333333333333334,
+        "null_mean": 0.0177005300452344,
+        "null_std": 0.0019808072921589977,
+        "fdr_q": 0.9545454545454545
+      },
+      "high_variance_null": {
+        "n_null": 4,
+        "n_exceeding": 2,
+        "empirical_p": 0.6,
+        "null_mean": 0.014929500216453118,
+        "null_std": 0.0012996299389649631,
+        "fdr_q": 0.84
+      }
+    },
+    "FOXO3": {
+      "mean_shift": 0.014868919616160185,
+      "bin": 2,
+      "n_cells": 276,
+      "expression_frequency": 0.7071951437243349,
+      "combined_null": {
+        "n_null": 14,
+        "n_exceeding": 6,
+        "empirical_p": 0.4666666666666667,
+        "null_mean": 0.014566559141484898,
+        "null_std": 0.0024426244492092154,
+        "fdr_q": 0.8166666666666668
+      },
+      "low_variance_null": {
+        "n_null": 7,
+        "n_exceeding": 4,
+        "empirical_p": 0.625,
+        "null_mean": 0.015237564341177522,
+        "null_std": 0.0026708360496431266,
+        "fdr_q": 0.9545454545454545
+      },
+      "high_variance_null": {
+        "n_null": 7,
+        "n_exceeding": 2,
+        "empirical_p": 0.375,
+        "null_mean": 0.013895553941792278,
+        "null_std": 0.001974580269233659,
+        "fdr_q": 0.6461538461538462
+      }
+    },
+    "BDNF": {
+      "mean_shift": 0.014018572610000083,
+      "bin": 2,
+      "n_cells": 174,
+      "expression_frequency": 0.5190144617032673,
+      "combined_null": {
+        "n_null": 14,
+        "n_exceeding": 7,
+        "empirical_p": 0.5333333333333333,
+        "null_mean": 0.014566559141484898,
+        "null_std": 0.0024426244492092154,
+        "fdr_q": 0.8615384615384615
+      },
+      "low_variance_null": {
+        "n_null": 7,
+        "n_exceeding": 4,
+        "empirical_p": 0.625,
+        "null_mean": 0.015237564341177522,
+        "null_std": 0.0026708360496431266,
+        "fdr_q": 0.9545454545454545
+      },
+      "high_variance_null": {
+        "n_null": 7,
+        "n_exceeding": 3,
+        "empirical_p": 0.5,
+        "null_mean": 0.013895553941792278,
+        "null_std": 0.001974580269233659,
+        "fdr_q": 0.75
+      }
+    },
+    "MAPT": {
+      "mean_shift": 0.013814136627558116,
+      "bin": 3,
+      "n_cells": 370,
+      "expression_frequency": 0.8922513836814855,
+      "combined_null": {
+        "n_null": 9,
+        "n_exceeding": 8,
+        "empirical_p": 0.9,
+        "null_mean": 0.01633617004189097,
+        "null_std": 0.0021839551987806014,
+        "fdr_q": 0.9583333333333334
+      },
+      "low_variance_null": {
+        "n_null": 4,
+        "n_exceeding": 4,
+        "empirical_p": 1.0,
+        "null_mean": 0.017822209012344003,
+        "null_std": 0.0021978325813522574,
+        "fdr_q": 1.0
+      },
+      "high_variance_null": {
+        "n_null": 4,
+        "n_exceeding": 3,
+        "empirical_p": 0.8,
+        "null_mean": 0.014929500216453118,
+        "null_std": 0.0012996299389649631,
+        "fdr_q": 0.9882352941176471
+      }
+    },
+    "CREB1": {
+      "mean_shift": 0.012409844795862834,
+      "bin": 2,
+      "n_cells": 150,
+      "expression_frequency": 0.4931262274593822,
+      "combined_null": {
+        "n_null": 14,
+        "n_exceeding": 11,
+        "empirical_p": 0.8,
+        "null_mean": 0.014566559141484898,
+        "null_std": 0.0024426244492092154,
+        "fdr_q": 0.9583333333333334
+      },
+      "low_variance_null": {
+        "n_null": 7,
+        "n_exceeding": 6,
+        "empirical_p": 0.875,
+        "null_mean": 0.015237564341177522,
+        "null_std": 0.0026708360496431266,
+        "fdr_q": 0.9545454545454545
+      },
+      "high_variance_null": {
+        "n_null": 7,
+        "n_exceeding": 5,
+        "empirical_p": 0.75,
+        "null_mean": 0.013895553941792278,
+        "null_std": 0.001974580269233659,
+        "fdr_q": 0.984375
+      }
+    },
+    "FMR1": {
+      "mean_shift": 0.01091100976747625,
+      "bin": 1,
+      "n_cells": 68,
+      "expression_frequency": 0.3028030708802,
+      "combined_null": {
+        "n_null": 23,
+        "n_exceeding": 20,
+        "empirical_p": 0.875,
+        "null_mean": 0.013494576904310768,
+        "null_std": 0.002981923321547166,
+        "fdr_q": 0.9583333333333334
+      },
+      "low_variance_null": {
+        "n_null": 10,
+        "n_exceeding": 8,
+        "empirical_p": 0.8181818181818182,
+        "null_mean": 0.01233188489904516,
+        "null_std": 0.0033409642508428427,
+        "fdr_q": 0.9545454545454545
+      },
+      "high_variance_null": {
+        "n_null": 9,
+        "n_exceeding": 9,
+        "empirical_p": 1.0,
+        "null_mean": 0.014455280119856346,
+        "null_std": 0.0019862921313655996,
+        "fdr_q": 1.0
+      }
+    },
+    "SYN1": {
+      "mean_shift": 0.009434258937835694,
+      "bin": 1,
+      "n_cells": 30,
+      "expression_frequency": 0.26173897518300304,
+      "combined_null": {
+        "n_null": 23,
+        "n_exceeding": 21,
+        "empirical_p": 0.9166666666666666,
+        "null_mean": 0.013494576904310768,
+        "null_std": 0.002981923321547166,
+        "fdr_q": 0.9583333333333334
+      },
+      "low_variance_null": {
+        "n_null": 10,
+        "n_exceeding": 8,
+        "empirical_p": 0.8181818181818182,
+        "null_mean": 0.01233188489904516,
+        "null_std": 0.0033409642508428427,
+        "fdr_q": 0.9545454545454545
+      },
+      "high_variance_null": {
+        "n_null": 9,
+        "n_exceeding": 9,
+        "empirical_p": 1.0,
+        "null_mean": 0.014455280119856346,
+        "null_std": 0.0019862921313655996,
+        "fdr_q": 1.0
+      }
+    },
+    "COMT": {
+      "mean_shift": 0.009359199706822226,
+      "bin": 1,
+      "n_cells": 73,
+      "expression_frequency": 0.35225852526334583,
+      "combined_null": {
+        "n_null": 23,
+        "n_exceeding": 21,
+        "empirical_p": 0.9166666666666666,
+        "null_mean": 0.013494576904310768,
+        "null_std": 0.002981923321547166,
+        "fdr_q": 0.9583333333333334
+      },
+      "low_variance_null": {
+        "n_null": 10,
+        "n_exceeding": 8,
+        "empirical_p": 0.8181818181818182,
+        "null_mean": 0.01233188489904516,
+        "null_std": 0.0033409642508428427,
+        "fdr_q": 0.9545454545454545
+      },
+      "high_variance_null": {
+        "n_null": 9,
+        "n_exceeding": 9,
+        "empirical_p": 1.0,
+        "null_mean": 0.014455280119856346,
+        "null_std": 0.0019862921313655996,
+        "fdr_q": 1.0
+      }
+    },
+    "SHANK3": {
+      "mean_shift": 0.006302297115325928,
+      "bin": 1,
+      "n_cells": 35,
+      "expression_frequency": 0.3795750758793073,
+      "combined_null": {
+        "n_null": 23,
+        "n_exceeding": 22,
+        "empirical_p": 0.9583333333333334,
+        "null_mean": 0.013494576904310768,
+        "null_std": 0.002981923321547166,
+        "fdr_q": 0.9583333333333334
+      },
+      "low_variance_null": {
+        "n_null": 10,
+        "n_exceeding": 9,
+        "empirical_p": 0.9090909090909091,
+        "null_mean": 0.01233188489904516,
+        "null_std": 0.0033409642508428427,
+        "fdr_q": 0.9545454545454545
+      },
+      "high_variance_null": {
+        "n_null": 9,
+        "n_exceeding": 9,
+        "empirical_p": 1.0,
+        "null_mean": 0.014455280119856346,
+        "null_std": 0.0019862921313655996,
+        "fdr_q": 1.0
+      }
+    }
+  }
+}

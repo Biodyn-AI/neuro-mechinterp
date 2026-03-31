@@ -1,0 +1,8 @@
+marker_based,astrocyte,endothelial cell,immune,macrophage,mural cell,neuron,other
+astrocyte,717,0,0,0,1,64,0
+macrophage,0,0,1,7,0,0,2
+microglial cell,11,1,39,287,0,1,49
+mural cell,9,3,0,0,0,5,1
+neuron,2130,0,0,0,0,1833,5
+oligodendrocyte,3046,83,1,4,0,2800,93
+other,1,0,8,0,0,0,0
